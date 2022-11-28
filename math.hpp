@@ -19,6 +19,7 @@
 #include "math/box.hpp"
 #include "math/quaternion.hpp"
 #include "math/sphere.hpp"
+#include "math/random.hpp"
 
 namespace malatindez::math
 {

@@ -226,11 +226,11 @@ namespace malatindez::math
     template <AnyVec T, Primitive U>
     [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> max(T const &left, U const max) noexcept;
 
-    template <AnyVec T>
-    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> min(T const &left, T const &min) noexcept;
+    template <AnyVec T, AnyVec U>
+    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> min(T const &left, U const &min) noexcept requires(T::size == U::size);
 
-    template <AnyVec T>
-    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> max(T const &left, T const &max) noexcept;
+    template <AnyVec T, AnyVec U>
+    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> max(T const &left, U const &max) noexcept requires(T::size == U::size);
 
     template <AnyVec T>
     [[nodiscard]] constexpr std::remove_const_t<typename T::type> distance(T const &left, T const &right) noexcept;

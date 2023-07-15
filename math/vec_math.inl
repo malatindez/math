@@ -805,8 +805,8 @@ namespace malatindez::math
         return rv;
     }
 
-    template <AnyVec T>
-    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> min(T const &left, T const &right) noexcept
+    template <AnyVec T, AnyVec U>
+    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> min(T const &left, U const &right) noexcept
     {
         vec<T::size, std::remove_const_t<typename T::type>> rv;
         for (size_t i = 0; i < T::size; i++)
@@ -816,8 +816,8 @@ namespace malatindez::math
         return rv;
     }
 
-    template <AnyVec T>
-    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> max(T const &left, T const &right) noexcept
+    template <AnyVec T, AnyVec U>
+    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> max(T const &left, U const &right) noexcept
     {
         vec<T::size, std::remove_const_t<typename T::type>> rv;
         for (size_t i = 0; i < T::size; i++)
@@ -827,8 +827,8 @@ namespace malatindez::math
         return rv;
     }
 
-    template <AnyVec T>
-    constexpr void rmin(T &left, T const &max) noexcept
+    template <AnyVec T, AnyVec U>
+    constexpr void rmin(T &left, U const &max) noexcept
     {
         for (size_t i = 0; i < T::size; i++)
         {
@@ -836,8 +836,8 @@ namespace malatindez::math
         }
     }
 
-    template <AnyVec T>
-    constexpr void rmax(T &left, T const &min) noexcept
+    template <AnyVec T, AnyVec U>
+    constexpr void rmax(T &left, U const &min) noexcept
     {
         for (size_t i = 0; i < T::size; i++)
         {

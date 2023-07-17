@@ -4,39 +4,42 @@
 
 namespace malatindez::math
 {
-    struct Box
+    template<typename T>
+    struct TBox
     {
-        vec3 min;
-        vec3 max;
+        using vector3 = vec<3, T>;
+        vector3 min;
+        vector3 max;
 
         static constexpr float Inf = std::numeric_limits<float>::infinity();
-        static constexpr Box empty() { return  { vec3{ Inf, Inf, Inf }, vec3{ -Inf, -Inf, -Inf } }; }
-        static constexpr Box unit() { return  { vec3{ -1.f, -1.f, -1.f }, vec3{ 1.f, 1.f, 1.f } }; }
+        static constexpr TBox empty() { return  { vector3{ Inf, Inf, Inf }, vector3{ -Inf, -Inf, -Inf } }; }
+        static constexpr TBox unit() { return  { vector3{ -1.f, -1.f, -1.f }, vector3{ 1.f, 1.f, 1.f } }; }
 
-        vec3 size() const { return max - min; }
-        vec3 center() const { return (min + max) / 2.f; }
+        vector3 size() const { return max - min; }
+        vector3 center() const { return (min + max) / 2.f; }
         float radius() const { return length(size()) / 2.f; }
 
         void reset()
         {
             constexpr float maxf = std::numeric_limits<float>::max();
-            min = vec3{ maxf , maxf , maxf };
+            min = vector3{ maxf , maxf , maxf };
             max = -min;
         }
 
-        void expand(const Box &other)
+        template<typename U>
+        void expand(const TBox<U> &other)
         {
             expand(other.min);
             expand(other.max);
         }
 
-        void expand(const vec3 &point)
+        void expand(const vector3 &point)
         {
             min = math::min(min, point);
             max = math::max(max, point);
         }
 
-        bool contains(const vec3 &P)
+        bool contains(const vector3 &P)
         {
             return
                 min[0] <= P[0] && P[0] <= max[0] &&
@@ -47,7 +50,7 @@ namespace malatindez::math
         {
             float tmin, tmax, tymin, tymax, tzmin, tzmax;
 
-            auto const &bounds = reinterpret_cast<std::array<vec3, 2> const &>(*this);
+            auto const &bounds = reinterpret_cast<std::array<vector3, 2> const &>(*this);
 
             tmin = (bounds[ray.sign()[0]].x - ray.origin().x) * ray.inv_direction().x;
             tmax = (bounds[1ll - ray.sign()[0]].x - ray.origin().x) * ray.inv_direction().x;
@@ -89,7 +92,7 @@ namespace malatindez::math
         {
             float tmin, tmax, tymin, tymax, tzmin, tzmax;
 
-            auto const &bounds = reinterpret_cast<std::array<vec3, 2> const &>(*this);
+            auto const &bounds = reinterpret_cast<std::array<vector3, 2> const &>(*this);
 
             tmin = (bounds[ray.sign()[0]].x - ray.origin().x) * ray.inv_direction().x;
             tmax = (bounds[1ll - ray.sign()[0]].x - ray.origin().x) * ray.inv_direction().x;
@@ -128,4 +131,8 @@ namespace malatindez::math
             return true;
         }
     };
+
+    using Box = TBox<float>;
+    using Boxf = TBox<float>;
+    using Boxd = TBox<double>;
 }

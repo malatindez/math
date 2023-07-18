@@ -15,9 +15,9 @@ namespace malatindez::math
         static constexpr TBox empty() { return  { vector3{ Inf, Inf, Inf }, vector3{ -Inf, -Inf, -Inf } }; }
         static constexpr TBox unit() { return  { vector3{ -1.f, -1.f, -1.f }, vector3{ 1.f, 1.f, 1.f } }; }
 
-        vector3 size() const { return max - min; }
-        vector3 center() const { return (min + max) / 2.f; }
-        float radius() const { return length(size()) / 2.f; }
+        constexpr vector3 size() const { return max - min; }
+        constexpr vector3 center() const { return (min + max) / 2.f; }
+        constexpr float radius() const { return length(size()) / 2.f; }
 
         void reset()
         {
@@ -32,11 +32,11 @@ namespace malatindez::math
             expand(other.min);
             expand(other.max);
         }
-
-        void expand(const vector3 &point)
+        template<AnyVec U>
+        void expand(const U &point) requires(U::size == 3)
         {
-            min = math::min(min, point);
-            max = math::max(max, point);
+            rmin(min, point);
+            rmax(max, point);
         }
 
         bool contains(const vector3 &P)

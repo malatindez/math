@@ -4,25 +4,25 @@
 
 namespace malatindez::math
 {
-    template<typename T>
+    template<Primitive T>
     struct TBox
     {
         using vector3 = vec<3, T>;
         vector3 min;
         vector3 max;
 
-        static constexpr float Inf = std::numeric_limits<float>::infinity();
+        static constexpr T Inf = std::numeric_limits<T>::infinity();
         static constexpr TBox empty() { return  { vector3{ Inf, Inf, Inf }, vector3{ -Inf, -Inf, -Inf } }; }
         static constexpr TBox unit() { return  { vector3{ -1.f, -1.f, -1.f }, vector3{ 1.f, 1.f, 1.f } }; }
 
         constexpr vector3 size() const { return max - min; }
         constexpr vector3 center() const { return (min + max) / 2.f; }
-        constexpr float radius() const { return length(size()) / 2.f; }
+        constexpr T radius() const { return length(size()) / 2.f; }
 
         void reset()
         {
-            constexpr float maxf = std::numeric_limits<float>::max();
-            min = vector3{ maxf , maxf , maxf };
+            constexpr T maxT = std::numeric_limits<T>::max();
+            min = vector3{ maxT , maxT , maxT };
             max = -min;
         }
 
@@ -46,7 +46,7 @@ namespace malatindez::math
                 min[1] <= P[1] && P[1] <= max[1] &&
                 min[2] <= P[2] && P[2] <= max[2];
         }
-        inline bool Intersect(Ray const &ray, float &nearest_t) const
+        inline bool Intersect(Ray const &ray, T &nearest_t) const
         {
             float tmin, tmax, tymin, tymax, tzmin, tzmax;
 

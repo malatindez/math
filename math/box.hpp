@@ -39,7 +39,7 @@ namespace malatindez::math
             rmax(max, point);
         }
 
-        bool contains(const vector3 &P)
+        bool contains(const vector3 &P) const
         {
             return
                 min[0] <= P[0] && P[0] <= max[0] &&

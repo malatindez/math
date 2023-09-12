@@ -1,0 +1,13 @@
+<map id="mal_math::angle" name="mal_math::angle">
+<area shape="rect" id="Node000001" title="Computes the angle (or magnitude) of a quaternion." alt="" coords="5,104,114,130"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a6e7fa1a478c0db96bd23647ad1d5a118" title=" " alt="" coords="165,5,263,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,101,113,72,160,40,167,36,170,41,163,44,116,76,79,105"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a280c7762332b780e1c64d757a2dfa8c7" title=" " alt="" coords="162,55,266,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,101,156,83,158,88,103,106"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a1e523742ea66fe6117bfc9e95f297019" title=" " alt="" coords="163,104,265,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,114,147,114,147,120,114,120"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a16d6c0540a171f065334b7fe17a0dd72" title=" " alt="" coords="165,153,263,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="103,128,158,146,156,151,101,133"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="164,203,264,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="79,128,116,158,163,189,170,193,167,198,160,194,113,162,75,132"/>
+</map>

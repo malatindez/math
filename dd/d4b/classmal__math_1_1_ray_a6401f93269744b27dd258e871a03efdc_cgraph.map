@@ -1,0 +1,5 @@
+<map id="mal_math::Ray::SetDirection" name="mal_math::Ray::SetDirection">
+<area shape="rect" id="Node000001" title="Sets a new direction for the ray and updates associated attributes." alt="" coords="5,13,179,39"/>
+<area shape="rect" id="Node000002" href="$dd/d4b/classmal__math_1_1_ray.html#afe2fbd7adf2ec118b042087e3e1f5b1f" title="Updates attributes derived from the ray&#39;s direction." alt="" coords="227,5,400,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,23,211,23,211,28,179,28"/>
+</map>

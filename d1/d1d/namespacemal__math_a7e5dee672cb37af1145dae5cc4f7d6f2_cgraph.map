@@ -1,0 +1,11 @@
+<map id="mal_math::determinant" name="mal_math::determinant">
+<area shape="rect" id="Node000001" title="Calculates the determinant of a square matrix." alt="" coords="5,55,150,80"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a245dd949a6bfab7e377c6dab6ebf6280" title="Calculates the determinant of a square matrix." alt="" coords="198,55,295,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,65,182,65,182,70,150,70"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a4ca4a22c985a535c67c1821c42193f59" title=" " alt="" coords="343,5,454,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,51,341,34,343,39,289,57"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a684065c9e18fa3625d06a8762bff8dd1" title=" " alt="" coords="343,55,454,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="295,65,328,65,328,70,295,70"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a7205ab27aa1028ece0e9ad92fa2ac8e3" title=" " alt="" coords="343,104,454,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="289,78,343,96,341,101,288,84"/>
+</map>

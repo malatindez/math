@@ -1,0 +1,15 @@
+<map id="mal_math::qua&lt; T &gt;" name="mal_math::qua&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Represents a quaternion with primitive type T." alt="" coords="153,421,282,447"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,333,144,358"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,366,140,395,187,418,184,423,137,400,98,371"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="223,5,262,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,47,224,170,209,333,209,358,218,420,212,421,204,359,204,333,219,169,236,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="219,333,346,358"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="248,46,256,119,283,332,278,332,251,120,243,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="315,94,415,120"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="273,38,349,91,346,96,270,42"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,372,228,423,224,419,262,369"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="358,135,289,333,284,332,353,134"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="371,333,472,358"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="380,367,247,423,245,418,378,362"/>
+</map>

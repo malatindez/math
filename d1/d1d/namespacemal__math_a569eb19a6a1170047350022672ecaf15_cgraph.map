@@ -1,0 +1,5 @@
+<map id="mal_math::invert_orthonormal" name="mal_math::invert_orthonormal">
+<area shape="rect" id="Node000001" title="Returns an inverted orthonormal matrix." alt="" coords="5,5,188,31"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a31216fcb3ff8ce34fd5da7d4854ceced" title="Inverts an orthonormal matrix in&#45;place and stores the result in a destination matrix." alt="" coords="236,5,418,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,16,220,16,220,21,188,21"/>
+</map>

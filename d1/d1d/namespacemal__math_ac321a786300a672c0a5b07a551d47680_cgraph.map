@@ -1,0 +1,8 @@
+<map id="mal_math::rmax" name="mal_math::rmax">
+<area shape="rect" id="Node000001" title="Modifies left in&#45;place, setting each element to the maximum of itself and min." alt="" coords="5,5,113,31"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#aef6065b4c161e80e15f71159af8119ce" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="161,5,262,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,16,145,16,145,21,113,21"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a1772c0a8c3a9672ecf7b372fb536e492" title="Returns a new vector with each element being the maximum of the corresponding element in left and min..." alt="" coords="310,5,412,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,24,294,24,294,30,262,29"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="310,12,278,12,278,7,310,7"/>
+</map>

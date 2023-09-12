@@ -1,0 +1,9 @@
+<map id="mal_math::normalize" name="mal_math::normalize">
+<area shape="rect" id="Node000001" title="Normalizes a quaternion." alt="" coords="5,31,138,56"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="186,31,299,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,41,170,41,170,46,138,46"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="348,5,446,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,32,332,26,333,31,300,37"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="347,55,447,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="300,50,332,55,331,60,299,55"/>
+</map>

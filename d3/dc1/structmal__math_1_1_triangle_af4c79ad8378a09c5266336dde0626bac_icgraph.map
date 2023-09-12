@@ -1,0 +1,9 @@
+<map id="mal_math::Triangle::Intersect" name="mal_math::Triangle::Intersect">
+<area shape="rect" id="Node000001" title="Determines if a ray intersects with the triangle using its vertices." alt="" coords="178,71,302,111"/>
+<area shape="rect" id="Node000002" href="$d3/dc1/structmal__math_1_1_triangle.html#a2b3747420339d9b11d7c8f9cede86e6e" title="Determines if a ray intersects with this triangle." alt="" coords="5,5,130,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,67,122,49,124,44,171,62"/>
+<area shape="rect" id="Node000003" href="$d3/dc1/structmal__math_1_1_triangle.html#a5c67412b71f174a92313b79d54b9a1b2" title="Determines if a ray intersects with this triangle and updates intersection details." alt="" coords="5,71,130,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,94,130,94,130,88,162,88"/>
+<area shape="rect" id="Node000004" href="$d3/dc1/structmal__math_1_1_triangle.html#af99f2bd3f4549825492e1908ee61c8c5" title="Determines if a ray intersects with the triangle and updates intersection details." alt="" coords="5,136,130,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,120,124,138,122,133,169,115"/>
+</map>

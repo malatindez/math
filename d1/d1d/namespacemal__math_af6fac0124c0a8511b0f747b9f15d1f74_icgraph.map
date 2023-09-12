@@ -1,0 +1,17 @@
+<map id="mal_math::cross" name="mal_math::cross">
+<area shape="rect" id="Node000001" title="Cross product between quaternion and vector." alt="" coords="377,161,484,187"/>
+<area shape="rect" id="Node000002" href="$d3/dc1/structmal__math_1_1_triangle.html#af4c79ad8378a09c5266336dde0626bac" title="Determines if a ray intersects with the triangle using its vertices." alt="" coords="191,71,316,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,156,328,125,303,114,306,109,330,121,392,151"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#ae75c0f78e391bc79564c5ddc63a74612" title="Generates a look&#45;at matrix for camera positioning." alt="" coords="193,136,314,161"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="361,167,314,160,314,154,362,161"/>
+<area shape="rect" id="Node000007" href="$d1/d1d/namespacemal__math.html#a560421b2c3c74355e7f93e2cecb680cb" title="Quaternion&#45;Vector multiplication." alt="" coords="187,185,320,211"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="362,186,320,191,319,186,361,180"/>
+<area shape="rect" id="Node000008" href="$de/db9/structmal__math_1_1_plane.html#a568a7d2c844bc73f43611217334106f9" title="Updates the plane&#39;s vectors and normal based on two new vectors." alt="" coords="178,235,329,275"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="391,196,330,225,305,236,303,232,328,221,389,191"/>
+<area shape="rect" id="Node000003" href="$d3/dc1/structmal__math_1_1_triangle.html#a2b3747420339d9b11d7c8f9cede86e6e" title="Determines if a ray intersects with this triangle." alt="" coords="5,5,130,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,68,126,49,128,44,180,63"/>
+<area shape="rect" id="Node000004" href="$d3/dc1/structmal__math_1_1_triangle.html#a5c67412b71f174a92313b79d54b9a1b2" title="Determines if a ray intersects with this triangle and updates intersection details." alt="" coords="5,71,130,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="176,94,130,94,130,88,176,88"/>
+<area shape="rect" id="Node000005" href="$d3/dc1/structmal__math_1_1_triangle.html#af99f2bd3f4549825492e1908ee61c8c5" title="Determines if a ray intersects with the triangle and updates intersection details." alt="" coords="5,136,130,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="180,119,128,138,126,133,178,114"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mal_math::squared_length" name="mal_math::squared_length">
+<area shape="rect" id="Node000001" title="Compute the squared length of the given vector." alt="" coords="169,31,330,56"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a7a6006bc3633b22ea823dcb8d893c75a" title="Compute the length (magnitude) of the given vector." alt="" coords="6,5,120,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,33,120,29,121,23,154,28"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#af6d612d4cba91e31876b9a752a2f6509" title="Computes the refraction of a vector given an interface&#39;s normal and an index of refraction." alt="" coords="5,55,121,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,58,122,63,121,57,153,53"/>
+</map>

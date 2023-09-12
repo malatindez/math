@@ -1,0 +1,7 @@
+<map id="mal_math::invert_orthogonal" name="mal_math::invert_orthogonal">
+<area shape="rect" id="Node000001" title="Returns an inverted orthogonal matrix." alt="" coords="5,5,179,31"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a437a31375b8dadbdae42dd2b22d08185" title="Inverts an orthogonal matrix in&#45;place and stores the result in a destination matrix." alt="" coords="227,5,400,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,16,211,16,211,21,179,21"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="448,5,548,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,16,432,16,432,21,400,21"/>
+</map>

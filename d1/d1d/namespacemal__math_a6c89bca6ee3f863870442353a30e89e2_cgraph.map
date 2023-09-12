@@ -1,0 +1,14 @@
+<map id="mal_math::angle" name="mal_math::angle">
+<area shape="rect" id="Node000001" title="Compute the angle between two vectors." alt="" coords="5,55,114,80"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a280c7762332b780e1c64d757a2dfa8c7" title=" " alt="" coords="166,5,270,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,51,159,34,160,39,104,57"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a4d2f468cb836cd1462730c9f8c7e450a" title="Function to clamp a value between a minimum and maximum." alt="" coords="162,55,274,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,65,146,65,146,70,114,70"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="169,104,267,130"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="104,78,160,96,159,101,103,84"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a1772c0a8c3a9672ecf7b372fb536e492" title="Returns a new vector with each element being the maximum of the corresponding element in left and min..." alt="" coords="322,55,424,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="274,65,306,65,306,70,274,70"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#aef6065b4c161e80e15f71159af8119ce" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="472,55,574,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="425,73,457,74,457,79,425,79"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="472,62,440,61,440,56,472,56"/>
+</map>

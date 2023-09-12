@@ -1,0 +1,12 @@
+<map id="mal_math::abs" name="mal_math::abs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="480,31,579,56"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a7ecf5f9fc37450b22180a080b68291ab" title=" " alt="" coords="329,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,35,427,29,428,24,465,30"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a536e0e1ac498d427d7d51bce8ed5e50b" title="Computes the angle (or magnitude) of a quaternion." alt="" coords="324,55,432,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="465,56,433,62,432,56,465,51"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a3e5409e48ad66d42b0f0643bf4591163" title="Rotates a matrix by a given angle around a given axis." alt="" coords="165,55,276,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="308,70,276,70,276,65,308,65"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="247,42,238,36,220,33,204,35,195,40,193,45,198,53,193,56,188,46,191,36,202,30,220,28,240,31,250,37"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#ae2ea884f0e0c63166d344b52a7633934" title="Rotates a 4x4 matrix using a quaternion." alt="" coords="5,55,117,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="149,70,117,70,117,65,149,65"/>
+</map>

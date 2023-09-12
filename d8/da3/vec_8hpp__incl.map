@@ -1,0 +1,61 @@
+<map id="include/math/vec.hpp" name="include/math/vec.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="880,5,1017,31"/>
+<area shape="rect" id="Node000002" href="$d8/d24/math-common_8hpp.html" title=" " alt="" coords="264,79,385,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="879,30,401,84,400,79,879,25"/>
+<area shape="rect" id="Node000010" href="$d4/d44/rvec2_8hpp.html" title="Definitions for the rvec&lt;2, T&gt; specialized template representing 2D vectors with reference&#45;like seman..." alt="" coords="613,79,689,105"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="891,34,704,79,703,74,890,29"/>
+<area shape="rect" id="Node000012" href="$d9/dc3/rvec3_8hpp.html" title="Provides the implementation of a 3D reference vector." alt="" coords="713,79,789,105"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="909,34,793,76,791,70,907,29"/>
+<area shape="rect" id="Node000014" href="$d2/d88/rvec4_8hpp.html" title="Defines a 4&#45;dimensional reference vector struct." alt="" coords="813,79,889,105"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="926,34,873,71,870,67,923,29"/>
+<area shape="rect" id="Node000016" href="$dd/d91/vec2_8hpp.html" title="Defines a 2D vector and provides its operations." alt="" coords="913,79,983,105"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="944,31,942,64,937,63,939,31"/>
+<area shape="rect" id="Node000018" href="$d9/dcd/vec3_8hpp.html" title="Header file for the 3D vector definition." alt="" coords="1008,79,1078,105"/>
+<area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="959,29,1009,68,1006,72,956,34"/>
+<area shape="rect" id="Node000020" href="$dd/dc5/vec4_8hpp.html" title="Contains the definition of the vec&lt;4, T&gt; structure." alt="" coords="1102,79,1173,105"/>
+<area shape="poly" id="edge29_Node000001_Node000020" title=" " alt="" coords="974,29,1089,72,1087,77,972,34"/>
+<area shape="rect" id="Node000022" href="$d4/d02/vecn_8hpp.html" title="Contains the definition of the generic vec&lt;L, T&gt; structure." alt="" coords="1197,79,1267,105"/>
+<area shape="poly" id="edge33_Node000001_Node000022" title=" " alt="" coords="990,29,1182,77,1181,82,989,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,54,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,108,70,155,68,150,266,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="78,153,141,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="289,108,156,152,155,146,287,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="165,153,219,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="303,108,229,147,226,143,301,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="244,153,311,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="319,106,296,141,291,138,314,103"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="336,153,403,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="334,103,356,138,352,141,329,106"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="427,153,491,178"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="348,103,424,143,421,147,346,108"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="514,153,593,178"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="364,103,501,145,499,150,362,108"/>
+<area shape="poly" id="edge10_Node000010_Node000001" title=" " alt="" coords="688,80,889,33,891,38,690,85"/>
+<area shape="rect" id="Node000011" href="$dd/d72/rvec2_8inl.html" title=" " alt="" coords="617,153,685,178"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="647,105,645,137,639,137,641,105"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="655,152,657,120,662,120,660,152"/>
+<area shape="poly" id="edge14_Node000012_Node000001" title=" " alt="" coords="788,77,907,34,909,39,790,82"/>
+<area shape="rect" id="Node000013" href="$d7/d70/rvec3_8inl.html" title=" " alt="" coords="717,153,785,178"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="747,105,745,137,739,137,741,105"/>
+<area shape="poly" id="edge16_Node000013_Node000012" title=" " alt="" coords="755,152,757,120,762,120,760,152"/>
+<area shape="poly" id="edge18_Node000014_Node000001" title=" " alt="" coords="873,76,925,39,929,43,876,81"/>
+<area shape="rect" id="Node000015" href="$d1/d9f/rvec4_8inl.html" title=" " alt="" coords="817,153,885,178"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="847,105,845,137,839,137,841,105"/>
+<area shape="poly" id="edge20_Node000015_Node000014" title=" " alt="" coords="855,152,857,120,862,120,860,152"/>
+<area shape="poly" id="edge22_Node000016_Node000001" title=" " alt="" coords="952,78,954,46,960,46,958,79"/>
+<area shape="rect" id="Node000017" href="$d2/d56/vec2_8inl.html" title=" " alt="" coords="917,153,980,178"/>
+<area shape="poly" id="edge23_Node000016_Node000017" title=" " alt="" coords="944,105,942,137,937,137,939,105"/>
+<area shape="poly" id="edge24_Node000017_Node000016" title=" " alt="" coords="952,152,954,120,960,120,958,152"/>
+<area shape="poly" id="edge26_Node000018_Node000001" title=" " alt="" coords="1032,81,982,42,985,38,1036,77"/>
+<area shape="rect" id="Node000019" href="$d3/dc9/vec3_8inl.html" title=" " alt="" coords="1011,153,1075,178"/>
+<area shape="poly" id="edge27_Node000018_Node000019" title=" " alt="" coords="1039,105,1037,137,1031,137,1033,105"/>
+<area shape="poly" id="edge28_Node000019_Node000018" title=" " alt="" coords="1047,152,1049,120,1054,120,1052,152"/>
+<area shape="poly" id="edge30_Node000020_Node000001" title=" " alt="" coords="1111,81,1001,39,1003,34,1113,76"/>
+<area shape="rect" id="Node000021" href="$da/d28/vec4_8inl.html" title=" " alt="" coords="1106,153,1169,178"/>
+<area shape="poly" id="edge31_Node000020_Node000021" title=" " alt="" coords="1133,105,1131,137,1126,137,1128,105"/>
+<area shape="poly" id="edge32_Node000021_Node000020" title=" " alt="" coords="1142,152,1144,120,1149,120,1147,152"/>
+<area shape="poly" id="edge34_Node000022_Node000001" title=" " alt="" coords="1196,83,1018,38,1019,33,1197,77"/>
+<area shape="rect" id="Node000023" href="$d6/d8c/vecn_8inl.html" title=" " alt="" coords="1201,153,1264,178"/>
+<area shape="poly" id="edge35_Node000022_Node000023" title=" " alt="" coords="1228,105,1226,137,1221,137,1223,105"/>
+<area shape="poly" id="edge36_Node000023_Node000022" title=" " alt="" coords="1236,152,1238,120,1244,120,1242,152"/>
+</map>

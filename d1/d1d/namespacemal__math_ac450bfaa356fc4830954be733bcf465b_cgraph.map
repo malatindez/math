@@ -1,0 +1,9 @@
+<map id="mal_math::unit_vector" name="mal_math::unit_vector">
+<area shape="rect" id="Node000001" title="Compute the unit vector (normalized vector) of the given vector." alt="" coords="5,31,147,56"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="195,31,308,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,41,179,41,179,46,147,46"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="357,5,455,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="308,32,341,26,342,31,309,37"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="356,55,456,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="309,50,341,55,340,60,308,55"/>
+</map>

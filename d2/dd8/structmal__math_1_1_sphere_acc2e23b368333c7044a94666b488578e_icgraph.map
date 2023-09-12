@@ -1,0 +1,5 @@
+<map id="mal_math::Sphere::Hit" name="mal_math::Sphere::Hit">
+<area shape="rect" id="Node000001" title="Determines the intersection point of a Ray with the Sphere." alt="" coords="223,5,363,31"/>
+<area shape="rect" id="Node000002" href="$d2/dd8/structmal__math_1_1_sphere.html#a16d1dfc076a08ee64ff10aff05669da4" title="Determines if a Ray intersects with the Sphere." alt="" coords="5,5,175,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,21,175,21,175,16,207,16"/>
+</map>

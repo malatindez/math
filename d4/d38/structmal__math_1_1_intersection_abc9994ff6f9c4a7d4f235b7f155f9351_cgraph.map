@@ -1,0 +1,7 @@
+<map id="mal_math::Intersection::infinite" name="mal_math::Intersection::infinite">
+<area shape="rect" id="Node000001" title="Creates and returns an intersection with t set to infinity." alt="" coords="5,5,148,46"/>
+<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#afeb1b7d295505944a8c4384d02382b0a" title="Resets the vector to the zero vector." alt="" coords="196,13,325,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,23,180,23,180,28,148,28"/>
+<area shape="rect" id="Node000003" href="$dd/dce/structmal__math_1_1vec.html#a9dd6ae5456770afade593ebb10ee6f76" title="Default constructor." alt="" coords="373,13,495,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,23,357,23,357,28,325,28"/>
+</map>

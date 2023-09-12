@@ -1,0 +1,7 @@
+<map id="mal_math::mat::mat" name="mal_math::mat::mat">
+<area shape="rect" id="Node000001" title="Constructor that initializes the matrix from any data (such as floats, vectors, integers etc...." alt="" coords="5,42,132,68"/>
+<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#a60d04587928247b6e0d6e00a9660b8bf" title="Determines the size of a parameter pack for primitive types." alt="" coords="195,5,339,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,43,179,36,180,41,133,48"/>
+<area shape="rect" id="Node000003" href="$dd/dce/structmal__math_1_1vec.html#a67813dc45c4bd24932563730ea5e7b42" title="Unpacks a single primitive value into the vector data." alt="" coords="180,70,354,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,61,164,66,163,71,132,67"/>
+</map>

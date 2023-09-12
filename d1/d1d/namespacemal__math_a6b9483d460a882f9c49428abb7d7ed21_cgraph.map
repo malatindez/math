@@ -1,0 +1,11 @@
+<map id="mal_math::adj" name="mal_math::adj">
+<area shape="rect" id="Node000001" title="Computes the adjoint (or adjugate) of a square matrix." alt="" coords="5,55,102,80"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a245dd949a6bfab7e377c6dab6ebf6280" title="Calculates the determinant of a square matrix." alt="" coords="150,55,247,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,65,134,65,134,70,102,70"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a4ca4a22c985a535c67c1821c42193f59" title=" " alt="" coords="295,5,406,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,51,293,34,295,39,241,57"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a684065c9e18fa3625d06a8762bff8dd1" title=" " alt="" coords="295,55,406,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,65,280,65,280,70,247,70"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a7205ab27aa1028ece0e9ad92fa2ac8e3" title=" " alt="" coords="295,104,406,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="241,78,295,96,293,101,240,84"/>
+</map>

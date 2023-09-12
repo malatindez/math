@@ -1,0 +1,20 @@
+<map id="mal_math::Intersection" name="mal_math::Intersection">
+<area shape="rect" id="Node000001" title="Represents the data of a ray&#39;s intersection with an object." alt="" coords="5,464,148,489"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,360,81,386"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,401,77,463,72,464,60,402"/>
+<area shape="rect" id="Node000003" href="$dd/dce/structmal__math_1_1vec.html" title=" " alt="" coords="105,360,262,386"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,398,91,465,87,461,158,395"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="49,183,187,208"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,222,78,258,74,277,79,296,93,316,112,333,153,357,151,362,109,337,89,320,74,298,69,277,73,256,94,219"/>
+<area shape="rect" id="Node000008" href="$dd/dce/structmal__math_1_1vec.html" title="Definition of the mathematical vector with fixed size L and type T" alt="" coords="112,271,254,297"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="138,219,157,246,176,269,172,273,153,249,133,223"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="225,183,352,208"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="291,225,281,281,270,311,252,338,236,352,218,362,215,357,233,347,248,334,265,309,276,279,285,224"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="264,220,200,273,196,269,261,216"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="249,5,288,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="264,47,259,81,261,119,272,153,284,181,280,184,267,155,256,120,254,81,259,46"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="320,94,420,120"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="295,39,358,92,354,96,292,43"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="350,133,302,184,298,180,346,129"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="186,313,186,360,181,360,181,313"/>
+</map>

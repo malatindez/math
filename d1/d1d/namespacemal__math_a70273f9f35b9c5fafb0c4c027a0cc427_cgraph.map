@@ -1,0 +1,9 @@
+<map id="mal_math::distance" name="mal_math::distance">
+<area shape="rect" id="Node000001" title="Compute the distance between two vectors." alt="" coords="5,31,130,56"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="178,31,291,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,41,162,41,162,46,130,46"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="340,5,438,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,32,324,26,325,31,292,37"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="339,55,439,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="292,50,324,55,323,60,291,55"/>
+</map>

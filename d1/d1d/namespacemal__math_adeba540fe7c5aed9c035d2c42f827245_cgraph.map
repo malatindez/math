@@ -1,0 +1,5 @@
+<map id="mal_math::mix" name="mal_math::mix">
+<area shape="rect" id="Node000001" title="Mix between two values (same as lerp)." alt="" coords="5,5,106,31"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a07f437ca8815e439ce55ce68165c62ad" title="Linearly interpolate between two values." alt="" coords="154,5,255,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,16,138,16,138,21,106,21"/>
+</map>

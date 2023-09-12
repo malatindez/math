@@ -1,0 +1,7 @@
+<map id="mal_math::Sphere::Hit" name="mal_math::Sphere::Hit">
+<area shape="rect" id="Node000001" title="Determines the intersection point of a Ray with the Sphere." alt="" coords="5,31,146,56"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="195,5,293,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,30,179,25,180,30,147,36"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="194,55,294,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,51,179,56,178,61,146,56"/>
+</map>

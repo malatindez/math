@@ -1,0 +1,20 @@
+<map id="mal_math::Sphere" name="mal_math::Sphere">
+<area shape="rect" id="Node000001" title="A geometric representation of a sphere in 3D space." alt="" coords="144,449,261,474"/>
+<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html" title=" " alt="" coords="61,360,219,386"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,397,196,447,192,450,155,400"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,183,144,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,222,35,258,31,277,36,296,50,316,69,333,110,357,107,362,66,337,46,320,31,298,26,277,30,256,51,219"/>
+<area shape="rect" id="Node000007" href="$dd/dce/structmal__math_1_1vec.html" title="Definition of the mathematical vector with fixed size L and type T" alt="" coords="69,271,211,297"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="94,219,114,246,133,269,128,273,110,249,90,223"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="182,183,309,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,225,239,281,227,311,210,338,194,352,176,362,173,357,191,347,206,334,223,308,233,279,242,224"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="221,220,156,273,153,269,217,216"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="206,5,244,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,47,216,81,217,119,228,153,241,181,236,184,223,155,212,120,210,81,216,46"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="276,94,377,120"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="252,39,314,92,311,96,249,43"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="307,133,258,184,254,180,303,129"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="143,313,143,360,137,360,137,313"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="243,360,288,386"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="250,400,213,450,209,447,245,397"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="mal_math::qua::qua" name="mal_math::qua::qua">
+<area shape="rect" id="Node000001" title="Constructs a quaternion from an angle and rotation axis." alt="" coords="5,132,130,158"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a16d6c0540a171f065334b7fe17a0dd72" title=" " alt="" coords="195,5,293,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,129,121,91,176,48,197,36,199,41,179,52,125,95,84,133"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="358,81,471,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,129,129,108,177,92,219,85,263,82,343,84,343,89,263,87,220,90,178,97,131,113,92,134"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#abe612f1321c4a59501c42f7759feaba4" title="Normalizes a quaternion." alt="" coords="178,107,310,132"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="130,133,162,129,162,134,130,139"/>
+<area shape="rect" id="Node000007" href="$d1/d1d/namespacemal__math.html#a9b55d59f09251b614d8cdc0b7934548d" title="Function to convert degrees to radians." alt="" coords="185,156,303,182"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="130,151,170,156,169,161,130,156"/>
+<area shape="rect" id="Node000008" href="$d1/d1d/namespacemal__math.html#a21797e88329a52f7abd899312ce7b726" title=" " alt="" coords="196,205,292,231"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="98,156,179,192,192,197,190,202,177,197,96,161"/>
+<area shape="rect" id="Node000009" href="$dd/dce/structmal__math_1_1vec.html#a9dd6ae5456770afade593ebb10ee6f76" title="Default constructor." alt="" coords="183,255,305,280"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="82,156,123,197,150,221,179,241,187,246,184,250,176,246,147,225,119,201,78,160"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="520,56,619,82"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="471,82,504,77,505,82,472,88"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="519,105,620,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="472,100,504,105,504,111,471,106"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="310,107,342,102,343,107,311,112"/>
+</map>

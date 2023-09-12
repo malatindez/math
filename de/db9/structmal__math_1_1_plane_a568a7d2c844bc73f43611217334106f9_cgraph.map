@@ -1,0 +1,14 @@
+<map id="mal_math::Plane::update_plane" name="mal_math::Plane::update_plane">
+<area shape="rect" id="Node000001" title="Updates the plane&#39;s vectors and normal based on two new vectors." alt="" coords="5,49,157,89"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#af6fac0124c0a8511b0f747b9f15d1f74" title="Cross product between quaternion and vector." alt="" coords="217,5,325,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,46,205,33,206,38,158,51"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="385,81,498,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,71,370,86,369,92,157,77"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#abe612f1321c4a59501c42f7759feaba4" title="Normalizes a quaternion." alt="" coords="205,107,337,132"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="158,86,206,100,205,105,156,92"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="547,56,646,82"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="498,82,531,77,532,82,499,88"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="546,105,647,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="499,100,531,105,531,111,498,106"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="337,107,369,102,370,107,338,112"/>
+</map>

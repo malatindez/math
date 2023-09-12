@@ -1,0 +1,18 @@
+<map id="mal_math::cos" name="mal_math::cos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="599,104,698,130"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a536e0e1ac498d427d7d51bce8ed5e50b" title="Computes the angle (or magnitude) of a quaternion." alt="" coords="413,29,521,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="611,98,550,69,520,58,522,53,552,64,613,93"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a79f7279123ce203380ce38f98bf661af" title=" " alt="" coords="418,79,516,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="583,110,516,101,516,96,584,105"/>
+<area shape="rect" id="Node000006" href="$d9/d76/structmal__math_1_1qua.html#a76e9e79edda5b35e32e583dc638ad252" title="Constructs a quaternion from an angle and rotation axis." alt="" coords="405,128,529,154"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="584,128,530,135,529,130,583,123"/>
+<area shape="rect" id="Node000007" href="$d1/d1d/namespacemal__math.html#ad3f11e8c21758e34e6d24558f177ddc9" title="Creates a quaternion from Euler angles given in a vector." alt="" coords="382,178,551,219"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="611,140,552,169,526,180,524,175,550,164,609,135"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a3e5409e48ad66d42b0f0643bf4591163" title="Rotates a matrix by a given angle around a given axis." alt="" coords="194,29,305,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,45,305,45,305,40,397,40"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="281,16,270,10,249,8,230,10,219,15,217,20,222,27,218,30,211,21,215,11,228,5,249,3,272,5,284,12"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#ae2ea884f0e0c63166d344b52a7633934" title="Rotates a 4x4 matrix using a quaternion." alt="" coords="5,29,117,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="178,45,117,45,117,40,178,40"/>
+<area shape="rect" id="Node000008" href="$d1/d1d/namespacemal__math.html#a58cd6b68785c108f943056ae8f463d4c" title="Creates a quaternion from individual Euler angles." alt="" coords="165,178,334,219"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="367,201,334,201,334,196,367,196"/>
+</map>

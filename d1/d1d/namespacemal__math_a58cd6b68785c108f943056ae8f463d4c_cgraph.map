@@ -1,0 +1,22 @@
+<map id="mal_math::QuaternionFromEuler" name="mal_math::QuaternionFromEuler">
+<area shape="rect" id="Node000001" title="Creates a quaternion from individual Euler angles." alt="" coords="5,85,175,125"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#aeb9028c5cc109ccc9cab84ec4432429d" title="Computes the pitch from a quaternion." alt="" coords="254,5,361,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,82,222,41,242,34,244,39,224,46,133,86"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#ad3f11e8c21758e34e6d24558f177ddc9" title="Creates a quaternion from Euler angles given in a vector." alt="" coords="223,55,392,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,91,207,86,208,92,175,96"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#a7b56ddaf7701b0ee7ac3e13ce63e8aa8" title="Computes the roll from a quaternion." alt="" coords="259,120,356,146"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="175,113,244,122,243,127,175,118"/>
+<area shape="rect" id="Node000007" href="$d1/d1d/namespacemal__math.html#a7b0f322eff757ae4fe380a81a6c42c63" title="Computes the yaw from a quaternion." alt="" coords="257,169,358,195"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="140,123,224,156,243,162,241,167,222,161,139,128"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a16d6c0540a171f065334b7fe17a0dd72" title=" " alt="" coords="447,39,545,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="392,62,431,57,432,62,393,67"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a21797e88329a52f7abd899312ce7b726" title=" " alt="" coords="448,88,544,114"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="393,84,433,90,432,95,392,90"/>
+<area shape="rect" id="Node000008" href="$d1/d1d/namespacemal__math.html#a4d2f468cb836cd1462730c9f8c7e450a" title="Function to clamp a value between a minimum and maximum." alt="" coords="440,169,552,195"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="358,180,425,180,425,185,358,185"/>
+<area shape="rect" id="Node000009" href="$d1/d1d/namespacemal__math.html#a1772c0a8c3a9672ecf7b372fb536e492" title="Returns a new vector with each element being the maximum of the corresponding element in left and min..." alt="" coords="600,169,703,195"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="553,180,584,180,584,185,553,185"/>
+<area shape="rect" id="Node000010" href="$d1/d1d/namespacemal__math.html#aef6065b4c161e80e15f71159af8119ce" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="751,169,852,195"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="703,188,735,188,735,194,703,193"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="750,176,718,176,718,171,751,171"/>
+</map>

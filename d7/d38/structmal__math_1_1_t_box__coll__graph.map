@@ -1,0 +1,26 @@
+<map id="mal_math::TBox&lt; T &gt;" name="mal_math::TBox&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A templated bounding box structure in 3D." alt="" coords="5,738,144,764"/>
+<area shape="rect" id="Node000002" href="$dc/d19/structmal__math_1_1vec_3_013_00_01_t_01_4.html" title="Represents a 3D vector of a given primitive type." alt="" coords="153,634,295,660"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,671,94,740,91,735,192,667"/>
+<area shape="poly" id="edge15_Node000002_Node000002" title=" " alt="" coords="311,638,321,647,313,656,295,659,294,654,311,651,316,647,308,642"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="493,365,632,391"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="565,406,563,440,556,481,541,522,517,558,493,579,467,597,409,622,349,638,295,646,294,640,348,632,407,617,464,592,490,575,512,555,536,520,551,479,558,440,560,406"/>
+<area shape="rect" id="Node000007" href="$d2/d70/structmal__math_1_1vec_3_012_00_01_t_01_4.html" title="2D vector template class." alt="" coords="308,531,449,556"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="553,406,523,457,501,485,476,509,454,523,429,533,427,528,451,518,473,505,497,481,518,454,549,403"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="189,5,227,31"/>
+<area shape="poly" id="edge16_Node000001_Node000004" title=" " alt="" coords="173,22,124,27,71,40,48,50,30,65,18,83,13,106,13,648,18,675,31,699,62,736,58,739,26,702,13,676,8,649,8,105,13,81,26,61,46,46,70,35,123,22,173,17"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="174,28,142,38,109,53,84,76,77,89,74,106,74,545,77,561,83,576,106,600,138,619,172,631,170,636,136,623,103,605,79,579,72,563,69,545,69,105,72,88,80,72,106,49,140,33,173,23"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="167,365,281,391"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="189,45,172,68,160,95,158,107,160,119,173,193,191,264,222,363,217,365,186,265,168,194,155,120,153,107,155,93,168,65,184,42"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="219,94,319,120"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="227,42,263,92,259,95,223,45"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="243,19,281,26,324,39,365,60,384,75,399,92,431,141,453,186,466,229,471,272,469,315,462,361,433,469,415,505,393,532,388,529,410,502,428,467,456,360,464,315,465,272,460,230,448,188,426,144,395,96,380,79,363,65,322,44,279,31,242,25"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="305,365,418,391"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="243,26,271,37,299,53,319,70,334,93,351,129,363,169,370,209,373,248,371,318,366,365,361,364,366,318,367,248,364,209,358,170,346,131,330,95,315,74,296,57,269,42,241,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="227,406,227,634,221,634,221,406"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="238,131,228,145,217,174,211,206,209,269,215,325,223,364,218,365,210,326,203,270,206,205,212,173,223,142,234,128"/>
+<area shape="poly" id="edge13_Node000008_Node000006" title=" " alt="" coords="276,135,287,194,306,263,331,320,356,363,351,366,327,322,301,265,281,195,270,136"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="349,567,244,636,241,632,346,563"/>
+<area shape="poly" id="edge14_Node000007_Node000007" title=" " alt="" coords="466,535,476,543,468,551,450,554,449,549,465,546,471,544,463,540"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="367,405,380,530,375,530,361,406"/>
+</map>

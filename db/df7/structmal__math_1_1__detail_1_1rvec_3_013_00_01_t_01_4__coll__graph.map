@@ -1,0 +1,16 @@
+<map id="mal_math::_detail::rvec&lt; 3, T &gt;" name="mal_math::_detail::rvec&lt; 3, T &gt;">
+<area shape="rect" id="Node000001" title="3D reference vector template structure." alt="" coords="644,163,768,204"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="688,146,694,139,706,137,717,139,724,145,726,162,721,163,719,148,715,144,706,142,697,144,691,149"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="428,5,566,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,26,622,45,650,72,672,104,700,162,695,164,668,106,646,75,619,50,580,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="435,163,559,204"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="574,181,644,181,644,186,574,186"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="423,228,570,299"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="584,227,650,202,652,207,586,232"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="141,205,265,245"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,232,423,251,422,256,280,238"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="153,288,253,314"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="269,303,332,303,399,297,422,291,423,296,400,302,332,309,269,308"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,288,44,314"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="59,298,152,298,152,304,59,304"/>
+</map>

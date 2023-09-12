@@ -1,0 +1,6 @@
+<map id="mal_math::min" name="mal_math::min">
+<area shape="rect" id="Node000001" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="5,5,107,31"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a1772c0a8c3a9672ecf7b372fb536e492" title="Returns a new vector with each element being the maximum of the corresponding element in left and min..." alt="" coords="155,5,257,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,24,139,24,139,30,107,29"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="154,12,122,12,123,7,154,7"/>
+</map>

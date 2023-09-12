@@ -1,0 +1,7 @@
+<map id="mal_math::mat::unpack_data" name="mal_math::mat::unpack_data">
+<area shape="rect" id="Node000001" title="Recursively unpacks multiple values into the matrix data." alt="" coords="5,31,182,56"/>
+<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#a67813dc45c4bd24932563730ea5e7b42" title="Unpacks a single primitive value into the vector data." alt="" coords="230,5,404,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,31,214,27,215,32,182,36"/>
+<area shape="rect" id="Node000003" href="$dd/dce/structmal__math_1_1vec.html#a9dd6ae5456770afade593ebb10ee6f76" title="Default constructor." alt="" coords="256,55,378,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,50,241,57,240,62,182,56"/>
+</map>

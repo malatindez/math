@@ -1,0 +1,7 @@
+<map id="mal_math::vec&lt; 4, T &gt;::unpack_data" name="mal_math::vec&lt; 4, T &gt;::unpack_data">
+<area shape="rect" id="Node000001" title="Recursively unpacks multiple values into the vector data." alt="" coords="5,23,136,64"/>
+<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#a67813dc45c4bd24932563730ea5e7b42" title="Unpacks a single primitive value into the vector data." alt="" coords="184,5,358,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,33,168,28,169,34,136,38"/>
+<area shape="rect" id="Node000003" href="$dd/dce/structmal__math_1_1vec.html#a9dd6ae5456770afade593ebb10ee6f76" title="Default constructor." alt="" coords="210,55,332,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,49,194,56,194,61,136,54"/>
+</map>

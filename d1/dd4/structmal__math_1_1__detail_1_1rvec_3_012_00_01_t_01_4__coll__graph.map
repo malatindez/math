@@ -1,0 +1,16 @@
+<map id="mal_math::_detail::rvec&lt; 2, T &gt;" name="mal_math::_detail::rvec&lt; 2, T &gt;">
+<area shape="rect" id="Node000001" title="Specialization of rvec for 2D vectors." alt="" coords="644,149,768,189"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="688,131,694,124,706,122,717,124,724,130,726,148,721,148,719,133,715,129,706,127,697,129,691,135"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="428,5,566,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,27,622,45,648,68,670,96,698,147,694,149,665,99,644,72,619,50,580,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="435,149,559,189"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="574,166,644,166,644,172,574,172"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="423,214,570,284"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="584,213,650,187,652,192,586,218"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="141,190,265,231"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,218,423,237,422,242,280,223"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="153,273,253,299"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="269,288,332,289,399,282,422,276,423,281,400,287,332,294,269,294"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,273,44,299"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="59,284,152,284,152,289,59,289"/>
+</map>

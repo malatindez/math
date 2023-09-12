@@ -1,0 +1,11 @@
+<map id="mal_math::TBox::radius" name="mal_math::TBox::radius">
+<area shape="rect" id="Node000001" title="Returns the radius of a sphere that tightly encloses the box." alt="" coords="5,55,153,80"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="212,29,325,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,55,196,49,197,54,153,60"/>
+<area shape="rect" id="Node000005" href="$d7/d3f/structmal__math_1_1_t_box.html#a7d0d9d46161b2ad34f7beabd34e73653" title="Returns the dimensions of the box." alt="" coords="201,79,336,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,74,186,78,185,84,153,79"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="385,5,483,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,31,369,25,370,30,326,37"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="384,55,484,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="326,48,369,55,368,60,325,53"/>
+</map>

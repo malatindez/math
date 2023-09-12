@@ -1,0 +1,14 @@
+<map id="mal_math::look_at" name="mal_math::look_at">
+<area shape="rect" id="Node000001" title="Generates a look&#45;at matrix for camera positioning." alt="" coords="5,56,126,82"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#af6fac0124c0a8511b0f747b9f15d1f74" title="Cross product between quaternion and vector." alt="" coords="186,5,294,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,53,178,33,179,38,113,58"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="516,57,615,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,66,500,67,500,73,126,72"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#abe612f1321c4a59501c42f7759feaba4" title="Normalizes a quaternion." alt="" coords="174,107,306,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,80,179,99,178,104,112,85"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="354,107,467,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="307,117,338,117,338,122,307,122"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="453,103,508,86,509,91,454,109"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="515,107,616,132"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="468,117,500,117,500,122,468,122"/>
+</map>

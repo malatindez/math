@@ -1,0 +1,5 @@
+<map id="mal_math::QuaternionFromEuler" name="mal_math::QuaternionFromEuler">
+<area shape="rect" id="Node000001" title="Creates a quaternion from Euler angles given in a vector." alt="" coords="223,5,392,46"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a58cd6b68785c108f943056ae8f463d4c" title="Creates a quaternion from individual Euler angles." alt="" coords="5,5,175,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,28,175,28,175,23,207,23"/>
+</map>

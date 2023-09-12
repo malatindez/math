@@ -1,0 +1,5 @@
+<map id="mal_math::Plane::Intersect" name="mal_math::Plane::Intersect">
+<area shape="rect" id="Node000001" title="Checks for the intersection of the plane with a given ray." alt="" coords="5,5,167,31"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="215,5,313,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,16,199,16,199,21,167,21"/>
+</map>

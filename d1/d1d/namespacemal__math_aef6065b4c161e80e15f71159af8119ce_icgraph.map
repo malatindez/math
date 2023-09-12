@@ -1,0 +1,39 @@
+<map id="mal_math::min" name="mal_math::min">
+<area shape="rect" id="Node000001" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="758,213,859,239"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a134d08d210af28640d9ab77cb0eb6fe7" title="Clamp the value of left between min and max." alt="" coords="440,5,552,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="785,203,751,165,708,127,663,97,616,71,532,34,535,29,618,66,666,92,711,123,754,161,789,199"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a155cd682c1a04cbf38d755c37ffe4b80" title="Clamp the value of left between min and max." alt="" coords="440,55,552,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="769,208,672,155,553,94,530,83,532,79,555,89,675,150,772,203"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a62078768f0d05a97bc7bfc7dba63ba1d" title="Clamp the value of left between min and max." alt="" coords="440,252,552,278"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="742,237,553,261,553,255,742,232"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a1772c0a8c3a9672ecf7b372fb536e492" title="Returns a new vector with each element being the maximum of the corresponding element in left and min..." alt="" coords="605,188,707,214"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="742,227,691,217,692,212,743,221"/>
+<area shape="rect" id="Node000011" href="$d1/d1d/namespacemal__math.html#a9df9f049be433c7e1cd8ab01fdef2502" title="Clamp the value of left between min and max in&#45;place." alt="" coords="438,301,554,327"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="752,247,710,259,550,303,549,298,709,254,751,242"/>
+<area shape="rect" id="Node000015" href="$d1/d1d/namespacemal__math.html#a1d3b118b8c53a2dcee7ac4eda95cae62" title="Modifies left in&#45;place, setting each element to the maximum of itself and the corresponding element i..." alt="" coords="602,340,710,366"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="787,252,753,287,711,323,683,342,680,337,708,319,749,283,783,248"/>
+<area shape="rect" id="Node000016" href="$d1/d1d/namespacemal__math.html#ac321a786300a672c0a5b07a551d47680" title="Modifies left in&#45;place, setting each element to the maximum of itself and min." alt="" coords="602,389,710,415"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="798,254,764,316,740,350,711,380,695,391,692,386,708,376,736,347,760,314,793,252"/>
+<area shape="poly" id="edge13_Node000005_Node000001" title=" " alt="" coords="723,200,774,210,773,215,722,206"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="641,175,607,110,582,75,553,44,536,34,539,29,556,40,586,71,612,107,646,172"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="634,177,599,135,553,94,534,83,537,78,556,89,603,131,638,174"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="609,222,531,254,529,249,607,217"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#a4d2f468cb836cd1462730c9f8c7e450a" title="Function to clamp a value between a minimum and maximum." alt="" coords="440,153,552,179"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="589,189,552,181,553,176,590,184"/>
+<area shape="poly" id="edge14_Node000005_Node000011" title=" " alt="" coords="634,227,599,260,556,292,535,303,533,299,553,288,595,256,630,223"/>
+<area shape="rect" id="Node000012" href="$d1/d1d/namespacemal__math.html#a5a77426d425763e5b379007f56f5afcd" title="Modifies left in&#45;place, setting each element to the minimum of itself and the corresponding element i..." alt="" coords="443,203,549,228"/>
+<area shape="poly" id="edge15_Node000005_Node000012" title=" " alt="" coords="590,210,550,213,550,208,589,204"/>
+<area shape="rect" id="Node000014" href="$d1/d1d/namespacemal__math.html#a6471aad090de0ad37483ee8d64562425" title="Modifies left in&#45;place, setting each element to the minimum of itself and max." alt="" coords="443,104,549,130"/>
+<area shape="poly" id="edge17_Node000005_Node000014" title=" " alt="" coords="620,182,553,143,530,133,533,128,556,138,623,177"/>
+<area shape="rect" id="Node000007" href="$d1/d1d/namespacemal__math.html#a6c89bca6ee3f863870442353a30e89e2" title="Compute the angle between two vectors." alt="" coords="260,129,368,155"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="424,159,368,152,369,147,425,154"/>
+<area shape="rect" id="Node000008" href="$d1/d1d/namespacemal__math.html#a7b0f322eff757ae4fe380a81a6c42c63" title="Computes the yaw from a quaternion." alt="" coords="264,179,364,204"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="425,179,365,187,364,182,424,173"/>
+<area shape="rect" id="Node000009" href="$d1/d1d/namespacemal__math.html#a58cd6b68785c108f943056ae8f463d4c" title="Creates a quaternion from individual Euler angles." alt="" coords="13,142,182,183"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="248,185,182,176,183,171,249,180"/>
+<area shape="rect" id="Node000010" href="$d1/d1d/namespacemal__math.html#a66974d61c29bbf4008522006be6d7ac9" title="Converts a quaternion to Euler angles." alt="" coords="5,207,190,232"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="249,203,190,210,190,205,248,197"/>
+<area shape="rect" id="Node000013" href="$d7/d3f/structmal__math_1_1_t_box.html#adcade33b33746b6e1372d82bd6ade3f6" title="Expands the box to include a point." alt="" coords="238,277,390,303"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="450,237,349,279,347,274,448,232"/>
+<area shape="poly" id="edge20_Node000015_Node000013" title=" " alt="" coords="587,357,514,353,437,342,385,325,340,306,342,301,387,320,439,337,515,348,587,352"/>
+</map>

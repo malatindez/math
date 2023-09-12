@@ -1,0 +1,7 @@
+<map id="mal_math::length" name="mal_math::length">
+<area shape="rect" id="Node000001" title="Computes the length (or magnitude) of a quaternion." alt="" coords="5,31,119,56"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="168,5,266,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,32,152,26,153,31,120,37"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="167,55,267,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,50,152,55,151,60,119,55"/>
+</map>

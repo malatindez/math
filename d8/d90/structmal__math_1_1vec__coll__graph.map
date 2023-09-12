@@ -1,0 +1,12 @@
+<map id="mal_math::vec&lt; L, T &gt;" name="mal_math::vec&lt; L, T &gt;">
+<area shape="rect" id="Node000001" title="Definition of the mathematical vector with fixed size L and type T" alt="" coords="30,271,172,297"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,183,144,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,222,100,270,95,272,80,224"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="168,183,296,208"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,219,121,273,118,268,200,215"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="193,5,231,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,47,202,81,204,119,215,153,228,181,223,184,210,155,199,120,197,81,202,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="263,94,363,120"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="239,39,301,92,297,96,235,43"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="293,133,245,184,241,180,290,129"/>
+</map>

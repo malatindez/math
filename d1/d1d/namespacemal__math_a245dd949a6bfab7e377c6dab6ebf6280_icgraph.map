@@ -1,0 +1,16 @@
+<map id="mal_math::det" name="mal_math::det">
+<area shape="rect" id="Node000001" title="Calculates the determinant of a square matrix." alt="" coords="716,56,813,82"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a6b9483d460a882f9c49428abb7d7ed21" title="Computes the adjoint (or adjugate) of a square matrix." alt="" coords="547,5,644,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="704,54,640,34,641,29,706,49"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a9839c7f488349def9a85e418a6f96710" title="Calculates the inverse of a square matrix." alt="" coords="186,31,304,56"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="700,68,304,49,304,44,701,63"/>
+<area shape="rect" id="Node000007" href="$d1/d1d/namespacemal__math.html#a7e5dee672cb37af1145dae5cc4f7d6f2" title="Calculates the determinant of a square matrix." alt="" coords="523,107,668,132"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="706,89,641,109,640,104,704,84"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#ad2fb7080daf9beb776f0cb7b8628ee49" title="Alias for the adj() function to compute the adjugate of a matrix." alt="" coords="352,5,475,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="532,21,476,21,476,16,532,16"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="337,32,305,37,304,32,336,27"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a30b82cf993680d0ed1395d185375b4b4" title="Cross product between vector and quaternion." alt="" coords="18,5,125,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="170,35,125,29,126,23,171,30"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#a4c84e1ef3c67bb12e006214e1f72e505" title="Vector&#45;Quaternion multiplication." alt="" coords="5,55,138,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="171,56,138,61,137,56,170,51"/>
+</map>

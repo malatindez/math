@@ -1,0 +1,8 @@
+<map id="mal_math::rmat::reset" name="mal_math::rmat::reset">
+<area shape="rect" id="Node000001" title="Resets all elements to zero." alt="" coords="5,31,142,56"/>
+<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#afeb1b7d295505944a8c4384d02382b0a" title="Resets the vector to the zero vector." alt="" coords="190,5,319,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,31,174,27,175,32,143,37"/>
+<area shape="rect" id="Node000003" href="$dd/dce/structmal__math_1_1vec.html#a9dd6ae5456770afade593ebb10ee6f76" title="Default constructor." alt="" coords="367,31,489,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="142,41,351,41,351,46,142,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,25,352,30,351,35,319,30"/>
+</map>

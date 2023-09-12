@@ -1,0 +1,18 @@
+<map id="mal_math::operator*" name="mal_math::operator*">
+<area shape="rect" id="Node000001" title="Vector&#45;Quaternion multiplication." alt="" coords="5,55,138,80"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a9839c7f488349def9a85e418a6f96710" title="Calculates the inverse of a square matrix." alt="" coords="186,55,304,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,65,170,65,170,70,138,70"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#ad2fb7080daf9beb776f0cb7b8628ee49" title="Alias for the adj() function to compute the adjugate of a matrix." alt="" coords="352,29,475,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,56,336,51,337,56,305,61"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a245dd949a6bfab7e377c6dab6ebf6280" title="Calculates the determinant of a square matrix." alt="" coords="668,55,765,80"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="305,65,652,65,652,70,305,70"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a6b9483d460a882f9c49428abb7d7ed21" title="Computes the adjoint (or adjugate) of a square matrix." alt="" coords="523,29,620,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,40,508,40,508,45,476,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="621,48,653,54,652,59,620,53"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#a4ca4a22c985a535c67c1821c42193f59" title=" " alt="" coords="813,5,924,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="758,51,811,34,813,39,759,57"/>
+<area shape="rect" id="Node000007" href="$d1/d1d/namespacemal__math.html#a684065c9e18fa3625d06a8762bff8dd1" title=" " alt="" coords="813,55,924,80"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="765,65,798,65,798,70,765,70"/>
+<area shape="rect" id="Node000008" href="$d1/d1d/namespacemal__math.html#a7205ab27aa1028ece0e9ad92fa2ac8e3" title=" " alt="" coords="813,104,924,130"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="759,78,813,96,811,101,758,84"/>
+</map>

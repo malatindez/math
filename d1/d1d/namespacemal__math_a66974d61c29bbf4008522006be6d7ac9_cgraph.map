@@ -1,0 +1,16 @@
+<map id="mal_math::QuaternionToEuler" name="mal_math::QuaternionToEuler">
+<area shape="rect" id="Node000001" title="Converts a quaternion to Euler angles." alt="" coords="5,55,190,80"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#aeb9028c5cc109ccc9cab84ec4432429d" title="Computes the pitch from a quaternion." alt="" coords="238,5,345,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,51,222,33,224,38,152,57"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a7b56ddaf7701b0ee7ac3e13ce63e8aa8" title="Computes the roll from a quaternion." alt="" coords="243,55,340,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,65,227,65,227,70,190,70"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a7b0f322eff757ae4fe380a81a6c42c63" title="Computes the yaw from a quaternion." alt="" coords="241,104,342,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,78,227,98,226,103,150,84"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a4d2f468cb836cd1462730c9f8c7e450a" title="Function to clamp a value between a minimum and maximum." alt="" coords="393,104,505,130"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="342,114,378,114,378,120,342,120"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#a1772c0a8c3a9672ecf7b372fb536e492" title="Returns a new vector with each element being the maximum of the corresponding element in left and min..." alt="" coords="553,104,656,130"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="506,114,537,114,537,120,506,120"/>
+<area shape="rect" id="Node000007" href="$d1/d1d/namespacemal__math.html#aef6065b4c161e80e15f71159af8119ce" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="704,104,805,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="656,123,688,123,688,128,656,128"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="703,111,671,111,671,105,704,106"/>
+</map>

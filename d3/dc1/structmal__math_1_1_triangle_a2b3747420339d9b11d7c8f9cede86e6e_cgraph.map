@@ -1,0 +1,9 @@
+<map id="mal_math::Triangle::Intersect" name="mal_math::Triangle::Intersect">
+<area shape="rect" id="Node000001" title="Determines if a ray intersects with this triangle." alt="" coords="5,23,130,64"/>
+<area shape="rect" id="Node000002" href="$d3/dc1/structmal__math_1_1_triangle.html#af4c79ad8378a09c5266336dde0626bac" title="Determines if a ray intersects with the triangle using its vertices." alt="" coords="178,23,302,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,41,162,41,162,46,130,46"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#af6fac0124c0a8511b0f747b9f15d1f74" title="Cross product between quaternion and vector." alt="" coords="350,5,457,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,31,334,26,335,31,303,36"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="355,55,453,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="303,50,340,55,339,61,302,55"/>
+</map>

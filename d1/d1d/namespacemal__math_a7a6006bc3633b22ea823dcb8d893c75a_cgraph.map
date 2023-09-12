@@ -1,0 +1,7 @@
+<map id="mal_math::length" name="mal_math::length">
+<area shape="rect" id="Node000001" title="Compute the length (magnitude) of the given vector." alt="" coords="5,31,119,56"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="197,5,298,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,33,181,24,182,30,119,38"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a8ed914d94b8eee0950e6ae215558bdd2" title="Compute the squared length of the given vector." alt="" coords="167,55,328,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,48,151,52,151,58,119,53"/>
+</map>

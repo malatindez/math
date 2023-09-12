@@ -1,0 +1,5 @@
+<map id="mal_math::TBox::Intersect" name="mal_math::TBox::Intersect">
+<area shape="rect" id="Node000001" title="Checks if a ray intersects with the box and updates the nearest intersection distance." alt="" coords="214,5,374,31"/>
+<area shape="rect" id="Node000002" href="$d7/d3f/structmal__math_1_1_t_box.html#a4a27d8fff3dba244fbe1a77e5300fa5a" title="Checks if a ray intersects with the box and updates the nearest intersection point." alt="" coords="5,5,166,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,21,166,21,166,16,198,16"/>
+</map>

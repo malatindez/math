@@ -1,0 +1,25 @@
+<map id="include/math/random.hpp" name="include/math/random.hpp">
+<area shape="rect" id="Node000001" title="Provides functionality for random number generation and manipulation in vector spaces." alt="" coords="327,5,486,31"/>
+<area shape="rect" id="Node000002" href="$d4/d78/math_8hpp.html" title="Provides various mathematical utilities, vector operations, and custom hash specializations." alt="" coords="349,79,464,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="400,46,402,78,397,79,395,46"/>
+<area shape="poly" id="edge8_Node000002_Node000001" title=" " alt="" coords="413,64,411,31,416,31,418,63"/>
+<area shape="rect" id="Node000003" href="$d7/de4/box_8hpp.html" title="Defines a templated bounding box class for 3D primitives." alt="" coords="5,153,144,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,110,125,155,124,149,333,105"/>
+<area shape="rect" id="Node000004" href="$d6/d02/intersection_8hpp.html" title="Provides functionalities to represent and handle intersections in 3D space." alt="" coords="219,153,400,178"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="372,115,320,154,317,150,369,111"/>
+<area shape="rect" id="Node000006" href="$db/d1d/ray_8hpp.html" title="Contains the definition of the Ray class." alt="" coords="608,153,744,178"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="460,107,624,149,622,155,459,112"/>
+<area shape="rect" id="Node000008" href="$d9/d6c/triangle_8hpp.html" title="Defines the Triangle structure and methods for ray&#45;triangle intersection." alt="" coords="424,153,584,178"/>
+<area shape="poly" id="edge14_Node000002_Node000008" title=" " alt="" coords="429,113,482,150,479,154,426,117"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="152,146,356,103,357,108,153,152"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="344,142,395,103,399,107,347,146"/>
+<area shape="rect" id="Node000005" href="$d7/d82/plane_8hpp.html" title="Provides the definition of the Plane structure and its associated operations." alt="" coords="236,226,383,252"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="312,194,312,226,307,226,307,194"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="258,222,232,209,210,193,199,173,199,162,204,151,234,123,271,105,310,95,348,90,349,96,312,100,273,110,237,128,209,154,204,164,204,172,214,189,235,205,261,218"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="622,151,458,108,460,103,623,145"/>
+<area shape="poly" id="edge11_Node000006_Node000005" title=" " alt="" coords="599,184,372,228,371,223,598,179"/>
+<area shape="rect" id="Node000007" href="$d0/da1/sphere_8hpp.html" title="Defines the Sphere structure and its associated functionality." alt="" coords="651,226,805,252"/>
+<area shape="poly" id="edge12_Node000006_Node000007" title=" " alt="" coords="695,189,721,224,717,227,691,192"/>
+<area shape="poly" id="edge13_Node000007_Node000002" title=" " alt="" coords="744,213,759,182,760,167,754,154,735,140,707,128,630,111,543,101,465,97,465,92,543,96,631,106,708,123,738,136,758,151,765,166,764,184,749,215"/>
+<area shape="poly" id="edge15_Node000008_Node000002" title=" " alt="" coords="481,145,428,107,432,103,484,141"/>
+</map>

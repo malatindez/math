@@ -1,0 +1,9 @@
+<map id="mal_math::vec::reset" name="mal_math::vec::reset">
+<area shape="rect" id="Node000001" title="Resets the vector to the zero vector." alt="" coords="196,70,325,96"/>
+<area shape="rect" id="Node000002" href="$d4/d38/structmal__math_1_1_intersection.html#abc9994ff6f9c4a7d4f235b7f155f9351" title="Creates and returns an intersection with t set to infinity." alt="" coords="5,5,148,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,68,143,49,145,44,203,63"/>
+<area shape="rect" id="Node000003" href="$d7/de5/structmal__math_1_1mat.html#abfde5d8f6b3d1f496d434e7f5c516e9d" title="Resets the matrix to have all zero values." alt="" coords="11,70,142,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,86,142,86,142,80,180,80"/>
+<area shape="rect" id="Node000004" href="$d8/d90/structmal__math_1_1rmat.html#a16063d012fb28ded56d87e20080d59d8" title="Resets all elements to zero." alt="" coords="8,120,145,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,103,128,121,127,116,195,98"/>
+</map>

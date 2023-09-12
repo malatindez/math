@@ -1,0 +1,7 @@
+<map id="mal_math::pitch" name="mal_math::pitch">
+<area shape="rect" id="Node000001" title="Computes the pitch from a quaternion." alt="" coords="238,42,345,68"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a58cd6b68785c108f943056ae8f463d4c" title="Creates a quaternion from individual Euler angles." alt="" coords="13,5,182,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,47,182,41,183,36,223,42"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a66974d61c29bbf4008522006be6d7ac9" title="Converts a quaternion to Euler angles." alt="" coords="5,70,190,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,68,191,72,190,67,222,62"/>
+</map>

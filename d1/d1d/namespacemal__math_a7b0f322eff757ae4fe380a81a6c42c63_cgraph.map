@@ -1,0 +1,10 @@
+<map id="mal_math::yaw" name="mal_math::yaw">
+<area shape="rect" id="Node000001" title="Computes the yaw from a quaternion." alt="" coords="5,5,106,31"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a4d2f468cb836cd1462730c9f8c7e450a" title="Function to clamp a value between a minimum and maximum." alt="" coords="154,5,266,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,16,138,16,138,21,106,21"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a1772c0a8c3a9672ecf7b372fb536e492" title="Returns a new vector with each element being the maximum of the corresponding element in left and min..." alt="" coords="314,5,416,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,16,298,16,298,21,266,21"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#aef6065b4c161e80e15f71159af8119ce" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="464,5,566,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="417,24,449,24,449,30,417,29"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="464,12,432,12,432,7,464,7"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="mal_math::random::_detail::UnitRandom" name="mal_math::random::_detail::UnitRandom">
+<area shape="rect" id="Node000001" title="Generates a unit vector with random direction." alt="" coords="5,23,137,64"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#abe612f1321c4a59501c42f7759feaba4" title="Normalizes a quaternion." alt="" coords="185,31,317,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,41,169,41,169,46,137,46"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="365,31,478,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,41,349,41,349,46,318,46"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="527,5,626,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="478,32,511,26,512,31,479,37"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="526,55,627,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="479,50,511,55,511,60,478,55"/>
+</map>

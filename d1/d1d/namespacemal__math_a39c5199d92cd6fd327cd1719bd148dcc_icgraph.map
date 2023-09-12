@@ -1,0 +1,33 @@
+<map id="mal_math::length" name="mal_math::length">
+<area shape="rect" id="Node000001" title="Computes the length (or magnitude) of a quaternion." alt="" coords="577,196,691,221"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a70273f9f35b9c5fafb0c4c027a0cc427" title="Compute the distance between two vectors." alt="" coords="394,16,518,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="617,183,581,125,556,93,528,65,493,44,495,39,531,61,560,90,585,122,621,180"/>
+<area shape="rect" id="Node000004" href="$d2/dd8/structmal__math_1_1_sphere.html#a16d1dfc076a08ee64ff10aff05669da4" title="Determines if a Ray intersects with the Sphere." alt="" coords="165,70,334,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="608,187,572,157,528,131,480,114,429,101,334,88,335,83,430,96,481,108,530,126,575,152,611,183"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#abe612f1321c4a59501c42f7759feaba4" title="Normalizes a quaternion." alt="" coords="390,170,522,196"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="562,201,522,195,522,190,562,195"/>
+<area shape="rect" id="Node000007" href="$d9/d76/structmal__math_1_1qua.html#a76e9e79edda5b35e32e583dc638ad252" title="Constructs a quaternion from an angle and rotation axis." alt="" coords="187,120,312,145"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="597,190,564,174,529,160,472,148,415,140,312,134,312,129,415,135,473,142,530,155,567,169,600,185"/>
+<area shape="rect" id="Node000011" href="$de/db9/structmal__math_1_1_plane.html#a568a7d2c844bc73f43611217334106f9" title="Updates the plane&#39;s vectors and normal based on two new vectors." alt="" coords="174,357,325,398"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="562,210,519,214,472,222,426,238,384,261,367,280,360,301,353,324,336,346,318,359,314,355,332,342,348,321,355,300,362,278,380,257,424,233,471,217,518,208,562,205"/>
+<area shape="rect" id="Node000012" href="$d1/d1d/namespacemal__math.html#a1cc95439dc8db428b1b9f7c1ec9aba5a" title="Normalize the given vector." alt="" coords="390,272,522,297"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="589,230,489,274,487,269,587,225"/>
+<area shape="rect" id="Node000013" href="$d7/d3f/structmal__math_1_1_t_box.html#a3783194457bcf643aeabd8b62bc5592c" title="Returns the radius of a sphere that tightly encloses the box." alt="" coords="382,321,529,347"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="615,235,578,274,531,312,509,323,506,318,528,307,575,270,611,231"/>
+<area shape="rect" id="Node000014" href="$d1/d1d/namespacemal__math.html#ac450bfaa356fc4830954be733bcf465b" title="Compute the unit vector (normalized vector) of the given vector." alt="" coords="385,370,526,396"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="623,237,588,299,562,332,531,361,512,372,509,367,528,357,558,329,583,296,619,234"/>
+<area shape="rect" id="Node000003" href="$de/d54/namespacemal__math_1_1random_1_1poisson__disc_1_1__detail.html#a5fc2fd014656cd15396002f5cdc8df16" title="Generates a set of points distributed according to Poisson Disk Sampling." alt="" coords="166,5,333,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,30,333,29,333,24,378,25"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="424,163,382,136,333,109,305,99,307,94,335,105,384,131,426,159"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#ae75c0f78e391bc79564c5ddc63a74612" title="Generates a look&#45;at matrix for camera positioning." alt="" coords="189,169,310,195"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="374,185,310,185,310,179,374,180"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="385,168,304,148,305,143,386,163"/>
+<area shape="rect" id="Node000008" href="$d1/d1d/namespacemal__math.html#a3e5409e48ad66d42b0f0643bf4591163" title="Rotates a matrix by a given angle around a given axis." alt="" coords="194,242,305,268"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="403,204,290,244,288,239,401,199"/>
+<area shape="rect" id="Node000010" href="$db/d90/namespacemal__math_1_1random_1_1__detail.html#a8a729c12da52b3aa8764cbd4ebe7252f" title="Generates a unit vector with random direction." alt="" coords="184,292,315,333"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="402,205,384,217,369,233,361,249,352,266,336,282,317,294,314,290,332,278,347,263,356,247,364,230,380,213,399,201"/>
+<area shape="poly" id="edge12_Node000005_Node000011" title=" " alt="" coords="398,206,384,217,372,233,365,249,361,280,356,313,349,329,336,346,320,359,316,355,332,342,344,327,351,311,356,280,360,247,367,230,380,213,394,202"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="281,229,270,223,249,221,230,223,219,228,217,233,222,240,218,243,211,234,215,224,228,218,249,216,272,218,284,225"/>
+<area shape="rect" id="Node000009" href="$d1/d1d/namespacemal__math.html#ae2ea884f0e0c63166d344b52a7633934" title="Rotates a 4x4 matrix using a quaternion." alt="" coords="5,242,117,268"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="178,258,117,258,117,252,178,252"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mal_math::mat::operator*=" name="mal_math::mat::operator*=">
+<area shape="rect" id="Node000001" title="Multiplies each element of the current matrix by a scalar value." alt="" coords="5,5,172,31"/>
+<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#a9dd6ae5456770afade593ebb10ee6f76" title="Default constructor." alt="" coords="220,5,342,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,16,204,16,204,21,172,21"/>
+</map>

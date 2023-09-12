@@ -1,0 +1,23 @@
+<map id="mal_math::rotate" name="mal_math::rotate">
+<area shape="rect" id="Node000001" title="Rotates a matrix by a given angle around a given axis." alt="" coords="5,180,117,206"/>
+<area shape="poly" id="edge11_Node000001_Node000001" title=" " alt="" coords="32,181,27,171,30,162,42,156,61,153,82,156,93,163,90,167,80,161,61,159,43,161,34,165,32,171,37,178"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a536e0e1ac498d427d7d51bce8ed5e50b" title="Computes the angle (or magnitude) of a quaternion." alt="" coords="177,129,285,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,177,171,157,172,162,107,182"/>
+<area shape="rect" id="Node000008" href="$d1/d1d/namespacemal__math.html#abe612f1321c4a59501c42f7759feaba4" title="Normalizes a quaternion." alt="" coords="165,204,297,230"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="117,198,149,203,149,208,117,203"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a6e7fa1a478c0db96bd23647ad1d5a118" title=" " alt="" coords="353,5,451,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,127,285,85,343,40,350,36,353,41,347,44,289,89,246,131"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a280c7762332b780e1c64d757a2dfa8c7" title=" " alt="" coords="350,55,454,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="261,126,344,89,355,84,357,89,346,94,263,131"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a1e523742ea66fe6117bfc9e95f297019" title=" " alt="" coords="351,104,453,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="285,132,335,124,336,129,286,137"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#a16d6c0540a171f065334b7fe17a0dd72" title=" " alt="" coords="353,153,451,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="286,147,337,154,336,160,285,152"/>
+<area shape="rect" id="Node000007" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="506,205,607,231"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="258,153,299,172,346,189,421,204,491,212,491,217,420,209,344,194,297,177,256,158"/>
+<area shape="rect" id="Node000009" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="345,255,458,280"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="278,228,343,247,341,252,276,233"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="444,251,499,234,500,239,445,257"/>
+<area shape="rect" id="Node000010" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="507,255,606,280"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="459,265,492,265,492,270,459,270"/>
+</map>

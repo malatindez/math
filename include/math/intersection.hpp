@@ -31,7 +31,7 @@
  * ```
  * 
  * For advanced geometric operations and further intersection types, users are encouraged 
- * to explore the broader `malatindez::math` namespace and associated headers.
+ * to explore the broader `mal_math` namespace and associated headers.
  */
 
 #pragma once

@@ -89,14 +89,14 @@ namespace mal_math
  */
 namespace std {
     /**
-     * @brief Hash specialization for malatindez::math::vec.
+     * @brief Hash specialization for mal_math::vec.
      * 
      * @tparam size_x Vector dimension.
      * @tparam vector_type Type of vector's elements.
      */
     template <size_t size_x, typename vector_type>
-    struct hash<malatindez::math::vec<size_x, vector_type>> {
-        [[nodiscard]] constexpr size_t operator()(malatindez::math::vec<size_x, vector_type> const &v) const noexcept {
+    struct hash<mal_math::vec<size_x, vector_type>> {
+        [[nodiscard]] constexpr size_t operator()(mal_math::vec<size_x, vector_type> const &v) const noexcept {
             size_t seed = 0;
             for (auto const &e : v.data) {
                 seed ^= std::hash<vector_type>{}(e)+0x9e3779b9 + (seed << 6) + (seed >> 2);
@@ -105,15 +105,15 @@ namespace std {
         }
     };
     /**
-     * @brief Hash specialization for malatindez::math::vec.
+     * @brief Hash specialization for mal_math::vec.
      * 
      * @tparam size_x Matrix X dimension.
      * @tparam size_y Matrix Y dimension.
      * @tparam vector_type Type of matrix elements.
      */
     template <size_t size_x, size_t size_y, typename matrix_type>
-    struct hash<malatindez::math::mat<size_x, size_y, matrix_type>> {
-        [[nodiscard]] constexpr size_t operator()(malatindez::math::mat<size_x, size_y, matrix_type> const &m) const noexcept {
+    struct hash<mal_math::mat<size_x, size_y, matrix_type>> {
+        [[nodiscard]] constexpr size_t operator()(mal_math::mat<size_x, size_y, matrix_type> const &m) const noexcept {
             size_t seed = 0;
             for (auto const &e : m.data) {
                 seed ^= std::hash<matrix_type>{}(e)+0x9e3779b9 + (seed << 6) + (seed >> 2);
@@ -122,15 +122,15 @@ namespace std {
         }
     };
     /**
-     * @brief Hash specialization for malatindez::math::vec.
+     * @brief Hash specialization for mal_math::vec.
      * 
      * @tparam size_x Matrix X dimension.
      * @tparam size_y Matrix Y dimension.
      * @tparam vector_type Type of matrix elements.
      */
     template<typename quaternion_type>
-    struct hash<malatindez::math::qua<quaternion_type>> {
-        [[nodiscard]] constexpr size_t operator()(malatindez::math::qua<quaternion_type> const &q) const noexcept {
+    struct hash<mal_math::qua<quaternion_type>> {
+        [[nodiscard]] constexpr size_t operator()(mal_math::qua<quaternion_type> const &q) const noexcept {
             size_t seed = 0;
             for (auto const &e : q.data) {
                 seed ^= std::hash<quaternion_type>{}(e)+0x9e3779b9 + (seed << 6) + (seed >> 2);

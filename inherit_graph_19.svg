@@ -11,9 +11,9 @@
 <!-- Node0 -->
 <g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_Node000000"><a xlink:href="dc/d19/structmal__math_1_1vec_3_013_00_01_t_01_4.html" target="_top" xlink:title="Represents a 3D vector of a given primitive type.">
+<g id="a_Node000000"><a xlink:href="de/dfb/structmal__math_1_1vec_3_014_00_01_t_01_4.html" target="_top" xlink:title="Represents a 4D vector of a given primitive type.">
 <polygon fill="white" stroke="#666666" points="106,-19.25 0,-19.25 0,0 106,0 106,-19.25"/>
-<text text-anchor="middle" x="53" y="-5.75" font-family="Times,serif" font-size="10.00">mal_math::vec&lt; 3, T &gt;</text>
+<text text-anchor="middle" x="53" y="-5.75" font-family="Times,serif" font-size="10.00">mal_math::vec&lt; 4, T &gt;</text>
 </a>
 </g>
 </g>

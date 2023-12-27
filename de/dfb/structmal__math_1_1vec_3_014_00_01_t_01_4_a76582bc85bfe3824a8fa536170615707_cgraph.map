@@ -1,7 +1,0 @@
-<map id="mal_math::vec&lt; 4, T &gt;::vec" name="mal_math::vec&lt; 4, T &gt;::vec">
-<area shape="rect" id="Node000001" title="Variadic constructor." alt="" coords="5,35,136,75"/>
-<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#a60d04587928247b6e0d6e00a9660b8bf" title="Determines the size of a parameter pack for primitive types." alt="" coords="199,5,343,46"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,43,183,36,184,41,136,48"/>
-<area shape="rect" id="Node000003" href="$dd/dce/structmal__math_1_1vec.html#a67813dc45c4bd24932563730ea5e7b42" title="Unpacks a single primitive value into the vector data." alt="" coords="184,70,358,96"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,61,169,66,168,71,136,67"/>
-</map>

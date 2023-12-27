@@ -1,8 +1,8 @@
 var quaternion_8hpp =
 [
     [ "mal_math::qua< T >", "d9/d76/structmal__math_1_1qua.html", "d9/d76/structmal__math_1_1qua" ],
-    [ "dquat", "db/d65/quaternion_8hpp.html#a2415eb075897b94b5156e2680b250b60", null ],
-    [ "quat", "db/d65/quaternion_8hpp.html#afe345ccd5ab56c27b26d522e45cb588d", null ],
+    [ "dquat", "db/d65/quaternion_8hpp.html#a4241e367002957de668bc703d2d4a9b0", null ],
+    [ "quat", "db/d65/quaternion_8hpp.html#a712dd54b4c6eeb8454ea4706d5f92ba3", null ],
     [ "angle", "db/d65/quaternion_8hpp.html#a536e0e1ac498d427d7d51bce8ed5e50b", null ],
     [ "conjugate", "db/d65/quaternion_8hpp.html#a28a7004b973f5a1573d66bd3656e3280", null ],
     [ "cross", "db/d65/quaternion_8hpp.html#af0a4872af23183c6a173723c0754e3d9", null ],

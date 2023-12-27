@@ -1,9 +1,13 @@
 <map id="mal_math::Triangle::Intersect" name="mal_math::Triangle::Intersect">
-<area shape="rect" id="Node000001" title="Determines if a ray intersects with this triangle." alt="" coords="5,23,130,64"/>
-<area shape="rect" id="Node000002" href="$d3/dc1/structmal__math_1_1_triangle.html#af4c79ad8378a09c5266336dde0626bac" title="Determines if a ray intersects with the triangle using its vertices." alt="" coords="178,23,302,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,41,162,41,162,46,130,46"/>
-<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#af6fac0124c0a8511b0f747b9f15d1f74" title="Cross product between quaternion and vector." alt="" coords="350,5,457,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,31,334,26,335,31,303,36"/>
-<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="355,55,453,80"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="303,50,340,55,339,61,302,55"/>
+<area shape="rect" id="Node000001" title="Determines if a ray intersects with this triangle." alt="" coords="5,73,130,113"/>
+<area shape="rect" id="Node000002" href="$d3/dc1/structmal__math_1_1_triangle.html#af4c79ad8378a09c5266336dde0626bac" title="Determines if a ray intersects with the triangle using its vertices." alt="" coords="178,73,302,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,90,162,90,162,96,130,96"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#af6fac0124c0a8511b0f747b9f15d1f74" title="Cross product between quaternion and vector." alt="" coords="373,5,480,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,69,349,40,365,34,367,39,351,45,284,74"/>
+<area shape="rect" id="Node000004" href="$dd/d4b/classmal__math_1_1_ray.html#ae3eb63fa713d01647037a4f5919ba6cc" title="Retrieves the ray&#39;s direction (const version)." alt="" coords="350,55,503,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="302,82,334,77,335,83,303,87"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="378,104,476,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="303,98,362,106,362,111,302,103"/>
+<area shape="rect" id="Node000006" href="$dd/d4b/classmal__math_1_1_ray.html#a9163e63dd91bd52a51aa8a60d0ffe94a" title="Retrieves the ray&#39;s origin (const version)." alt="" coords="358,153,495,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="285,111,351,140,367,145,365,150,349,145,283,116"/>
 </map>

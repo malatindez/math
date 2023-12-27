@@ -1,7 +1,0 @@
-<map id="mal_math::vec&lt; 2, T &gt;::get_parameter_pack_size" name="mal_math::vec&lt; 2, T &gt;::get_parameter_pack_size">
-<area shape="rect" id="Node000001" title="Determines the size of a parameter pack for a mixed set of types." alt="" coords="5,35,183,75"/>
-<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#a60d04587928247b6e0d6e00a9660b8bf" title="Determines the size of a parameter pack for primitive types." alt="" coords="231,5,375,46"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,40,215,35,216,41,183,45"/>
-<area shape="rect" id="Node000003" href="$dd/dce/structmal__math_1_1vec.html#a9dd6ae5456770afade593ebb10ee6f76" title="Default constructor." alt="" coords="242,70,364,96"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,64,227,70,226,75,182,70"/>
-</map>

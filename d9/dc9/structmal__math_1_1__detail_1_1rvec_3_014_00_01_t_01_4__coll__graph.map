@@ -1,16 +1,15 @@
 <map id="mal_math::_detail::rvec&lt; 4, T &gt;" name="mal_math::_detail::rvec&lt; 4, T &gt;">
-<area shape="rect" id="Node000001" title="A 4&#45;dimensional reference vector template." alt="" coords="644,194,768,235"/>
-<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="688,176,694,170,706,167,717,169,724,176,726,193,721,193,719,178,715,174,706,172,697,174,691,180"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="428,5,566,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,25,603,33,622,45,654,80,677,120,693,160,703,193,698,194,688,162,673,123,650,83,619,50,601,38,580,30"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="435,194,559,235"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="574,212,644,212,644,217,574,217"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="423,259,570,330"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="584,258,650,233,652,238,586,263"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="141,235,265,276"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,263,423,282,422,287,280,268"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="153,319,253,344"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="269,334,332,334,399,327,422,322,423,327,400,332,332,339,269,339"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="5,319,44,344"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="59,329,152,329,152,334,59,334"/>
+<area shape="rect" id="Node000001" title="A 4&#45;dimensional reference vector template." alt="" coords="620,194,744,235"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="664,176,670,170,682,167,693,169,700,176,702,193,697,193,695,178,691,174,682,172,673,174,667,180"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="404,5,542,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="558,25,579,33,598,45,630,80,653,120,669,160,679,193,674,194,664,162,649,123,626,83,595,50,577,38,556,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="411,194,535,235"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="550,212,620,212,620,217,550,217"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="399,259,546,330"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="560,258,626,233,628,238,562,263"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,279,44,304"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="59,278,67,277,153,267,221,266,375,277,399,279,398,285,375,282,221,271,154,273,68,282,60,284"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="141,311,241,336"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="60,295,141,311,140,316,58,301"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="257,322,265,322,320,325,375,322,398,317,399,322,375,327,320,330,265,327,257,327"/>
 </map>

@@ -54,13 +54,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d1/d1d/namespacemal__math.html#a9d36b8d9fba362d7f0a8666f80b78e50",
-"d2/d88/rvec4_8hpp.html",
-"d7/dab/mat__math_8inl.html#ae75c0f78e391bc79564c5ddc63a74612",
-"d8/d24/math-common_8hpp.html#afc1c371bbc69a551dd53cbc46577312b",
-"db/d1d/ray_8hpp.html",
-"dc/d19/structmal__math_1_1vec_3_013_00_01_t_01_4.html#af792308775d259c4ecea52acdb614816",
-"de/dfb/structmal__math_1_1vec_3_014_00_01_t_01_4.html#a4fbc4cabe886fc9d4c8dcbf3fff5d9d4",
+"d1/d1d/namespacemal__math.html#a9b55d59f09251b614d8cdc0b7934548d",
+"d2/dd8/structmal__math_1_1_sphere.html",
+"d7/dab/mat__math_8inl.html#ac67eb12ff9f1840e2f36aa62884c9cc8",
+"d8/d24/math-common_8hpp.html#ada8223112d8e542a693b58046ea9bdbf",
+"d9/dcd/vec3_8hpp.html#a7f550c3c403f0adec17efceab99542d3",
+"dc/d19/structmal__math_1_1vec_3_013_00_01_t_01_4.html#ad641d2172776382350c3d0d08372e8b4",
+"de/dfb/structmal__math_1_1vec_3_014_00_01_t_01_4.html#a3dbc208846eb165b9a726682a941e4c8",
 "namespacemembers_f.html"
 ];
 

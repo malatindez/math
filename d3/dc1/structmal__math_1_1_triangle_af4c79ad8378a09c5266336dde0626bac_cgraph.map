@@ -1,7 +1,11 @@
 <map id="mal_math::Triangle::Intersect" name="mal_math::Triangle::Intersect">
-<area shape="rect" id="Node000001" title="Determines if a ray intersects with the triangle using its vertices." alt="" coords="5,23,130,64"/>
-<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#af6fac0124c0a8511b0f747b9f15d1f74" title="Cross product between quaternion and vector." alt="" coords="178,5,285,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,31,162,26,163,31,131,36"/>
-<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="182,55,281,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,50,167,55,167,61,130,55"/>
+<area shape="rect" id="Node000001" title="Determines if a ray intersects with the triangle using its vertices." alt="" coords="5,73,130,113"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#af6fac0124c0a8511b0f747b9f15d1f74" title="Cross product between quaternion and vector." alt="" coords="201,5,308,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,69,177,40,193,34,194,39,179,45,112,74"/>
+<area shape="rect" id="Node000003" href="$dd/d4b/classmal__math_1_1_ray.html#ae3eb63fa713d01647037a4f5919ba6cc" title="Retrieves the ray&#39;s direction (const version)." alt="" coords="178,55,331,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,82,162,77,162,83,131,87"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="205,104,304,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,98,190,106,189,111,130,103"/>
+<area shape="rect" id="Node000005" href="$dd/d4b/classmal__math_1_1_ray.html#a9163e63dd91bd52a51aa8a60d0ffe94a" title="Retrieves the ray&#39;s origin (const version)." alt="" coords="186,153,323,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="113,111,179,140,194,145,193,150,177,145,111,116"/>
 </map>

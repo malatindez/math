@@ -1,0 +1,19 @@
+<map id="mal_math::Ray::origin" name="mal_math::Ray::origin">
+<area shape="rect" id="Node000001" title="Retrieves the ray&#39;s origin (const version)." alt="" coords="431,80,568,106"/>
+<area shape="rect" id="Node000002" href="$de/db9/structmal__math_1_1_plane.html#ad59fe8bfb1f87f1e05764607a372b359" title="Checks for the intersection of the plane with a given ray." alt="" coords="218,5,379,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,76,382,45,349,34,351,29,384,40,458,71"/>
+<area shape="rect" id="Node000003" href="$d2/dd8/structmal__math_1_1_sphere.html#a16d1dfc076a08ee64ff10aff05669da4" title="Determines if a Ray intersects with the Sphere." alt="" coords="214,55,383,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="415,85,383,81,384,76,416,80"/>
+<area shape="rect" id="Node000004" href="$d7/d3f/structmal__math_1_1_t_box.html#a6756f91cb6380a1b177b2bac94777a47" title="Checks if a ray intersects with the box and updates the nearest intersection distance." alt="" coords="218,104,379,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="416,105,379,110,379,105,415,100"/>
+<area shape="rect" id="Node000006" href="$d3/dc1/structmal__math_1_1_triangle.html#af4c79ad8378a09c5266336dde0626bac" title="Determines if a ray intersects with the triangle using its vertices." alt="" coords="236,170,361,211"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="459,115,343,172,341,167,456,110"/>
+<area shape="rect" id="Node000005" href="$d7/d3f/structmal__math_1_1_t_box.html#a4a27d8fff3dba244fbe1a77e5300fa5a" title="Checks if a ray intersects with the box and updates the nearest intersection point." alt="" coords="5,87,166,112"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,112,166,109,166,103,203,106"/>
+<area shape="rect" id="Node000007" href="$d3/dc1/structmal__math_1_1_triangle.html#a2b3747420339d9b11d7c8f9cede86e6e" title="Determines if a ray intersects with this triangle." alt="" coords="23,137,148,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="220,181,148,169,149,164,221,175"/>
+<area shape="rect" id="Node000008" href="$d3/dc1/structmal__math_1_1_triangle.html#a5c67412b71f174a92313b79d54b9a1b2" title="Determines if a ray intersects with this triangle and updates intersection details." alt="" coords="23,202,148,243"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="221,204,149,215,148,210,220,199"/>
+<area shape="rect" id="Node000009" href="$d3/dc1/structmal__math_1_1_triangle.html#af99f2bd3f4549825492e1908ee61c8c5" title="Determines if a ray intersects with the triangle and updates intersection details." alt="" coords="23,267,148,308"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="244,220,167,257,139,269,136,264,165,252,241,215"/>
+</map>

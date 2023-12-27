@@ -1,5 +1,13 @@
 <map id="mal_math::TBox::Intersect" name="mal_math::TBox::Intersect">
-<area shape="rect" id="Node000001" title="Checks if a ray intersects with the box and updates the nearest intersection point." alt="" coords="5,5,166,31"/>
-<area shape="rect" id="Node000002" href="$d7/d3f/structmal__math_1_1_t_box.html#a6756f91cb6380a1b177b2bac94777a47" title="Checks if a ray intersects with the box and updates the nearest intersection distance." alt="" coords="214,5,374,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,16,198,16,198,21,166,21"/>
+<area shape="rect" id="Node000001" title="Checks if a ray intersects with the box and updates the nearest intersection point." alt="" coords="5,96,166,121"/>
+<area shape="rect" id="Node000002" href="$d7/d3f/structmal__math_1_1_t_box.html#a6756f91cb6380a1b177b2bac94777a47" title="Checks if a ray intersects with the box and updates the nearest intersection distance." alt="" coords="234,70,395,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,97,218,91,219,96,166,102"/>
+<area shape="rect" id="Node000006" href="$dd/d4b/classmal__math_1_1_ray.html#a59f0a252d33b02418f99dd6a5e7725a9" title="Computes a point along the ray based on the given parameter." alt="" coords="214,120,415,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="166,114,199,118,198,123,166,119"/>
+<area shape="rect" id="Node000003" href="$dd/d4b/classmal__math_1_1_ray.html#aca65886193e6c139c058c1ed5688c9e2" title="Retrieves the inverse of the ray&#39;s direction." alt="" coords="471,5,593,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,67,455,43,456,48,367,72"/>
+<area shape="rect" id="Node000004" href="$dd/d4b/classmal__math_1_1_ray.html#a9163e63dd91bd52a51aa8a60d0ffe94a" title="Retrieves the ray&#39;s origin (const version)." alt="" coords="463,70,600,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="395,80,448,80,448,86,395,86"/>
+<area shape="rect" id="Node000005" href="$dd/d4b/classmal__math_1_1_ray.html#a224f1e4e8f6196951c3079957e8b940c" title="Retrieves the sign of the inverse direction for each axis." alt="" coords="468,120,595,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="375,94,458,113,457,118,374,99"/>
 </map>

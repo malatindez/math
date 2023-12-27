@@ -1,0 +1,11 @@
+<map id="mal_math::Ray::PointAtParameter" name="mal_math::Ray::PointAtParameter">
+<area shape="rect" id="Node000001" title="Computes a point along the ray based on the given parameter." alt="" coords="223,80,424,106"/>
+<area shape="rect" id="Node000002" href="$de/db9/structmal__math_1_1_plane.html#ad59fe8bfb1f87f1e05764607a372b359" title="Checks for the intersection of the plane with a given ray." alt="" coords="9,5,171,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,77,174,45,139,34,140,29,175,40,271,72"/>
+<area shape="rect" id="Node000003" href="$d2/dd8/structmal__math_1_1_sphere.html#a16d1dfc076a08ee64ff10aff05669da4" title="Determines if a Ray intersects with the Sphere." alt="" coords="5,55,175,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,83,175,79,175,74,207,78"/>
+<area shape="rect" id="Node000004" href="$d7/d3f/structmal__math_1_1_t_box.html#a4a27d8fff3dba244fbe1a77e5300fa5a" title="Checks if a ray intersects with the box and updates the nearest intersection point." alt="" coords="10,104,170,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,107,171,111,171,106,207,102"/>
+<area shape="rect" id="Node000005" href="$d3/dc1/structmal__math_1_1_triangle.html#af99f2bd3f4549825492e1908ee61c8c5" title="Determines if a ray intersects with the triangle and updates intersection details." alt="" coords="28,154,152,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="270,114,152,156,150,151,269,109"/>
+</map>

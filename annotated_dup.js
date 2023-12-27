@@ -30,8 +30,8 @@ var annotated_dup =
       [ "vec< 4, T >", "de/dfb/structmal__math_1_1vec_3_014_00_01_t_01_4.html", "de/dfb/structmal__math_1_1vec_3_014_00_01_t_01_4" ]
     ] ],
     [ "std", "d8/dcc/namespacestd.html", [
-      [ "hash< malatindez::math::mat< size_x, size_y, matrix_type > >", "dc/dc8/structstd_1_1hash_3_01malatindez_1_1math_1_1mat_3_01size__x_00_01size__y_00_01matrix__type_01_4_01_4.html", "dc/dc8/structstd_1_1hash_3_01malatindez_1_1math_1_1mat_3_01size__x_00_01size__y_00_01matrix__type_01_4_01_4" ],
-      [ "hash< malatindez::math::qua< quaternion_type > >", "df/d2c/structstd_1_1hash_3_01malatindez_1_1math_1_1qua_3_01quaternion__type_01_4_01_4.html", "df/d2c/structstd_1_1hash_3_01malatindez_1_1math_1_1qua_3_01quaternion__type_01_4_01_4" ],
-      [ "hash< malatindez::math::vec< size_x, vector_type > >", "d0/da7/structstd_1_1hash_3_01malatindez_1_1math_1_1vec_3_01size__x_00_01vector__type_01_4_01_4.html", "d0/da7/structstd_1_1hash_3_01malatindez_1_1math_1_1vec_3_01size__x_00_01vector__type_01_4_01_4" ]
+      [ "hash< mal_math::mat< size_x, size_y, matrix_type > >", "d6/d5a/structstd_1_1hash_3_01mal__math_1_1mat_3_01size__x_00_01size__y_00_01matrix__type_01_4_01_4.html", "d6/d5a/structstd_1_1hash_3_01mal__math_1_1mat_3_01size__x_00_01size__y_00_01matrix__type_01_4_01_4" ],
+      [ "hash< mal_math::qua< quaternion_type > >", "d8/d03/structstd_1_1hash_3_01mal__math_1_1qua_3_01quaternion__type_01_4_01_4.html", "d8/d03/structstd_1_1hash_3_01mal__math_1_1qua_3_01quaternion__type_01_4_01_4" ],
+      [ "hash< mal_math::vec< size_x, vector_type > >", "d4/d2e/structstd_1_1hash_3_01mal__math_1_1vec_3_01size__x_00_01vector__type_01_4_01_4.html", "d4/d2e/structstd_1_1hash_3_01mal__math_1_1vec_3_01size__x_00_01vector__type_01_4_01_4" ]
     ] ]
 ];

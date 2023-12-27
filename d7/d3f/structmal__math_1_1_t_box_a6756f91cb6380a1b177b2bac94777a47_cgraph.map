@@ -1,0 +1,9 @@
+<map id="mal_math::TBox::Intersect" name="mal_math::TBox::Intersect">
+<area shape="rect" id="Node000001" title="Checks if a ray intersects with the box and updates the nearest intersection distance." alt="" coords="5,70,166,96"/>
+<area shape="rect" id="Node000002" href="$dd/d4b/classmal__math_1_1_ray.html#aca65886193e6c139c058c1ed5688c9e2" title="Retrieves the inverse of the ray&#39;s direction." alt="" coords="221,5,344,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,67,206,45,207,50,133,72"/>
+<area shape="rect" id="Node000003" href="$dd/d4b/classmal__math_1_1_ray.html#a9163e63dd91bd52a51aa8a60d0ffe94a" title="Retrieves the ray&#39;s origin (const version)." alt="" coords="214,70,351,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,80,198,80,198,86,166,86"/>
+<area shape="rect" id="Node000004" href="$dd/d4b/classmal__math_1_1_ray.html#a224f1e4e8f6196951c3079957e8b940c" title="Retrieves the sign of the inverse direction for each axis." alt="" coords="219,120,346,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,94,214,113,213,118,139,99"/>
+</map>

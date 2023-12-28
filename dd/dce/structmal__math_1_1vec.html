@@ -208,12 +208,6 @@ requires (<a class="el" href="#a778486ad60c80c11fb3cf9f513b69906">size</a> == U:
 <tr class="memitem:a5462ab7c5e2c9a57784c8a2bcceab626" id="r_a5462ab7c5e2c9a57784c8a2bcceab626"><td class="memItemLeft" align="right" valign="top">constexpr T const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5462ab7c5e2c9a57784c8a2bcceab626">operator[]</a> (size_t i) const</td></tr>
 <tr class="memdesc:a5462ab7c5e2c9a57784c8a2bcceab626"><td class="mdescLeft">&#160;</td><td class="mdescRight">Overloaded subscript operator for const rvec.  <br /></td></tr>
 <tr class="separator:a5462ab7c5e2c9a57784c8a2bcceab626"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f528f63d4d5d3b4774efc54ff95ffc7" id="r_a5f528f63d4d5d3b4774efc54ff95ffc7"><td class="memTemplParams" colspan="2">template&lt;Primitive U&gt; </td></tr>
-<tr class="memitem:a5f528f63d4d5d3b4774efc54ff95ffc7"><td class="memTemplItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a5f528f63d4d5d3b4774efc54ff95ffc7">unpack_data</a> (int offset, U u)</td></tr>
-<tr class="separator:a5f528f63d4d5d3b4774efc54ff95ffc7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7a4b95bbd32fdf5f0f01295492612907" id="r_a7a4b95bbd32fdf5f0f01295492612907"><td class="memTemplParams" colspan="2">template&lt;typename A , typename B , typename... C&gt; </td></tr>
-<tr class="memitem:a7a4b95bbd32fdf5f0f01295492612907"><td class="memTemplItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a7a4b95bbd32fdf5f0f01295492612907">unpack_data</a> (int offset, A a, B b, C... c)</td></tr>
-<tr class="separator:a7a4b95bbd32fdf5f0f01295492612907"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -1032,88 +1026,8 @@ template&lt;size_t L, Primitive T&gt; </div>
 
 </div>
 </div>
-<a id="a7a4b95bbd32fdf5f0f01295492612907" name="a7a4b95bbd32fdf5f0f01295492612907"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7a4b95bbd32fdf5f0f01295492612907">&#9670;&#160;</a></span>unpack_data() <span class="overload">[1/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;size_t L, Primitive T&gt; </div>
-<div class="memtemplate">
-template&lt;typename A , typename B , typename... C&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr void <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">mal_math::vec</a>&lt; L, T &gt;::unpack_data </td>
-          <td>(</td>
-          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>offset</em>, </span></td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">A</td>          <td class="paramname"><span class="paramname"><em>a</em>, </span></td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">B</td>          <td class="paramname"><span class="paramname"><em>b</em>, </span></td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">C...</td>          <td class="paramname"><span class="paramname"><em>c</em></span>&#160;)</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../d6/d8c/vecn_8inl_source.html#l00180">180</a> of file <a class="el" href="../../d6/d8c/vecn_8inl_source.html">vecn.inl</a>.</p>
-
-</div>
-</div>
-<a id="a5f528f63d4d5d3b4774efc54ff95ffc7" name="a5f528f63d4d5d3b4774efc54ff95ffc7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5f528f63d4d5d3b4774efc54ff95ffc7">&#9670;&#160;</a></span>unpack_data() <span class="overload">[2/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;size_t L, Primitive T&gt; </div>
-<div class="memtemplate">
-template&lt;class V &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr void <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">mal_math::vec</a>&lt; L, T &gt;::unpack_data </td>
-          <td>(</td>
-          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>offset</em>, </span></td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">V</td>          <td class="paramname"><span class="paramname"><em>u</em></span>&#160;)</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="../../d6/d8c/vecn_8inl_source.html#l00165">165</a> of file <a class="el" href="../../d6/d8c/vecn_8inl_source.html">vecn.inl</a>.</p>
-
-</div>
-</div>
 <a id="afbaea1ccbc5d0965867acffd94ea0aff" name="afbaea1ccbc5d0965867acffd94ea0aff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afbaea1ccbc5d0965867acffd94ea0aff">&#9670;&#160;</a></span>unpack_data() <span class="overload">[3/5]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#afbaea1ccbc5d0965867acffd94ea0aff">&#9670;&#160;</a></span>unpack_data() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1148,7 +1062,7 @@ template&lt;typename A , typename B , typename... C&gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -1164,10 +1078,17 @@ template&lt;typename A , typename B , typename... C&gt; </div>
   </dd>
 </dl>
 
+<p class="definition">Definition at line <a class="el" href="../../d4/d02/vecn_8hpp_source.html#l00161">161</a> of file <a class="el" href="../../d4/d02/vecn_8hpp_source.html">vecn.hpp</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dce/structmal__math_1_1vec_afbaea1ccbc5d0965867acffd94ea0aff_cgraph.svg" width="408" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+
 </div>
 </div>
 <a id="a67813dc45c4bd24932563730ea5e7b42" name="a67813dc45c4bd24932563730ea5e7b42"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a67813dc45c4bd24932563730ea5e7b42">&#9670;&#160;</a></span>unpack_data() <span class="overload">[4/5]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a67813dc45c4bd24932563730ea5e7b42">&#9670;&#160;</a></span>unpack_data() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1192,7 +1113,7 @@ template&lt;Primitive U&gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -1206,10 +1127,17 @@ template&lt;Primitive U&gt; </div>
   </dd>
 </dl>
 
+<p class="definition">Definition at line <a class="el" href="../../d4/d02/vecn_8hpp_source.html#l00134">134</a> of file <a class="el" href="../../d4/d02/vecn_8hpp_source.html">vecn.hpp</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dce/structmal__math_1_1vec_a67813dc45c4bd24932563730ea5e7b42_icgraph.svg" width="408" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+
 </div>
 </div>
 <a id="a7f0c01fa1301775e607c2eab336709f7" name="a7f0c01fa1301775e607c2eab336709f7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f0c01fa1301775e607c2eab336709f7">&#9670;&#160;</a></span>unpack_data() <span class="overload">[5/5]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f0c01fa1301775e607c2eab336709f7">&#9670;&#160;</a></span>unpack_data() <span class="overload">[3/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1234,7 +1162,7 @@ template&lt;class V &gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -1247,6 +1175,8 @@ template&lt;class V &gt; </div>
   </table>
   </dd>
 </dl>
+
+<p class="definition">Definition at line <a class="el" href="../../d4/d02/vecn_8hpp_source.html#l00145">145</a> of file <a class="el" href="../../d4/d02/vecn_8hpp_source.html">vecn.hpp</a>.</p>
 
 </div>
 </div>
@@ -1310,7 +1240,7 @@ template&lt;size_t L, Primitive T&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d1d/namespacemal__math.html">mal_math</a></li><li class="navelem"><a class="el" href="../../dd/dce/structmal__math_1_1vec.html">vec</a></li>
-    <li class="footer">Generated on Wed Dec 27 2023 18:58:31 for mal-math by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0 </li>
+    <li class="footer">Generated on Thu Dec 28 2023 08:03:45 for mal-math by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0 </li>
   </ul>
 </div>
 </body>

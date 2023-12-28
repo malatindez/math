@@ -60,8 +60,8 @@ var NAVTREEINDEX =
 "d8/d24/math-common_8hpp.html#ada8223112d8e542a693b58046ea9bdbf",
 "d9/dcd/vec3_8hpp.html#a7f550c3c403f0adec17efceab99542d3",
 "dc/d19/structmal__math_1_1vec_3_013_00_01_t_01_4.html#ad641d2172776382350c3d0d08372e8b4",
-"de/dfb/structmal__math_1_1vec_3_014_00_01_t_01_4.html#a3dbc208846eb165b9a726682a941e4c8",
-"namespacemembers_f.html"
+"de/dfb/structmal__math_1_1vec_3_014_00_01_t_01_4.html#a4fbc4cabe886fc9d4c8dcbf3fff5d9d4",
+"namespacemembers_func_d.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -23,8 +23,6 @@ var structmal__math_1_1vec =
     [ "operator[]", "dd/dce/structmal__math_1_1vec.html#a249392eb95fc773ec66fa753c5481c9a", null ],
     [ "operator[]", "dd/dce/structmal__math_1_1vec.html#a5462ab7c5e2c9a57784c8a2bcceab626", null ],
     [ "reset", "dd/dce/structmal__math_1_1vec.html#afeb1b7d295505944a8c4384d02382b0a", null ],
-    [ "unpack_data", "dd/dce/structmal__math_1_1vec.html#a7a4b95bbd32fdf5f0f01295492612907", null ],
-    [ "unpack_data", "dd/dce/structmal__math_1_1vec.html#a5f528f63d4d5d3b4774efc54ff95ffc7", null ],
     [ "unpack_data", "dd/dce/structmal__math_1_1vec.html#afbaea1ccbc5d0965867acffd94ea0aff", null ],
     [ "unpack_data", "dd/dce/structmal__math_1_1vec.html#a67813dc45c4bd24932563730ea5e7b42", null ],
     [ "unpack_data", "dd/dce/structmal__math_1_1vec.html#a7f0c01fa1301775e607c2eab336709f7", null ],

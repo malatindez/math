@@ -29,6 +29,28 @@ namespace mal_math
     }
 
     template <size_t a, size_t b, Primitive T>
+    template <typename U>
+    constexpr rmat<a, b, T>& rmat<a, b, T>::operator=(mat<a, b, U> const& mat)
+    {
+        for (size_t i = 0; i < a; i++)
+        {
+            data[i] = mat.data[i];
+        }
+        return *this;
+    }
+
+    template <size_t a, size_t b, Primitive T>
+    template <typename U>
+    constexpr rmat<a, b, T>& rmat<a, b, T>::operator=(rmat<a, b, U> const& mat)
+    {
+        for (size_t i = 0; i < a; i++)
+        {
+            data[i] = mat.data[i];
+        }
+        return *this;
+    }
+
+    template <size_t a, size_t b, Primitive T>
     constexpr void rmat<a, b, T>::reset() noexcept
     {
         for (size_t i = 0; i < size.x; i++)

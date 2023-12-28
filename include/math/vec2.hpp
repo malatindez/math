@@ -8,7 +8,7 @@
  * @brief Defines a 2D vector and provides its operations.
  */
 
-#include "math-common.hpp"
+#include "vec.hpp"
 
 #pragma warning(push)
 #pragma warning(disable : 4201)

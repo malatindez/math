@@ -30,7 +30,8 @@
  * that the underlying data they reference remains valid.
  * 
  * For implementation details, please refer to "rmatnxn.inl".
- */namespace mal_math {
+ */
+namespace mal_math {
 
     /**
      * @brief Represents a matrix of references, allowing efficient interactions 

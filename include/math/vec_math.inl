@@ -826,9 +826,8 @@ namespace mal_math
         }
         return rv;
     }
-
     template <AnyVec T, AnyVec U>
-    constexpr void rmin(T &left, U const &max) noexcept
+    constexpr void rmin(T &left, U const &max) noexcept requires(T::size == U::size)
     {
         for (size_t i = 0; i < T::size; i++)
         {
@@ -837,7 +836,7 @@ namespace mal_math
     }
 
     template <AnyVec T, AnyVec U>
-    constexpr void rmax(T &left, U const &min) noexcept
+    constexpr void rmax(T &left, U const &min) noexcept requires(T::size == U::size)
     {
         for (size_t i = 0; i < T::size; i++)
         {

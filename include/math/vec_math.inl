@@ -716,7 +716,7 @@ namespace mal_math
         }
     }
     template <AnyVec T, AnyVec U>
-    constexpr void rclamp(T &left, U const min, U const max) noexcept
+    constexpr void rclamp(T &left, U const min, U const max) noexcept requires(T::size == U::size)
     {
         for (size_t i = 0; i < T::size; i++)
         {
@@ -753,7 +753,7 @@ namespace mal_math
         return rvec;
     }
     template <AnyVec T, AnyVec U>
-    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> clamp(T const &left, U const &min, U const &max) noexcept
+    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> clamp(T const &left, U const &min, U const &max) noexcept requires(T::size == U::size)
     {
         vec<T::size, std::remove_const_t<typename T::type>> rvec;
         for (size_t i = 0; i < T::size; i++)
@@ -806,7 +806,7 @@ namespace mal_math
     }
 
     template <AnyVec T, AnyVec U>
-    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> min(T const &left, U const &right) noexcept
+    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> min(T const &left, U const &right) noexcept requires(T::size == U::size)
     {
         vec<T::size, std::remove_const_t<typename T::type>> rv;
         for (size_t i = 0; i < T::size; i++)
@@ -817,7 +817,7 @@ namespace mal_math
     }
 
     template <AnyVec T, AnyVec U>
-    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> max(T const &left, U const &right) noexcept
+    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> max(T const &left, U const &right) noexcept requires(T::size == U::size)
     {
         vec<T::size, std::remove_const_t<typename T::type>> rv;
         for (size_t i = 0; i < T::size; i++)

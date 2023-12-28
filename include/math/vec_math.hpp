@@ -360,7 +360,7 @@ namespace mal_math
      * @param max The maximum value.
      */
     template <AnyVec T, AnyVec U>
-    constexpr void rclamp(T &left, U const min, U const max) noexcept;
+    constexpr void rclamp(T &left, U const min, U const max) noexcept requires(T::size == U::size);
 
     /**
      * @brief Clamp the value of `left` between `min` and `max`.
@@ -386,7 +386,7 @@ namespace mal_math
      * @return The clamped value.
      */
     template <AnyVec T, AnyVec U>
-    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> clamp(T const &left, U const &min, U const &max) noexcept;
+    [[nodiscard]] constexpr vec<T::size, std::remove_const_t<typename T::type>> clamp(T const &left, U const &min, U const &max) noexcept requires(T::size == U::size);
 
     /**
      * @brief Clamp the value of `left` between `min` and `max`.

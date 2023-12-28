@@ -110,7 +110,7 @@
 <!-- Node15 -->
 <g id="Node000015" class="node">
 <title>Node15</title>
-<g id="a_Node000015"><a xlink:href="../../d1/d1d/namespacemal__math.html#a1d3b118b8c53a2dcee7ac4eda95cae62" target="_top" xlink:title="Modifies left in&#45;place, setting each element to the maximum of itself and the corresponding element i...">
+<g id="a_Node000015"><a xlink:href="../../d1/d1d/namespacemal__math.html#aaf8395dd0451e6ad4acc08131d8ef023" target="_top" xlink:title="Modifies left in&#45;place, setting each element to the maximum of itself and the corresponding element i...">
 <polygon fill="white" stroke="#666666" points="528.25,-56.25 447.75,-56.25 447.75,-37 528.25,-37 528.25,-56.25"/>
 <text text-anchor="middle" x="488" y="-42.75" font-family="Times,serif" font-size="10.00">mal_math::rmax</text>
 </a>
@@ -209,7 +209,7 @@
 <!-- Node12 -->
 <g id="Node000012" class="node">
 <title>Node12</title>
-<g id="a_Node000012"><a xlink:href="../../d1/d1d/namespacemal__math.html#a5a77426d425763e5b379007f56f5afcd" target="_top" xlink:title="Modifies left in&#45;place, setting each element to the minimum of itself and the corresponding element i...">
+<g id="a_Node000012"><a xlink:href="../../d1/d1d/namespacemal__math.html#a4447cd563a68bd32f6497735ee70a3b8" target="_top" xlink:title="Modifies left in&#45;place, setting each element to the minimum of itself and the corresponding element i...">
 <polygon fill="white" stroke="#666666" points="408,-159.25 328.25,-159.25 328.25,-140 408,-140 408,-159.25"/>
 <text text-anchor="middle" x="368.12" y="-145.75" font-family="Times,serif" font-size="10.00">mal_math::rmin</text>
 </a>

@@ -1,8 +1,8 @@
 <map id="mal_math::TBox::expand" name="mal_math::TBox::expand">
 <area shape="rect" id="Node000001" title="Expands the box to include a point." alt="" coords="5,31,158,56"/>
-<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a1d3b118b8c53a2dcee7ac4eda95cae62" title="Modifies left in&#45;place, setting each element to the maximum of itself and the corresponding element i..." alt="" coords="206,5,313,31"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#aaf8395dd0451e6ad4acc08131d8ef023" title="Modifies left in&#45;place, setting each element to the maximum of itself and the corresponding element i..." alt="" coords="206,5,313,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,30,190,25,191,31,159,35"/>
-<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a5a77426d425763e5b379007f56f5afcd" title="Modifies left in&#45;place, setting each element to the minimum of itself and the corresponding element i..." alt="" coords="361,56,467,82"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a4447cd563a68bd32f6497735ee70a3b8" title="Modifies left in&#45;place, setting each element to the minimum of itself and the corresponding element i..." alt="" coords="361,56,467,82"/>
 <area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="158,47,346,61,345,66,158,52"/>
 <area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#aef6065b4c161e80e15f71159af8119ce" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="364,7,465,32"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,16,348,16,348,22,313,21"/>

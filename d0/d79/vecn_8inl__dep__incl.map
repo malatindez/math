@@ -1,69 +1,106 @@
 <map id="include/math/vecn.inl" name="include/math/vecn.inl">
-<area shape="rect" id="Node000001" title=" " alt="" coords="463,5,601,31"/>
-<area shape="rect" id="Node000002" href="$d4/d02/vecn_8hpp.html" title="Contains the definition of the generic vec&lt;L, T&gt; structure." alt="" coords="460,79,604,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,46,528,78,522,79,521,46"/>
-<area shape="poly" id="edge42_Node000002_Node000001" title=" " alt="" coords="538,64,536,31,542,31,543,63"/>
-<area shape="rect" id="Node000003" href="$d7/d7c/vec_8hpp.html" title=" " alt="" coords="463,153,601,178"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,120,535,152,529,152,529,120"/>
-<area shape="rect" id="Node000004" href="$d8/def/vec_8cpp.html" title=" " alt="" coords="376,226,512,252"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="507,191,460,228,457,224,504,186"/>
-<area shape="rect" id="Node000005" href="$df/dc2/vec__math_8hpp.html" title="Contains a collection of mathematical operations and utility functions for vector objects." alt="" coords="536,226,707,252"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="560,186,608,224,605,228,557,190"/>
-<area shape="rect" id="Node000006" href="$dc/dc2/mat_8hpp.html" title="Provides matrix definitions tailored for various sizes and primitive types." alt="" coords="376,300,515,326"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="579,261,476,302,474,297,577,256"/>
-<area shape="rect" id="Node000025" href="$dc/d15/vec__math_8inl.html" title=" " alt="" coords="539,300,704,326"/>
-<area shape="poly" id="edge40_Node000005_Node000025" title=" " alt="" coords="615,267,617,299,612,300,610,267"/>
-<area shape="rect" id="Node000007" href="$d4/d78/math_8hpp.html" title="Provides various mathematical utilities, vector operations, and custom hash specializations." alt="" coords="482,447,598,473"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="494,331,519,348,540,372,547,392,549,412,546,447,540,447,544,412,542,393,535,375,516,352,491,335"/>
-<area shape="rect" id="Node000015" href="$d1/dea/mat_8cpp.html" title=" " alt="" coords="203,374,341,399"/>
-<area shape="poly" id="edge22_Node000006_Node000015" title=" " alt="" coords="403,334,303,376,301,371,401,329"/>
-<area shape="rect" id="Node000016" href="$dc/d4a/mat__math_8hpp.html" title="Defines various matrix mathematical operations." alt="" coords="5,374,179,399"/>
-<area shape="poly" id="edge23_Node000006_Node000016" title=" " alt="" coords="364,332,146,376,145,370,363,327"/>
-<area shape="rect" id="Node000018" href="$dd/dad/matnxn_8hpp.html" title="Provides the definition of a generic NxN matrix for mathematical operations." alt="" coords="366,374,525,399"/>
-<area shape="poly" id="edge27_Node000006_Node000018" title=" " alt="" coords="439,341,441,373,436,373,434,341"/>
-<area shape="rect" id="Node000020" href="$db/d65/quaternion_8hpp.html" title="Quaternion operations and related mathematical functions." alt="" coords="621,374,798,399"/>
-<area shape="poly" id="edge31_Node000006_Node000020" title=" " alt="" coords="505,327,665,370,664,376,504,333"/>
-<area shape="rect" id="Node000023" href="$db/de9/rmatnxn_8hpp.html" title="Specialized representation of matrices using reference semantics." alt="" coords="917,374,1081,399"/>
-<area shape="poly" id="edge36_Node000006_Node000023" title=" " alt="" coords="530,325,916,374,916,379,530,330"/>
-<area shape="rect" id="Node000008" href="$d7/de4/box_8hpp.html" title="Defines a templated bounding box class for 3D primitives." alt="" coords="34,521,172,547"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="467,474,459,476,170,523,169,518,458,470,466,469"/>
-<area shape="rect" id="Node000009" href="$d6/d02/intersection_8hpp.html" title="Provides functionalities to represent and handle intersections in 3D space." alt="" coords="196,521,377,547"/>
-<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="476,480,324,523,322,518,475,475"/>
-<area shape="rect" id="Node000011" href="$d1/df2/random_8hpp.html" title="Provides functionality for random number generation and manipulation in vector spaces." alt="" coords="402,521,561,547"/>
-<area shape="poly" id="edge13_Node000007_Node000011" title=" " alt="" coords="515,486,486,522,482,519,511,482"/>
-<area shape="rect" id="Node000012" href="$db/d1d/ray_8hpp.html" title="Contains the definition of the Ray class." alt="" coords="820,521,956,547"/>
-<area shape="poly" id="edge15_Node000007_Node000012" title=" " alt="" coords="608,474,822,518,821,523,607,479"/>
-<area shape="rect" id="Node000014" href="$d9/d6c/triangle_8hpp.html" title="Defines the Triangle structure and methods for ray&#45;triangle intersection." alt="" coords="636,521,796,547"/>
-<area shape="poly" id="edge20_Node000007_Node000014" title=" " alt="" coords="578,477,680,518,678,523,576,482"/>
-<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="187,518,481,471,482,476,187,523"/>
-<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="351,514,503,471,505,476,352,519"/>
-<area shape="rect" id="Node000010" href="$d7/d82/plane_8hpp.html" title="Provides the definition of the Plane structure and its associated operations." alt="" coords="525,595,672,620"/>
-<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="355,548,546,591,545,597,354,553"/>
-<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="590,581,571,522,545,475,550,472,576,520,595,579"/>
-<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="506,508,535,472,539,475,511,511"/>
-<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="820,520,597,475,598,469,821,515"/>
-<area shape="poly" id="edge17_Node000012_Node000010" title=" " alt="" coords="825,553,649,597,647,591,824,548"/>
-<area shape="rect" id="Node000013" href="$d0/da1/sphere_8hpp.html" title="Defines the Sphere structure and its associated functionality." alt="" coords="863,595,1017,620"/>
-<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="908,558,933,593,929,596,903,561"/>
-<area shape="poly" id="edge19_Node000013_Node000007" title=" " alt="" coords="957,581,971,550,972,536,966,523,939,504,900,492,852,485,799,481,691,480,609,476,598,474,599,469,610,470,692,474,799,476,852,480,901,487,942,500,970,519,977,535,977,552,962,583"/>
-<area shape="poly" id="edge21_Node000014_Node000007" title=" " alt="" coords="678,517,576,476,578,471,680,512"/>
-<area shape="poly" id="edge24_Node000016_Node000006" title=" " alt="" coords="173,368,391,324,392,329,174,373"/>
-<area shape="rect" id="Node000017" href="$d7/dab/mat__math_8inl.html" title=" " alt="" coords="9,447,175,473"/>
-<area shape="poly" id="edge25_Node000016_Node000017" title=" " alt="" coords="86,414,88,447,82,447,81,415"/>
-<area shape="poly" id="edge26_Node000017_Node000016" title=" " alt="" coords="98,432,96,400,102,399,103,432"/>
-<area shape="poly" id="edge28_Node000018_Node000006" title=" " alt="" coords="451,358,450,326,455,326,457,358"/>
-<area shape="rect" id="Node000019" href="$d3/df6/matnxn_8inl.html" title=" " alt="" coords="307,447,459,473"/>
-<area shape="poly" id="edge29_Node000018_Node000019" title=" " alt="" coords="419,412,388,449,384,445,415,409"/>
-<area shape="poly" id="edge30_Node000019_Node000018" title=" " alt="" coords="409,435,440,398,444,401,413,438"/>
-<area shape="poly" id="edge32_Node000020_Node000007" title=" " alt="" coords="668,408,570,449,568,444,665,403"/>
-<area shape="rect" id="Node000021" href="$da/d59/quaternion_8cpp.html" title=" " alt="" coords="622,447,797,473"/>
-<area shape="poly" id="edge33_Node000020_Node000021" title=" " alt="" coords="712,415,712,447,707,447,707,415"/>
-<area shape="rect" id="Node000022" href="$d8/d7f/quaternion_8inl.html" title=" " alt="" coords="821,447,990,473"/>
-<area shape="poly" id="edge34_Node000020_Node000022" title=" " alt="" coords="751,403,866,444,864,449,749,408"/>
-<area shape="poly" id="edge35_Node000022_Node000020" title=" " alt="" coords="864,444,749,402,750,397,866,439"/>
-<area shape="poly" id="edge37_Node000023_Node000006" title=" " alt="" coords="901,375,538,328,515,325,516,320,539,323,902,370"/>
-<area shape="rect" id="Node000024" href="$df/da5/rmatnxn_8inl.html" title=" " alt="" coords="1015,447,1172,473"/>
-<area shape="poly" id="edge38_Node000023_Node000024" title=" " alt="" coords="1021,408,1072,445,1069,449,1018,412"/>
-<area shape="poly" id="edge39_Node000024_Node000023" title=" " alt="" coords="1072,440,1020,402,1023,398,1075,435"/>
-<area shape="poly" id="edge41_Node000025_Node000005" title=" " alt="" coords="627,285,626,252,631,252,633,284"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="606,5,743,31"/>
+<area shape="rect" id="Node000002" href="$d4/d02/vecn_8hpp.html" title="Contains the definition of the generic vec&lt;L, T&gt; structure." alt="" coords="603,79,747,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="669,46,670,78,665,79,663,46"/>
+<area shape="poly" id="edge67_Node000002_Node000001" title=" " alt="" coords="681,64,679,31,684,31,686,63"/>
+<area shape="rect" id="Node000003" href="$d7/d7c/vec_8hpp.html" title=" " alt="" coords="606,153,743,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="669,120,670,152,665,152,663,120"/>
+<area shape="poly" id="edge66_Node000003_Node000002" title=" " alt="" coords="681,137,679,105,684,105,686,137"/>
+<area shape="rect" id="Node000004" href="$d4/d44/rvec2_8hpp.html" title="Definitions for the rvec&lt;2, T&gt; specialized template representing 2D vectors with reference&#45;like seman..." alt="" coords="5,226,155,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="591,178,155,229,155,224,590,173"/>
+<area shape="rect" id="Node000006" href="$d9/dc3/rvec3_8hpp.html" title="Provides the implementation of a 3D reference vector." alt="" coords="179,226,328,252"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="591,182,319,228,318,223,590,177"/>
+<area shape="rect" id="Node000008" href="$d2/d88/rvec4_8hpp.html" title="Defines a 4&#45;dimensional reference vector struct." alt="" coords="352,226,501,252"/>
+<area shape="poly" id="edge11_Node000003_Node000008" title=" " alt="" coords="612,185,463,228,461,223,610,180"/>
+<area shape="rect" id="Node000010" href="$d8/def/vec_8cpp.html" title=" " alt="" coords="525,226,662,252"/>
+<area shape="poly" id="edge15_Node000003_Node000010" title=" " alt="" coords="651,191,609,228,605,224,648,187"/>
+<area shape="rect" id="Node000011" href="$dd/d91/vec2_8hpp.html" title="Defines a 2D vector and provides its operations." alt="" coords="685,226,830,252"/>
+<area shape="poly" id="edge16_Node000003_Node000011" title=" " alt="" coords="694,187,738,224,735,228,691,191"/>
+<area shape="rect" id="Node000013" href="$d9/dcd/vec3_8hpp.html" title="Header file for the 3D vector definition." alt="" coords="853,226,998,252"/>
+<area shape="poly" id="edge20_Node000003_Node000013" title=" " alt="" coords="726,181,876,223,875,228,724,186"/>
+<area shape="rect" id="Node000015" href="$dd/dc5/vec4_8hpp.html" title="Contains the definition of the vec&lt;4, T&gt; structure." alt="" coords="1021,226,1166,252"/>
+<area shape="poly" id="edge24_Node000003_Node000015" title=" " alt="" coords="754,179,1021,224,1020,229,754,184"/>
+<area shape="rect" id="Node000017" href="$df/dc2/vec__math_8hpp.html" title="Contains a collection of mathematical operations and utility functions for vector objects." alt="" coords="1268,226,1439,252"/>
+<area shape="poly" id="edge28_Node000003_Node000017" title=" " alt="" coords="759,173,1268,226,1267,231,758,178"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="170,225,178,224,605,173,606,178,179,229,171,230"/>
+<area shape="rect" id="Node000005" href="$dd/d72/rvec2_8inl.html" title=" " alt="" coords="9,300,151,326"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="74,267,76,299,70,300,69,267"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="86,285,84,252,90,252,91,284"/>
+<area shape="poly" id="edge10_Node000006_Node000003" title=" " alt="" coords="343,221,609,176,610,182,344,227"/>
+<area shape="rect" id="Node000007" href="$d7/d70/rvec3_8inl.html" title=" " alt="" coords="182,300,325,326"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="247,267,249,299,244,300,242,267"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="259,285,258,252,263,252,265,284"/>
+<area shape="poly" id="edge14_Node000008_Node000003" title=" " alt="" coords="489,219,639,176,640,181,491,224"/>
+<area shape="rect" id="Node000009" href="$d1/d9f/rvec4_8inl.html" title=" " alt="" coords="356,300,498,326"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="421,267,422,299,417,300,415,267"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="433,285,431,252,436,252,438,284"/>
+<area shape="poly" id="edge17_Node000011_Node000003" title=" " alt="" coords="738,217,694,181,697,177,741,213"/>
+<area shape="rect" id="Node000012" href="$d2/d56/vec2_8inl.html" title=" " alt="" coords="689,300,826,326"/>
+<area shape="poly" id="edge18_Node000011_Node000012" title=" " alt="" coords="751,267,753,299,748,300,746,267"/>
+<area shape="poly" id="edge19_Node000012_Node000011" title=" " alt="" coords="763,285,762,252,767,252,769,284"/>
+<area shape="poly" id="edge21_Node000013_Node000003" title=" " alt="" coords="874,224,723,181,725,176,876,219"/>
+<area shape="rect" id="Node000014" href="$d3/dc9/vec3_8inl.html" title=" " alt="" coords="857,300,994,326"/>
+<area shape="poly" id="edge22_Node000013_Node000014" title=" " alt="" coords="919,267,921,299,916,300,914,267"/>
+<area shape="poly" id="edge23_Node000014_Node000013" title=" " alt="" coords="931,285,930,252,935,252,937,284"/>
+<area shape="poly" id="edge25_Node000015_Node000003" title=" " alt="" coords="1013,226,744,180,744,175,1014,220"/>
+<area shape="rect" id="Node000016" href="$da/d28/vec4_8inl.html" title=" " alt="" coords="1025,300,1162,326"/>
+<area shape="poly" id="edge26_Node000015_Node000016" title=" " alt="" coords="1087,267,1089,299,1084,300,1082,267"/>
+<area shape="poly" id="edge27_Node000016_Node000015" title=" " alt="" coords="1099,285,1098,252,1103,252,1105,284"/>
+<area shape="rect" id="Node000018" href="$dc/dc2/mat_8hpp.html" title="Provides matrix definitions tailored for various sizes and primitive types." alt="" coords="1186,300,1326,326"/>
+<area shape="poly" id="edge29_Node000017_Node000018" title=" " alt="" coords="1326,264,1274,302,1271,297,1323,259"/>
+<area shape="rect" id="Node000037" href="$dc/d15/vec__math_8inl.html" title=" " alt="" coords="1350,300,1514,326"/>
+<area shape="poly" id="edge64_Node000017_Node000037" title=" " alt="" coords="1371,261,1414,298,1410,302,1368,265"/>
+<area shape="rect" id="Node000019" href="$d4/d78/math_8hpp.html" title="Provides various mathematical utilities, vector operations, and custom hash specializations." alt="" coords="1293,447,1408,473"/>
+<area shape="poly" id="edge30_Node000018_Node000019" title=" " alt="" coords="1304,331,1330,348,1350,372,1357,392,1360,412,1356,447,1351,447,1354,412,1352,393,1346,375,1326,352,1301,335"/>
+<area shape="rect" id="Node000027" href="$d1/dea/mat_8cpp.html" title=" " alt="" coords="1014,374,1152,399"/>
+<area shape="poly" id="edge46_Node000018_Node000027" title=" " alt="" coords="1214,334,1113,376,1111,371,1212,329"/>
+<area shape="rect" id="Node000028" href="$dc/d4a/mat__math_8hpp.html" title="Defines various matrix mathematical operations." alt="" coords="816,374,989,399"/>
+<area shape="poly" id="edge47_Node000018_Node000028" title=" " alt="" coords="1174,332,956,376,955,370,1173,327"/>
+<area shape="rect" id="Node000030" href="$dd/dad/matnxn_8hpp.html" title="Provides the definition of a generic NxN matrix for mathematical operations." alt="" coords="1176,374,1336,399"/>
+<area shape="poly" id="edge51_Node000018_Node000030" title=" " alt="" coords="1250,341,1252,373,1246,373,1245,341"/>
+<area shape="rect" id="Node000032" href="$db/d65/quaternion_8hpp.html" title="Quaternion operations and related mathematical functions." alt="" coords="1432,374,1608,399"/>
+<area shape="poly" id="edge55_Node000018_Node000032" title=" " alt="" coords="1316,327,1476,370,1474,376,1314,333"/>
+<area shape="rect" id="Node000035" href="$db/de9/rmatnxn_8hpp.html" title="Specialized representation of matrices using reference semantics." alt="" coords="1727,374,1892,399"/>
+<area shape="poly" id="edge60_Node000018_Node000035" title=" " alt="" coords="1341,325,1727,374,1726,379,1340,330"/>
+<area shape="rect" id="Node000020" href="$d7/de4/box_8hpp.html" title="Defines a templated bounding box class for 3D primitives." alt="" coords="844,521,983,547"/>
+<area shape="poly" id="edge31_Node000019_Node000020" title=" " alt="" coords="1278,474,1270,476,980,523,980,518,1269,470,1277,469"/>
+<area shape="rect" id="Node000021" href="$d6/d02/intersection_8hpp.html" title="Provides functionalities to represent and handle intersections in 3D space." alt="" coords="1007,521,1188,547"/>
+<area shape="poly" id="edge33_Node000019_Node000021" title=" " alt="" coords="1287,480,1134,523,1133,518,1286,475"/>
+<area shape="rect" id="Node000023" href="$d1/df2/random_8hpp.html" title="Provides functionality for random number generation and manipulation in vector spaces." alt="" coords="1212,521,1372,547"/>
+<area shape="poly" id="edge37_Node000019_Node000023" title=" " alt="" coords="1326,486,1297,522,1293,519,1322,482"/>
+<area shape="rect" id="Node000024" href="$db/d1d/ray_8hpp.html" title="Contains the definition of the Ray class." alt="" coords="1631,521,1766,547"/>
+<area shape="poly" id="edge39_Node000019_Node000024" title=" " alt="" coords="1418,474,1633,518,1632,523,1417,479"/>
+<area shape="rect" id="Node000026" href="$d9/d6c/triangle_8hpp.html" title="Defines the Triangle structure and methods for ray&#45;triangle intersection." alt="" coords="1447,521,1606,547"/>
+<area shape="poly" id="edge44_Node000019_Node000026" title=" " alt="" coords="1388,477,1491,518,1489,523,1386,482"/>
+<area shape="poly" id="edge32_Node000020_Node000019" title=" " alt="" coords="997,518,1292,471,1293,476,998,523"/>
+<area shape="poly" id="edge34_Node000021_Node000019" title=" " alt="" coords="1161,514,1314,471,1315,476,1163,519"/>
+<area shape="rect" id="Node000022" href="$d7/d82/plane_8hpp.html" title="Provides the definition of the Plane structure and its associated operations." alt="" coords="1336,595,1483,620"/>
+<area shape="poly" id="edge35_Node000021_Node000022" title=" " alt="" coords="1166,548,1357,591,1356,597,1165,553"/>
+<area shape="poly" id="edge36_Node000022_Node000019" title=" " alt="" coords="1401,581,1382,522,1356,475,1361,472,1386,520,1406,579"/>
+<area shape="poly" id="edge38_Node000023_Node000019" title=" " alt="" coords="1317,508,1346,472,1350,475,1321,511"/>
+<area shape="poly" id="edge40_Node000024_Node000019" title=" " alt="" coords="1631,520,1408,475,1409,469,1632,515"/>
+<area shape="poly" id="edge41_Node000024_Node000022" title=" " alt="" coords="1636,553,1459,597,1458,591,1634,548"/>
+<area shape="rect" id="Node000025" href="$d0/da1/sphere_8hpp.html" title="Defines the Sphere structure and its associated functionality." alt="" coords="1674,595,1828,620"/>
+<area shape="poly" id="edge42_Node000024_Node000025" title=" " alt="" coords="1718,558,1744,593,1740,596,1714,561"/>
+<area shape="poly" id="edge43_Node000025_Node000019" title=" " alt="" coords="1767,581,1782,550,1783,536,1777,523,1750,504,1711,492,1663,485,1609,481,1502,480,1420,476,1408,474,1409,469,1420,470,1502,474,1609,476,1663,480,1712,487,1752,500,1781,519,1788,535,1787,552,1772,583"/>
+<area shape="poly" id="edge45_Node000026_Node000019" title=" " alt="" coords="1489,517,1386,476,1388,471,1491,512"/>
+<area shape="poly" id="edge48_Node000028_Node000018" title=" " alt="" coords="984,368,1202,324,1203,329,985,373"/>
+<area shape="rect" id="Node000029" href="$d7/dab/mat__math_8inl.html" title=" " alt="" coords="820,447,986,473"/>
+<area shape="poly" id="edge49_Node000028_Node000029" title=" " alt="" coords="897,414,898,447,893,447,891,415"/>
+<area shape="poly" id="edge50_Node000029_Node000028" title=" " alt="" coords="909,432,907,400,912,399,914,432"/>
+<area shape="poly" id="edge52_Node000030_Node000018" title=" " alt="" coords="1262,358,1260,326,1266,326,1267,358"/>
+<area shape="rect" id="Node000031" href="$d3/df6/matnxn_8inl.html" title=" " alt="" coords="1117,447,1270,473"/>
+<area shape="poly" id="edge53_Node000030_Node000031" title=" " alt="" coords="1230,412,1199,449,1195,445,1225,409"/>
+<area shape="poly" id="edge54_Node000031_Node000030" title=" " alt="" coords="1219,435,1250,398,1255,401,1224,438"/>
+<area shape="poly" id="edge56_Node000032_Node000019" title=" " alt="" coords="1478,408,1381,449,1379,444,1476,403"/>
+<area shape="rect" id="Node000033" href="$da/d59/quaternion_8cpp.html" title=" " alt="" coords="1432,447,1608,473"/>
+<area shape="poly" id="edge57_Node000032_Node000033" title=" " alt="" coords="1523,415,1523,447,1517,447,1517,415"/>
+<area shape="rect" id="Node000034" href="$d8/d7f/quaternion_8inl.html" title=" " alt="" coords="1631,447,1801,473"/>
+<area shape="poly" id="edge58_Node000032_Node000034" title=" " alt="" coords="1561,403,1677,444,1675,449,1559,408"/>
+<area shape="poly" id="edge59_Node000034_Node000032" title=" " alt="" coords="1675,444,1559,402,1561,397,1676,439"/>
+<area shape="poly" id="edge61_Node000035_Node000018" title=" " alt="" coords="1711,375,1349,328,1326,325,1326,320,1350,323,1712,370"/>
+<area shape="rect" id="Node000036" href="$df/da5/rmatnxn_8inl.html" title=" " alt="" coords="1825,447,1983,473"/>
+<area shape="poly" id="edge62_Node000035_Node000036" title=" " alt="" coords="1832,408,1882,445,1879,449,1829,412"/>
+<area shape="poly" id="edge63_Node000036_Node000035" title=" " alt="" coords="1882,440,1831,402,1834,398,1885,435"/>
+<area shape="poly" id="edge65_Node000037_Node000017" title=" " alt="" coords="1413,291,1372,255,1375,251,1417,287"/>
 </map>

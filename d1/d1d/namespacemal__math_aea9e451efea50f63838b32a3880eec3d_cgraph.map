@@ -1,0 +1,9 @@
+<map id="mal_math::rclamp" name="mal_math::rclamp">
+<area shape="rect" id="Node000001" title="Clamp the value of left between min and max in&#45;place." alt="" coords="5,31,122,56"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a1772c0a8c3a9672ecf7b372fb536e492" title="Returns a new vector with each element being the maximum of the corresponding element in left and min..." alt="" coords="170,5,272,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,32,154,26,155,31,122,37"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#aef6065b4c161e80e15f71159af8119ce" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="320,5,421,31"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="122,45,194,46,272,41,312,33,313,38,272,46,194,51,122,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,24,305,24,305,30,272,29"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="320,12,287,12,288,7,320,7"/>
+</map>

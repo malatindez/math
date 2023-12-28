@@ -1255,14 +1255,20 @@ requires (T::size == U::size &amp;&amp; T::size == 3)</td></tr>
 <tr class="memitem:a9df9f049be433c7e1cd8ab01fdef2502"><td class="memTemplItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a9df9f049be433c7e1cd8ab01fdef2502">rclamp</a> (T &amp;left, U const <a class="el" href="#aef6065b4c161e80e15f71159af8119ce">min</a>, U const <a class="el" href="#a1772c0a8c3a9672ecf7b372fb536e492">max</a>) noexcept</td></tr>
 <tr class="memdesc:a9df9f049be433c7e1cd8ab01fdef2502"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clamp the value of <code>left</code> between <code>min</code> and <code>max</code> in-place.  <br /></td></tr>
 <tr class="separator:a9df9f049be433c7e1cd8ab01fdef2502"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea9e451efea50f63838b32a3880eec3d" id="r_aea9e451efea50f63838b32a3880eec3d"><td class="memTemplParams" colspan="2">template&lt;AnyVec T, AnyVec U&gt; <br />
+requires (T::size == U::size)</td></tr>
+<tr class="memitem:aea9e451efea50f63838b32a3880eec3d"><td class="memTemplItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#aea9e451efea50f63838b32a3880eec3d">rclamp</a> (T &amp;left, U const <a class="el" href="#aef6065b4c161e80e15f71159af8119ce">min</a>, U const <a class="el" href="#a1772c0a8c3a9672ecf7b372fb536e492">max</a>) noexcept</td></tr>
+<tr class="memdesc:aea9e451efea50f63838b32a3880eec3d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clamp the value of <code>left</code> between <code>min</code> and <code>max</code> in-place.  <br /></td></tr>
+<tr class="separator:aea9e451efea50f63838b32a3880eec3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a155cd682c1a04cbf38d755c37ffe4b80" id="r_a155cd682c1a04cbf38d755c37ffe4b80"><td class="memTemplParams" colspan="2">template&lt;AnyVec T, Primitive U&gt; </td></tr>
 <tr class="memitem:a155cd682c1a04cbf38d755c37ffe4b80"><td class="memTemplItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">vec</a>&lt; T::size, std::remove_const_t&lt; typename T::type &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a155cd682c1a04cbf38d755c37ffe4b80">clamp</a> (T const &amp;left, U const <a class="el" href="#aef6065b4c161e80e15f71159af8119ce">min</a>, U const <a class="el" href="#a1772c0a8c3a9672ecf7b372fb536e492">max</a>) noexcept</td></tr>
 <tr class="memdesc:a155cd682c1a04cbf38d755c37ffe4b80"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clamp the value of <code>left</code> between <code>min</code> and <code>max</code>.  <br /></td></tr>
 <tr class="separator:a155cd682c1a04cbf38d755c37ffe4b80"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a134d08d210af28640d9ab77cb0eb6fe7" id="r_a134d08d210af28640d9ab77cb0eb6fe7"><td class="memTemplParams" colspan="2">template&lt;AnyVec T, AnyVec U&gt; </td></tr>
-<tr class="memitem:a134d08d210af28640d9ab77cb0eb6fe7"><td class="memTemplItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">vec</a>&lt; T::size, std::remove_const_t&lt; typename T::type &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a134d08d210af28640d9ab77cb0eb6fe7">clamp</a> (T const &amp;left, U const &amp;<a class="el" href="#aef6065b4c161e80e15f71159af8119ce">min</a>, U const &amp;<a class="el" href="#a1772c0a8c3a9672ecf7b372fb536e492">max</a>) noexcept</td></tr>
-<tr class="memdesc:a134d08d210af28640d9ab77cb0eb6fe7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clamp the value of <code>left</code> between <code>min</code> and <code>max</code>.  <br /></td></tr>
-<tr class="separator:a134d08d210af28640d9ab77cb0eb6fe7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2cc744886db3eb1957bc8ab02c4f07ba" id="r_a2cc744886db3eb1957bc8ab02c4f07ba"><td class="memTemplParams" colspan="2">template&lt;AnyVec T, AnyVec U&gt; <br />
+requires (T::size == U::size)</td></tr>
+<tr class="memitem:a2cc744886db3eb1957bc8ab02c4f07ba"><td class="memTemplItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">vec</a>&lt; T::size, std::remove_const_t&lt; typename T::type &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a2cc744886db3eb1957bc8ab02c4f07ba">clamp</a> (T const &amp;left, U const &amp;<a class="el" href="#aef6065b4c161e80e15f71159af8119ce">min</a>, U const &amp;<a class="el" href="#a1772c0a8c3a9672ecf7b372fb536e492">max</a>) noexcept</td></tr>
+<tr class="memdesc:a2cc744886db3eb1957bc8ab02c4f07ba"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clamp the value of <code>left</code> between <code>min</code> and <code>max</code>.  <br /></td></tr>
+<tr class="separator:a2cc744886db3eb1957bc8ab02c4f07ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a62078768f0d05a97bc7bfc7dba63ba1d" id="r_a62078768f0d05a97bc7bfc7dba63ba1d"><td class="memTemplParams" colspan="2">template&lt;Primitive T, Primitive U&gt; </td></tr>
 <tr class="memitem:a62078768f0d05a97bc7bfc7dba63ba1d"><td class="memTemplItemLeft" align="right" valign="top">constexpr T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a62078768f0d05a97bc7bfc7dba63ba1d">clamp</a> (T left, U const <a class="el" href="#aef6065b4c161e80e15f71159af8119ce">min</a>, U const <a class="el" href="#a1772c0a8c3a9672ecf7b372fb536e492">max</a>) noexcept</td></tr>
 <tr class="memdesc:a62078768f0d05a97bc7bfc7dba63ba1d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clamp the value of <code>left</code> between <code>min</code> and <code>max</code>.  <br /></td></tr>
@@ -1321,14 +1327,6 @@ requires (T::size == U::size)</td></tr>
 <tr class="memitem:a2cceec949aefd8a77d471388fe97c305" id="r_a2cceec949aefd8a77d471388fe97c305"><td class="memTemplParams" colspan="2">template&lt;size_t size, Primitive T, Primitive U&gt; </td></tr>
 <tr class="memitem:a2cceec949aefd8a77d471388fe97c305"><td class="memTemplItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">vec</a>&lt; size, std::remove_const_t&lt; T &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a2cceec949aefd8a77d471388fe97c305">operator-</a> (U const value, <a class="el" href="../../db/d79/structmal__math_1_1__detail_1_1rvec.html">_detail::rvec</a>&lt; size, T &gt; const &amp;vector) noexcept</td></tr>
 <tr class="separator:a2cceec949aefd8a77d471388fe97c305"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae7e9cfad86ece2ee32df1f34fc401236" id="r_ae7e9cfad86ece2ee32df1f34fc401236"><td class="memTemplParams" colspan="2">template&lt;AnyVec T, AnyVec U&gt; </td></tr>
-<tr class="memitem:ae7e9cfad86ece2ee32df1f34fc401236"><td class="memTemplItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">vec</a>&lt; T::size, std::remove_const_t&lt; typename T::type &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#ae7e9cfad86ece2ee32df1f34fc401236">min</a> (T const &amp;left, U const &amp;right) noexcept</td></tr>
-<tr class="memdesc:ae7e9cfad86ece2ee32df1f34fc401236"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new vector with each element being the minimum of the corresponding elements in <code>left</code> and <code>right</code>.  <br /></td></tr>
-<tr class="separator:ae7e9cfad86ece2ee32df1f34fc401236"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a22c05a3e7cb19279ad011afd00b72d98" id="r_a22c05a3e7cb19279ad011afd00b72d98"><td class="memTemplParams" colspan="2">template&lt;AnyVec T, AnyVec U&gt; </td></tr>
-<tr class="memitem:a22c05a3e7cb19279ad011afd00b72d98"><td class="memTemplItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">vec</a>&lt; T::size, std::remove_const_t&lt; typename T::type &gt; &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="#a22c05a3e7cb19279ad011afd00b72d98">max</a> (T const &amp;left, U const &amp;right) noexcept</td></tr>
-<tr class="memdesc:a22c05a3e7cb19279ad011afd00b72d98"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a new vector with each element being the maximum of the corresponding elements in <code>left</code> and <code>right</code>.  <br /></td></tr>
-<tr class="separator:a22c05a3e7cb19279ad011afd00b72d98"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Contains mathematical utility functions and classes. </p>
@@ -4505,13 +4503,14 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a134d08d210af28640d9ab77cb0eb6fe7" name="a134d08d210af28640d9ab77cb0eb6fe7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a134d08d210af28640d9ab77cb0eb6fe7">&#9670;&#160;</a></span>clamp() <span class="overload">[1/4]</span></h2>
+<a id="a2cc744886db3eb1957bc8ab02c4f07ba" name="a2cc744886db3eb1957bc8ab02c4f07ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2cc744886db3eb1957bc8ab02c4f07ba">&#9670;&#160;</a></span>clamp() <span class="overload">[1/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;AnyVec T, AnyVec U&gt; </div>
+template&lt;AnyVec T, AnyVec U&gt; <br />
+requires (T::size == U::size)</div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
@@ -4561,7 +4560,7 @@ template&lt;AnyVec T, AnyVec U&gt; </div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d1/d1d/namespacemal__math_a134d08d210af28640d9ab77cb0eb6fe7_cgraph.svg" width="423" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d1/d1d/namespacemal__math_a2cc744886db3eb1957bc8ab02c4f07ba_cgraph.svg" width="423" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -7415,7 +7414,7 @@ Here is the call graph for this function:</div>
 </div>
 </div>
 <a id="a4f6cee9f2cf0eb65d12ef346ebc68820" name="a4f6cee9f2cf0eb65d12ef346ebc68820"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4f6cee9f2cf0eb65d12ef346ebc68820">&#9670;&#160;</a></span>max() <span class="overload">[1/3]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f6cee9f2cf0eb65d12ef346ebc68820">&#9670;&#160;</a></span>max() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -7465,58 +7464,8 @@ requires (T::size == U::size)</div>
 
 </div>
 </div>
-<a id="a22c05a3e7cb19279ad011afd00b72d98" name="a22c05a3e7cb19279ad011afd00b72d98"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a22c05a3e7cb19279ad011afd00b72d98">&#9670;&#160;</a></span>max() <span class="overload">[2/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;AnyVec T, AnyVec U&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">vec</a>&lt; T::size, std::remove_const_t&lt; typename T::type &gt; &gt; mal_math::max </td>
-          <td>(</td>
-          <td class="paramtype">T const &amp;</td>          <td class="paramname"><span class="paramname"><em>left</em>, </span></td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">U const &amp;</td>          <td class="paramname"><span class="paramname"><em>max</em></span>&#160;)</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Returns a new vector with each element being the maximum of the corresponding elements in <code>left</code> and <code>right</code>. </p>
-<dl class="tparams"><dt>Template Parameters</dt><dd>
-  <table class="tparams">
-    <tr><td class="paramname">T</td><td>Type of the left vector. </td></tr>
-    <tr><td class="paramname">U</td><td>Type of the right vector. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">left</td><td>First input vector. </td></tr>
-    <tr><td class="paramname">right</td><td>Second input vector. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>Vector containing the element-wise maximum values. </dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="../../dc/d15/vec__math_8inl_source.html#l00820">820</a> of file <a class="el" href="../../dc/d15/vec__math_8inl_source.html">vec_math.inl</a>.</p>
-
-</div>
-</div>
 <a id="a1772c0a8c3a9672ecf7b372fb536e492" name="a1772c0a8c3a9672ecf7b372fb536e492"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1772c0a8c3a9672ecf7b372fb536e492">&#9670;&#160;</a></span>max() <span class="overload">[3/3]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a1772c0a8c3a9672ecf7b372fb536e492">&#9670;&#160;</a></span>max() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -7576,7 +7525,7 @@ Here is the caller graph for this function:</div>
 </div>
 </div>
 <a id="ae904ec0e755c3438301c9d332a6c4275" name="ae904ec0e755c3438301c9d332a6c4275"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae904ec0e755c3438301c9d332a6c4275">&#9670;&#160;</a></span>min() <span class="overload">[1/3]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ae904ec0e755c3438301c9d332a6c4275">&#9670;&#160;</a></span>min() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -7626,58 +7575,8 @@ requires (T::size == U::size)</div>
 
 </div>
 </div>
-<a id="ae7e9cfad86ece2ee32df1f34fc401236" name="ae7e9cfad86ece2ee32df1f34fc401236"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7e9cfad86ece2ee32df1f34fc401236">&#9670;&#160;</a></span>min() <span class="overload">[2/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;AnyVec T, AnyVec U&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../dd/dce/structmal__math_1_1vec.html">vec</a>&lt; T::size, std::remove_const_t&lt; typename T::type &gt; &gt; mal_math::min </td>
-          <td>(</td>
-          <td class="paramtype">T const &amp;</td>          <td class="paramname"><span class="paramname"><em>left</em>, </span></td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">U const &amp;</td>          <td class="paramname"><span class="paramname"><em>min</em></span>&#160;)</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Returns a new vector with each element being the minimum of the corresponding elements in <code>left</code> and <code>right</code>. </p>
-<dl class="tparams"><dt>Template Parameters</dt><dd>
-  <table class="tparams">
-    <tr><td class="paramname">T</td><td>Type of the left vector. </td></tr>
-    <tr><td class="paramname">U</td><td>Type of the right vector. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">left</td><td>First input vector. </td></tr>
-    <tr><td class="paramname">right</td><td>Second input vector. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>Vector containing the element-wise minimum values. </dd></dl>
-
-<p class="definition">Definition at line <a class="el" href="../../dc/d15/vec__math_8inl_source.html#l00809">809</a> of file <a class="el" href="../../dc/d15/vec__math_8inl_source.html">vec_math.inl</a>.</p>
-
-</div>
-</div>
 <a id="aef6065b4c161e80e15f71159af8119ce" name="aef6065b4c161e80e15f71159af8119ce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef6065b4c161e80e15f71159af8119ce">&#9670;&#160;</a></span>min() <span class="overload">[3/3]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aef6065b4c161e80e15f71159af8119ce">&#9670;&#160;</a></span>min() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -11086,7 +10985,7 @@ Here is the caller graph for this function:</div>
 </div>
 </div>
 <a id="a9df9f049be433c7e1cd8ab01fdef2502" name="a9df9f049be433c7e1cd8ab01fdef2502"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9df9f049be433c7e1cd8ab01fdef2502">&#9670;&#160;</a></span>rclamp()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a9df9f049be433c7e1cd8ab01fdef2502">&#9670;&#160;</a></span>rclamp() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -11141,6 +11040,67 @@ template&lt;Primitive T, Primitive U&gt; </div>
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../d1/d1d/namespacemal__math_a9df9f049be433c7e1cd8ab01fdef2502_cgraph.svg" width="427" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+
+</div>
+</div>
+<a id="aea9e451efea50f63838b32a3880eec3d" name="aea9e451efea50f63838b32a3880eec3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea9e451efea50f63838b32a3880eec3d">&#9670;&#160;</a></span>rclamp() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;AnyVec T, AnyVec U&gt; <br />
+requires (T::size == U::size)</div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr void mal_math::rclamp </td>
+          <td>(</td>
+          <td class="paramtype">T &amp;</td>          <td class="paramname"><span class="paramname"><em>left</em>, </span></td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">U const</td>          <td class="paramname"><span class="paramname"><em>min</em>, </span></td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">U const</td>          <td class="paramname"><span class="paramname"><em>max</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Clamp the value of <code>left</code> between <code>min</code> and <code>max</code> in-place. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td>Type of the value to be clamped. </td></tr>
+    <tr><td class="paramname">U</td><td>Type of the boundary values. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">left</td><td>The value to be clamped. </td></tr>
+    <tr><td class="paramname">min</td><td>The minimum value. </td></tr>
+    <tr><td class="paramname">max</td><td>The maximum value. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="../../dc/d15/vec__math_8inl_source.html#l00719">719</a> of file <a class="el" href="../../dc/d15/vec__math_8inl_source.html">vec_math.inl</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d1/d1d/namespacemal__math_aea9e451efea50f63838b32a3880eec3d_cgraph.svg" width="427" height="62"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -12976,7 +12936,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d1d/namespacemal__math.html">mal_math</a></li>
-    <li class="footer">Generated on Thu Dec 28 2023 10:50:56 for mal-math by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0 </li>
+    <li class="footer">Generated on Thu Dec 28 2023 11:27:55 for mal-math by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.10.0 </li>
   </ul>
 </div>
 </body>

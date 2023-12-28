@@ -66,7 +66,7 @@ var sectionId = 'dynsection-87';
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="../../d1/d1d/namespacemal__math.html#a134d08d210af28640d9ab77cb0eb6fe7" target="_top" xlink:title="Clamp the value of left between min and max.">
+<g id="a_Node000002"><a xlink:href="../../d1/d1d/namespacemal__math.html#a2cc744886db3eb1957bc8ab02c4f07ba" target="_top" xlink:title="Clamp the value of left between min and max.">
 <polygon fill="white" stroke="#666666" points="410.25,-307.25 326,-307.25 326,-288 410.25,-288 410.25,-307.25"/>
 <text text-anchor="middle" x="368.12" y="-293.75" font-family="Times,serif" font-size="10.00">mal_math::clamp</text>
 </a>

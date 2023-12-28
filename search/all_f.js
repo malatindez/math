@@ -22,7 +22,7 @@ var searchData=
   ['randomvector4_19',['RandomVector4',['../d3/d4f/namespacemal__math_1_1random.html#a058764613c71b5193e73afbba59ef06c',1,'mal_math::random']]],
   ['ray_20',['Ray',['../dd/d4b/classmal__math_1_1_ray.html',1,'mal_math::Ray'],['../dd/d4b/classmal__math_1_1_ray.html#af64aaeb1f16ccf20533b69daade50423',1,'mal_math::Ray::Ray()=default'],['../dd/d4b/classmal__math_1_1_ray.html#aad719429216606fb6579e157377d5db8',1,'mal_math::Ray::Ray(vec3 const &amp;origin, vec3 const &amp;direction)']]],
   ['ray_2ehpp_21',['ray.hpp',['../db/d1d/ray_8hpp.html',1,'']]],
-  ['rclamp_22',['rclamp',['../d1/d1d/namespacemal__math.html#a9df9f049be433c7e1cd8ab01fdef2502',1,'mal_math']]],
+  ['rclamp_22',['rclamp',['../d1/d1d/namespacemal__math.html#a9df9f049be433c7e1cd8ab01fdef2502',1,'mal_math::rclamp(T &amp;left, U const min, U const max) noexcept'],['../d1/d1d/namespacemal__math.html#aea9e451efea50f63838b32a3880eec3d',1,'mal_math::rclamp(T &amp;left, U const min, U const max) noexcept']]],
   ['rctranspose_23',['rctranspose',['../d1/d1d/namespacemal__math.html#af8de7decb6532fbab657945fc342dba9',1,'mal_math']]],
   ['reflect_24',['reflect',['../d1/d1d/namespacemal__math.html#acaee67bdf61bcdcb3f6020296b8a8420',1,'mal_math']]],
   ['refract_25',['refract',['../d1/d1d/namespacemal__math.html#af6d612d4cba91e31876b9a752a2f6509',1,'mal_math']]],

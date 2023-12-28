@@ -1,6 +1,6 @@
 <map id="mal_math::min" name="mal_math::min">
 <area shape="rect" id="Node000001" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="758,213,859,239"/>
-<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a134d08d210af28640d9ab77cb0eb6fe7" title="Clamp the value of left between min and max." alt="" coords="440,5,552,31"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a2cc744886db3eb1957bc8ab02c4f07ba" title="Clamp the value of left between min and max." alt="" coords="440,5,552,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="785,203,751,165,708,127,663,97,616,71,532,34,535,29,618,66,666,92,711,123,754,161,789,199"/>
 <area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a155cd682c1a04cbf38d755c37ffe4b80" title="Clamp the value of left between min and max." alt="" coords="440,55,552,80"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="769,208,672,155,553,94,530,83,532,79,555,89,675,150,772,203"/>

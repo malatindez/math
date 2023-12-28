@@ -159,28 +159,4 @@ namespace mal_math
     {
         return get_parameter_pack_size<A>() + get_parameter_pack_size<B, C...>();
     }
-
-    template <size_t L, Primitive T>
-    template <Primitive U> // primitives
-    constexpr void vec<L, T>::unpack_data(int offset, U u)
-    {
-        data[offset] = static_cast<T>(u);
-    }
-    template <size_t L, Primitive T>
-    template <class V> // vectors
-    constexpr void vec<L, T>::unpack_data(int offset, V vec)
-    {
-        for (int i = 0; i < V::size; i++)
-        {
-            data[offset + i] = static_cast<T>(vec[i]);
-        }
-    }
-    template <size_t L, Primitive T>
-    template <typename A, typename B, typename... C>
-    constexpr void vec<L, T>::unpack_data(int offset, A a, B b, C... c)
-    {
-        unpack_data(offset, a);
-        offset += get_parameter_pack_size<A>();
-        unpack_data(offset, b, c...);
-    }
 }; // namespace mal_math

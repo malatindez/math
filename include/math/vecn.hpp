@@ -1,6 +1,6 @@
 #pragma once
 
-#include "vec.hpp"
+#include "math-common.hpp"
 /**
  * @file vecn.hpp
  * 
@@ -131,7 +131,10 @@ namespace mal_math
          * @param u The primitive value to unpack.
          */
         template <Primitive U>
-        constexpr void unpack_data(size_t offset, U u);
+        constexpr void unpack_data(size_t offset, U u)
+        {
+            data[offset] = static_cast<T>(u);
+        }
         /**
          * @brief Unpacks a vector into the matrix data.
          * 
@@ -139,7 +142,13 @@ namespace mal_math
          * @param vec The vector to unpack.
          */
         template <class V>
-        constexpr void unpack_data(size_t offset, V vec);
+        constexpr void unpack_data(size_t offset, V vec)
+        {
+            for (size_t i = 0; i < V::size; i++)
+            {
+                data[offset + i] = static_cast<T>(vec[i]);
+            }
+        }
         /**
          * @brief Recursively unpacks multiple values into the vector data.
          * 
@@ -149,7 +158,12 @@ namespace mal_math
          * @param rest The remaining values to unpack.
          */
         template <typename A, typename B, typename... C>
-        constexpr void unpack_data(size_t offset, A a, B b, C... c);
+        constexpr void unpack_data(size_t offset, A a, B b, C... c)
+        {
+            unpack_data(offset, a);
+            offset += get_parameter_pack_size<A>();
+            unpack_data(offset, b, c...);
+        }
     };
 }; // namespace mal_math
 #include "vecn.inl"

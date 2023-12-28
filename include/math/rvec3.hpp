@@ -1,6 +1,6 @@
 #pragma once
 
-#include "vec.hpp"
+#include "math-common.hpp"
 /**
  * @file rvec3.hpp
  * 

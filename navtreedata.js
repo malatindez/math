@@ -54,7 +54,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d1/d1d/namespacemal__math.html#a9df9f049be433c7e1cd8ab01fdef2502",
+"d1/d1d/namespacemal__math.html#a9bf6413984ea6537b00a0aa7fcb9a8fa",
 "d2/dd8/structmal__math_1_1_sphere.html#a93e95a22d666b3ce16d1d033c8945fc5",
 "d7/dab/mat__math_8inl.html#ade56943b39fc52b4c26166875efbc095",
 "d8/d24/math-common_8hpp.html#ae3fb60d41ea5eab61b44388dfdcc3901",

@@ -1,0 +1,5 @@
+<map id="mal_math::random::poisson_disc::_detail::PoissonDisc" name="mal_math::random::poisson_disc::_detail::PoissonDisc">
+<area shape="rect" id="Node000001" title="Generates a set of points distributed according to Poisson Disk Sampling." alt="" coords="220,5,386,46"/>
+<area shape="rect" id="Node000002" href="$dc/dad/namespacemal__math_1_1random_1_1poisson__disc.html#ada6e1ca0f98cd418d91ff4d963ee3243" title="Wrapper function for generating Poisson Disk sampled 2D points." alt="" coords="5,5,172,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,28,172,28,172,23,204,23"/>
+</map>

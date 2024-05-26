@@ -1,0 +1,31 @@
+<map id="mal_math::random::_detail::RandomVector" name="mal_math::random::_detail::RandomVector">
+<area shape="rect" id="Node000001" title="Generates a random vector between two other vectors." alt="" coords="438,397,582,438"/>
+<area shape="rect" id="Node000002" href="$de/d54/namespacemal__math_1_1random_1_1poisson__disc_1_1__detail.html#a5fc2fd014656cd15396002f5cdc8df16" title="Generates a set of points distributed according to Poisson Disk Sampling." alt="" coords="222,5,388,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,382,496,315,476,229,461,184,442,140,418,98,388,61,373,49,376,44,392,57,422,95,447,137,466,182,481,228,501,314,509,381"/>
+<area shape="rect" id="Node000004" href="$d3/d4f/namespacemal__math_1_1random.html#ad48d3b691aaba957bdc4c63a706bc165" title=" " alt="" coords="220,71,390,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="501,382,489,327,468,258,435,188,413,155,388,126,372,114,375,110,392,122,418,152,439,185,473,257,494,325,506,381"/>
+<area shape="rect" id="Node000005" href="$d3/d4f/namespacemal__math_1_1random.html#aab290147e98b6b66e6bf244bf012bbb6" title=" " alt="" coords="220,136,390,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="497,383,481,340,459,289,428,237,388,192,371,179,374,175,392,188,432,234,463,286,486,338,502,382"/>
+<area shape="rect" id="Node000006" href="$d3/d4f/namespacemal__math_1_1random.html#abf95fd4efb8720dffd1d9fa50c73634c" title=" " alt="" coords="220,201,390,242"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="489,385,448,320,420,287,388,257,369,245,371,240,392,253,424,283,452,317,494,382"/>
+<area shape="rect" id="Node000007" href="$d3/d4f/namespacemal__math_1_1random.html#af5919fb6bb282f2db30b5f99c95abe00" title=" " alt="" coords="220,267,390,307"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="475,389,435,355,389,323,364,310,367,306,391,318,438,351,478,385"/>
+<area shape="rect" id="Node000008" href="$d3/d4f/namespacemal__math_1_1random.html#a2e54a2c0c8b62581158142d690547a7f" title=" " alt="" coords="220,332,390,373"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="429,395,370,376,372,371,430,390"/>
+<area shape="rect" id="Node000009" href="$d3/d4f/namespacemal__math_1_1random.html#a0e82cde1eb16bbb0de69dd3645dd202e" title=" " alt="" coords="220,397,390,438"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="422,420,391,420,391,415,422,415"/>
+<area shape="rect" id="Node000010" href="$d3/d4f/namespacemal__math_1_1random.html#a7293cb1082fa418f82de3ff312c9a2a8" title=" " alt="" coords="220,463,390,503"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="430,446,372,465,370,459,429,441"/>
+<area shape="rect" id="Node000011" href="$d3/d4f/namespacemal__math_1_1random.html#a2b7299f3d8d46bf8ac6d6f06c935d890" title=" " alt="" coords="220,528,390,569"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="478,451,438,485,391,517,367,530,364,525,389,513,435,481,475,447"/>
+<area shape="rect" id="Node000012" href="$d3/d4f/namespacemal__math_1_1random.html#adfe63e21231edd4c78a5586c6cbeb404" title=" " alt="" coords="220,593,390,634"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="494,453,452,518,424,552,392,582,371,595,369,590,388,578,420,549,448,515,489,450"/>
+<area shape="rect" id="Node000013" href="$d3/d4f/namespacemal__math_1_1random.html#a41ab06591a4385e15c71a67c28372726" title=" " alt="" coords="220,659,390,699"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="502,454,486,497,463,549,432,602,392,648,374,660,371,656,388,644,428,598,459,547,481,495,497,452"/>
+<area shape="rect" id="Node000014" href="$d3/d4f/namespacemal__math_1_1random.html#a2e4147ca852ccdac99274c4545defdc0" title=" " alt="" coords="220,724,390,765"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="506,454,494,510,473,579,439,650,418,683,392,713,375,725,372,721,388,709,413,680,435,647,468,577,489,509,501,453"/>
+<area shape="rect" id="Node000015" href="$d3/d4f/namespacemal__math_1_1random.html#a058764613c71b5193e73afbba59ef06c" title=" " alt="" coords="220,789,390,830"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="509,454,501,522,481,608,466,653,447,698,422,740,392,778,376,791,373,787,388,774,418,737,442,696,461,651,476,606,496,521,504,454"/>
+<area shape="rect" id="Node000003" href="$dc/dad/namespacemal__math_1_1random_1_1poisson__disc.html#ada6e1ca0f98cd418d91ff4d963ee3243" title="Wrapper function for generating Poisson Disk sampled 2D points." alt="" coords="5,5,172,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,28,172,28,172,23,206,23"/>
+</map>

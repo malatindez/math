@@ -1,5 +1,7 @@
 <map id="mal_math::vec::unpack_data" name="mal_math::vec::unpack_data">
-<area shape="rect" id="Node000001" title="Recursively unpacks multiple values into the vector data." alt="" coords="5,5,180,31"/>
-<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#a67813dc45c4bd24932563730ea5e7b42" title="Unpacks a single primitive value into the vector data." alt="" coords="228,5,402,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,16,212,16,212,21,180,21"/>
+<area shape="rect" id="Node000001" title="Recursively unpacks multiple values into the vector data." alt="" coords="5,42,180,68"/>
+<area shape="rect" id="Node000002" href="$dd/dce/structmal__math_1_1vec.html#a60d04587928247b6e0d6e00a9660b8bf" title="Determines the size of a parameter pack for primitive types." alt="" coords="243,5,387,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,41,227,35,227,40,180,46"/>
+<area shape="rect" id="Node000003" href="$dd/dce/structmal__math_1_1vec.html#a67813dc45c4bd24932563730ea5e7b42" title="Unpacks a single primitive value into the vector data." alt="" coords="228,70,402,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,63,212,67,212,73,180,69"/>
 </map>

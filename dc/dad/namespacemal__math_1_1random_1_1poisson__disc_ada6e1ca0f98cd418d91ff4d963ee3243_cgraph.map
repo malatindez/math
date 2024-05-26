@@ -1,0 +1,15 @@
+<map id="mal_math::random::poisson_disc::Generate" name="mal_math::random::poisson_disc::Generate">
+<area shape="rect" id="Node000001" title="Wrapper function for generating Poisson Disk sampled 2D points." alt="" coords="5,53,172,93"/>
+<area shape="rect" id="Node000002" href="$de/d54/namespacemal__math_1_1random_1_1poisson__disc_1_1__detail.html#a5fc2fd014656cd15396002f5cdc8df16" title="Generates a set of points distributed according to Poisson Disk Sampling." alt="" coords="220,53,386,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,70,204,70,204,76,172,76"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a70273f9f35b9c5fafb0c4c027a0cc427" title="Compute the distance between two vectors." alt="" coords="444,31,568,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,58,428,52,429,57,387,63"/>
+<area shape="rect" id="Node000007" href="$db/d90/namespacemal__math_1_1random_1_1__detail.html#ac81ba1e35de8f8c735fb6aa3e654b27b" title="Generates a random vector between two other vectors." alt="" coords="434,81,578,121"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="387,82,419,86,418,91,386,87"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" title="Computes the length (or magnitude) of a quaternion." alt="" coords="626,31,740,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="569,41,611,41,611,46,569,46"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#aab7b54d530da999aae378287a25da1c0" title="Computes the dot product of two quaternions." alt="" coords="789,5,887,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="740,32,773,26,774,31,741,37"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#a8578ea303028d0b058d33dc3aca926b3" title=" " alt="" coords="788,55,888,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="741,50,773,55,772,60,740,55"/>
+</map>

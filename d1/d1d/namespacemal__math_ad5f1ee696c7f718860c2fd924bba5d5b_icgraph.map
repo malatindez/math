@@ -1,0 +1,11 @@
+<map id="mal_math::as_rvec" name="mal_math::as_rvec">
+<area shape="rect" id="Node000001" title="Convert a given vector to a reference of vec with specified size and type." alt="" coords="466,55,587,80"/>
+<area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a724af9c98ce1ddfc652ef50372c8fe68" title="Convert a given const vector to a const reference of vec with the same size and type." alt="" coords="263,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,53,381,34,383,29,457,48"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#aaf8b2db2462957ed92f0ee7eadde7c42" title="Convert a given vector to a reference of vec with the same size and type." alt="" coords="266,55,388,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="451,70,388,70,388,65,451,65"/>
+<area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a31216fcb3ff8ce34fd5da7d4854ceced" title="Inverts an orthonormal matrix in&#45;place and stores the result in a destination matrix." alt="" coords="236,104,418,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="457,87,383,106,381,101,456,82"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a569eb19a6a1170047350022672ecaf15" title="Returns an inverted orthonormal matrix." alt="" coords="5,104,188,130"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="220,120,188,120,188,114,220,114"/>
+</map>

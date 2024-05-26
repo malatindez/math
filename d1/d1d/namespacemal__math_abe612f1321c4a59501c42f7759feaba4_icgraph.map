@@ -1,18 +1,24 @@
 <map id="mal_math::normalize" name="mal_math::normalize">
-<area shape="rect" id="Node000001" title="Normalizes a quaternion." alt="" coords="382,141,514,167"/>
-<area shape="rect" id="Node000002" href="$d2/dd8/structmal__math_1_1_sphere.html#a16d1dfc076a08ee64ff10aff05669da4" title="Determines if a Ray intersects with the Sphere." alt="" coords="165,5,334,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,131,386,86,360,64,333,44,310,34,312,29,335,40,364,60,390,83,430,127"/>
-<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#ae75c0f78e391bc79564c5ddc63a74612" title="Generates a look&#45;at matrix for camera positioning." alt="" coords="189,55,310,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="413,136,333,94,303,83,305,78,335,89,415,131"/>
-<area shape="rect" id="Node000004" href="$d9/d76/structmal__math_1_1qua.html#a76e9e79edda5b35e32e583dc638ad252" title="Constructs a quaternion from an angle and rotation axis." alt="" coords="187,104,312,130"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="366,142,311,131,312,126,367,136"/>
-<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a3e5409e48ad66d42b0f0643bf4591163" title="Rotates a matrix by a given angle around a given axis." alt="" coords="194,177,305,203"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="367,171,306,183,305,178,366,166"/>
-<area shape="rect" id="Node000007" href="$db/d90/namespacemal__math_1_1random_1_1__detail.html#a8a729c12da52b3aa8764cbd4ebe7252f" title="Generates a unit vector with random direction." alt="" coords="184,227,315,268"/>
-<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="412,178,335,218,309,229,307,224,333,213,410,173"/>
-<area shape="rect" id="Node000008" href="$de/db9/structmal__math_1_1_plane.html#a568a7d2c844bc73f43611217334106f9" title="Updates the plane&#39;s vectors and normal based on two new vectors." alt="" coords="174,293,325,333"/>
-<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="432,181,391,231,365,258,336,282,314,294,311,290,332,277,361,254,387,228,427,178"/>
-<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="281,164,270,158,249,156,230,158,219,163,217,168,222,175,218,178,211,169,215,159,228,153,249,151,272,153,284,160"/>
-<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#ae2ea884f0e0c63166d344b52a7633934" title="Rotates a 4x4 matrix using a quaternion." alt="" coords="5,177,117,203"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="178,193,117,193,117,188,178,188"/>
+<area shape="rect" id="Node000001" title="Normalizes a quaternion." alt="" coords="441,141,573,167"/>
+<area shape="rect" id="Node000002" href="$d2/dd8/structmal__math_1_1_sphere.html#a16d1dfc076a08ee64ff10aff05669da4" title="Determines if a Ray intersects with the Sphere." alt="" coords="224,5,393,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,131,445,86,419,64,392,44,369,34,371,29,394,40,423,60,449,83,489,127"/>
+<area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#ae75c0f78e391bc79564c5ddc63a74612" title="Generates a look&#45;at matrix for camera positioning." alt="" coords="248,55,369,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="472,136,392,94,362,83,364,78,394,89,474,131"/>
+<area shape="rect" id="Node000004" href="$d9/d76/structmal__math_1_1qua.html#a76e9e79edda5b35e32e583dc638ad252" title="Constructs a quaternion from an angle and rotation axis." alt="" coords="246,104,371,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="425,142,370,131,371,126,426,136"/>
+<area shape="rect" id="Node000005" href="$d1/d1d/namespacemal__math.html#a3e5409e48ad66d42b0f0643bf4591163" title="Rotates a matrix by a given angle around a given axis." alt="" coords="253,177,364,203"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="426,171,365,183,364,178,425,166"/>
+<area shape="rect" id="Node000007" href="$db/d90/namespacemal__math_1_1random_1_1__detail.html#a8a729c12da52b3aa8764cbd4ebe7252f" title="Generates a unit vector with random direction." alt="" coords="243,227,374,268"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="471,178,394,218,368,229,366,224,392,213,469,173"/>
+<area shape="rect" id="Node000011" href="$de/db9/structmal__math_1_1_plane.html#a568a7d2c844bc73f43611217334106f9" title="Updates the plane&#39;s vectors and normal based on two new vectors." alt="" coords="233,293,384,333"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="491,181,450,231,424,258,395,282,373,294,370,290,391,277,420,254,446,228,486,178"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="343,165,331,158,308,156,287,158,276,163,274,168,279,175,275,178,269,169,272,159,286,153,308,151,333,153,345,160"/>
+<area shape="rect" id="Node000006" href="$d1/d1d/namespacemal__math.html#ae2ea884f0e0c63166d344b52a7633934" title="Rotates a 4x4 matrix using a quaternion." alt="" coords="35,144,146,170"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="237,182,146,168,147,163,238,177"/>
+<area shape="rect" id="Node000008" href="$d3/d4f/namespacemal__math_1_1random.html#a2cf25dd98c6a4e844b5b1bdfd7cb0c91" title="Generates a random 2D float direction." alt="" coords="5,194,176,235"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="227,238,176,230,177,225,228,233"/>
+<area shape="rect" id="Node000009" href="$d3/d4f/namespacemal__math_1_1random.html#af7cd83426ef8b8cfa4f88ed1b0057eec" title="Generates a random 3D float direction." alt="" coords="5,259,176,300"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="228,262,177,270,176,264,227,257"/>
+<area shape="rect" id="Node000010" href="$d3/d4f/namespacemal__math_1_1random.html#a71db75e975f5c5eabbd5048cd47a5501" title="Generates a random 4D float direction." alt="" coords="5,325,176,365"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="238,277,225,283,177,314,150,326,148,321,174,309,222,279,235,272"/>
 </map>

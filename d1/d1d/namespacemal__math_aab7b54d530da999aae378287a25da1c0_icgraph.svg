@@ -46,9 +46,9 @@
   </g>
 </defs>
 <script type="application/ecmascript">
-var viewWidth = 668;
+var viewWidth = 712;
 var viewHeight = 576;
-var sectionId = 'dynsection-47';
+var sectionId = 'dynsection-53';
 </script>
 <script type="application/ecmascript" xlink:href="../../svg.min.js"/>
 <svg id="graph" class="graph">
@@ -58,8 +58,8 @@ var sectionId = 'dynsection-47';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title="Computes the dot product of two quaternions.">
-<polygon fill="#999999" stroke="#666666" points="659.75,-357.25 586,-357.25 586,-338 659.75,-338 659.75,-357.25"/>
-<text text-anchor="middle" x="622.88" y="-343.75" font-family="Times,serif" font-size="10.00">mal_math::dot</text>
+<polygon fill="#999999" stroke="#666666" points="704,-357.25 630.25,-357.25 630.25,-338 704,-338 704,-357.25"/>
+<text text-anchor="middle" x="667.12" y="-343.75" font-family="Times,serif" font-size="10.00">mal_math::dot</text>
 </a>
 </g>
 </g>
@@ -67,8 +67,8 @@ var sectionId = 'dynsection-47';
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="../../d1/d1d/namespacemal__math.html#a6c89bca6ee3f863870442353a30e89e2" target="_top" xlink:title="Compute the angle between two vectors.">
-<polygon fill="white" stroke="#666666" points="530.12,-536.25 448.88,-536.25 448.88,-517 530.12,-517 530.12,-536.25"/>
-<text text-anchor="middle" x="489.5" y="-522.75" font-family="Times,serif" font-size="10.00">mal_math::angle</text>
+<polygon fill="white" stroke="#666666" points="574.38,-536.25 493.12,-536.25 493.12,-517 574.38,-517 574.38,-536.25"/>
+<text text-anchor="middle" x="533.75" y="-522.75" font-family="Times,serif" font-size="10.00">mal_math::angle</text>
 </a>
 </g>
 </g>
@@ -76,8 +76,8 @@ var sectionId = 'dynsection-47';
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M618.29,-368.63C611.33,-402.95 592.75,-470.95 550,-508.62 544.41,-513.55 537.52,-517.13 530.42,-519.72"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="621.67,-369.6 620.07,-359.12 614.79,-368.31 621.67,-369.6"/>
+<path fill="none" stroke="#63b8ff" d="M662.54,-368.63C655.58,-402.95 637,-470.95 594.25,-508.62 588.66,-513.55 581.77,-517.13 574.67,-519.72"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="665.92,-369.6 664.32,-359.12 659.04,-368.31 665.92,-369.6"/>
 </a>
 </g>
 </g>
@@ -85,8 +85,8 @@ var sectionId = 'dynsection-47';
 <g id="Node000003" class="node">
 <title>Node3</title>
 <g id="a_Node000003"><a xlink:href="../../d2/dd8/structmal__math_1_1_sphere.html#acc2e23b368333c7044a94666b488578e" target="_top" xlink:title="Determines the intersection point of a Ray with the Sphere.">
-<polygon fill="white" stroke="#666666" points="542.12,-499.25 436.88,-499.25 436.88,-480 542.12,-480 542.12,-499.25"/>
-<text text-anchor="middle" x="489.5" y="-485.75" font-family="Times,serif" font-size="10.00">mal_math::Sphere::Hit</text>
+<polygon fill="white" stroke="#666666" points="586.38,-499.25 481.12,-499.25 481.12,-480 586.38,-480 586.38,-499.25"/>
+<text text-anchor="middle" x="533.75" y="-485.75" font-family="Times,serif" font-size="10.00">mal_math::Sphere::Hit</text>
 </a>
 </g>
 </g>
@@ -94,8 +94,8 @@ var sectionId = 'dynsection-47';
 <g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
 <g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M615.26,-368.44C605.42,-396.05 584.33,-444.45 550,-471.62 546.02,-474.77 541.5,-477.37 536.77,-479.52"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="618.52,-369.71 618.41,-359.12 611.89,-367.47 618.52,-369.71"/>
+<path fill="none" stroke="#63b8ff" d="M659.51,-368.44C649.67,-396.05 628.58,-444.45 594.25,-471.62 590.27,-474.77 585.75,-477.37 581.02,-479.52"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="662.77,-369.71 662.66,-359.12 656.14,-367.47 662.77,-369.71"/>
 </a>
 </g>
 </g>
@@ -103,8 +103,8 @@ var sectionId = 'dynsection-47';
 <g id="Node000005" class="node">
 <title>Node5</title>
 <g id="a_Node000005"><a xlink:href="../../de/db9/structmal__math_1_1_plane.html#ad59fe8bfb1f87f1e05764607a372b359" target="_top" xlink:title="Checks for the intersection of the plane with a given ray.">
-<polygon fill="white" stroke="#666666" points="550,-462.25 429,-462.25 429,-443 550,-443 550,-462.25"/>
-<text text-anchor="middle" x="489.5" y="-448.75" font-family="Times,serif" font-size="10.00">mal_math::Plane::Intersect</text>
+<polygon fill="white" stroke="#666666" points="594.25,-462.25 473.25,-462.25 473.25,-443 594.25,-443 594.25,-462.25"/>
+<text text-anchor="middle" x="533.75" y="-448.75" font-family="Times,serif" font-size="10.00">mal_math::Plane::Intersect</text>
 </a>
 </g>
 </g>
@@ -112,8 +112,8 @@ var sectionId = 'dynsection-47';
 <g id="edge4_Node000001_Node000005" class="edge">
 <title>Node1&#45;&gt;Node5</title>
 <g id="a_edge4_Node000001_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M610.11,-367.39C597.54,-386.89 575.89,-416.22 550,-433.62 544.69,-437.19 538.67,-440.13 532.54,-442.53"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="613.02,-369.34 615.33,-359 607.07,-365.64 613.02,-369.34"/>
+<path fill="none" stroke="#63b8ff" d="M654.36,-367.39C641.79,-386.89 620.14,-416.22 594.25,-433.62 588.94,-437.19 582.92,-440.13 576.79,-442.53"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="657.27,-369.34 659.58,-359 651.32,-365.64 657.27,-369.34"/>
 </a>
 </g>
 </g>
@@ -121,9 +121,9 @@ var sectionId = 'dynsection-47';
 <g id="Node000006" class="node">
 <title>Node6</title>
 <g id="a_Node000006"><a xlink:href="../../d3/dc1/structmal__math_1_1_triangle.html#af4c79ad8378a09c5266336dde0626bac" target="_top" xlink:title="Determines if a ray intersects with the triangle using its vertices.">
-<polygon fill="white" stroke="#666666" points="536.12,-424.88 442.88,-424.88 442.88,-394.38 536.12,-394.38 536.12,-424.88"/>
-<text text-anchor="start" x="450.88" y="-411.38" font-family="Times,serif" font-size="10.00">mal_math::Triangle</text>
-<text text-anchor="middle" x="489.5" y="-400.12" font-family="Times,serif" font-size="10.00">::Intersect</text>
+<polygon fill="white" stroke="#666666" points="580.38,-424.88 487.12,-424.88 487.12,-394.38 580.38,-394.38 580.38,-424.88"/>
+<text text-anchor="start" x="495.12" y="-411.38" font-family="Times,serif" font-size="10.00">mal_math::Triangle</text>
+<text text-anchor="middle" x="533.75" y="-400.12" font-family="Times,serif" font-size="10.00">::Intersect</text>
 </a>
 </g>
 </g>
@@ -131,8 +131,8 @@ var sectionId = 'dynsection-47';
 <g id="edge5_Node000001_Node000006" class="edge">
 <title>Node1&#45;&gt;Node6</title>
 <g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M590.27,-362.54C570.15,-372.04 544.13,-384.31 523.71,-393.95"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="591.56,-365.8 599.11,-358.37 588.57,-359.47 591.56,-365.8"/>
+<path fill="none" stroke="#63b8ff" d="M634.52,-362.54C614.4,-372.04 588.38,-384.31 567.96,-393.95"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="635.81,-365.8 643.36,-358.37 632.82,-359.47 635.81,-365.8"/>
 </a>
 </g>
 </g>
@@ -140,8 +140,8 @@ var sectionId = 'dynsection-47';
 <g id="Node000010" class="node">
 <title>Node10</title>
 <g id="a_Node000010"><a xlink:href="../../d1/d1d/namespacemal__math.html#a39b70d2a248cf04c8856704747eebba7" target="_top" xlink:title="Computes the inverse of a quaternion.">
-<polygon fill="white" stroke="#666666" points="533.88,-357.25 445.12,-357.25 445.12,-338 533.88,-338 533.88,-357.25"/>
-<text text-anchor="middle" x="489.5" y="-343.75" font-family="Times,serif" font-size="10.00">mal_math::inverse</text>
+<polygon fill="white" stroke="#666666" points="578.12,-357.25 489.38,-357.25 489.38,-338 578.12,-338 578.12,-357.25"/>
+<text text-anchor="middle" x="533.75" y="-343.75" font-family="Times,serif" font-size="10.00">mal_math::inverse</text>
 </a>
 </g>
 </g>
@@ -149,8 +149,8 @@ var sectionId = 'dynsection-47';
 <g id="edge9_Node000001_Node000010" class="edge">
 <title>Node1&#45;&gt;Node10</title>
 <g id="a_edge9_Node000001_Node000010"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M574.4,-347.62C561.24,-347.62 547.02,-347.62 534.1,-347.62"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="574.11,-351.13 584.11,-347.63 574.11,-344.13 574.11,-351.13"/>
+<path fill="none" stroke="#63b8ff" d="M618.65,-347.62C605.49,-347.62 591.27,-347.62 578.35,-347.62"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="618.36,-351.13 628.36,-347.63 618.36,-344.13 618.36,-351.13"/>
 </a>
 </g>
 </g>
@@ -158,8 +158,8 @@ var sectionId = 'dynsection-47';
 <g id="Node000011" class="node">
 <title>Node11</title>
 <g id="a_Node000011"><a xlink:href="../../d1/d1d/namespacemal__math.html#a39c5199d92cd6fd327cd1719bd148dcc" target="_top" xlink:title="Computes the length (or magnitude) of a quaternion.">
-<polygon fill="white" stroke="#666666" points="532,-282.25 447,-282.25 447,-263 532,-263 532,-282.25"/>
-<text text-anchor="middle" x="489.5" y="-268.75" font-family="Times,serif" font-size="10.00">mal_math::length</text>
+<polygon fill="white" stroke="#666666" points="576.25,-282.25 491.25,-282.25 491.25,-263 576.25,-263 576.25,-282.25"/>
+<text text-anchor="middle" x="533.75" y="-268.75" font-family="Times,serif" font-size="10.00">mal_math::length</text>
 </a>
 </g>
 </g>
@@ -167,62 +167,62 @@ var sectionId = 'dynsection-47';
 <g id="edge10_Node000001_Node000011" class="edge">
 <title>Node1&#45;&gt;Node11</title>
 <g id="a_edge10_Node000001_Node000011"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M594.16,-331.8C568.12,-316.94 529.96,-295.15 507.94,-282.58"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="592.42,-334.84 602.84,-336.76 595.89,-328.76 592.42,-334.84"/>
+<path fill="none" stroke="#63b8ff" d="M638.41,-331.8C612.37,-316.94 574.21,-295.15 552.19,-282.58"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="636.67,-334.84 647.09,-336.76 640.14,-328.76 636.67,-334.84"/>
 </a>
 </g>
 </g>
-<!-- Node15 -->
-<g id="Node000015" class="node">
-<title>Node15</title>
-<g id="a_Node000015"><a xlink:href="../../d1/d1d/namespacemal__math.html#ae75c0f78e391bc79564c5ddc63a74612" target="_top" xlink:title="Generates a look&#45;at matrix for camera positioning.">
-<polygon fill="white" stroke="#666666" points="228.12,-120.25 137.88,-120.25 137.88,-101 228.12,-101 228.12,-120.25"/>
-<text text-anchor="middle" x="183" y="-106.75" font-family="Times,serif" font-size="10.00">mal_math::look_at</text>
+<!-- Node16 -->
+<g id="Node000016" class="node">
+<title>Node16</title>
+<g id="a_Node000016"><a xlink:href="../../d1/d1d/namespacemal__math.html#ae75c0f78e391bc79564c5ddc63a74612" target="_top" xlink:title="Generates a look&#45;at matrix for camera positioning.">
+<polygon fill="white" stroke="#666666" points="272.38,-120.25 182.12,-120.25 182.12,-101 272.38,-101 272.38,-120.25"/>
+<text text-anchor="middle" x="227.25" y="-106.75" font-family="Times,serif" font-size="10.00">mal_math::look_at</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node15 -->
-<g id="edge28_Node000001_Node000015" class="edge">
-<title>Node1&#45;&gt;Node15</title>
-<g id="a_edge28_Node000001_Node000015"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M611.4,-327.7C583.8,-277.74 503.51,-147.93 393,-103.62 336.56,-81 264.5,-90.98 221.43,-100.58"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="608.2,-329.14 616.03,-336.27 614.35,-325.81 608.2,-329.14"/>
+<!-- Node1&#45;&gt;Node16 -->
+<g id="edge32_Node000001_Node000016" class="edge">
+<title>Node1&#45;&gt;Node16</title>
+<g id="a_edge32_Node000001_Node000016"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M655.65,-327.7C628.05,-277.74 547.76,-147.93 437.25,-103.62 380.81,-81 308.75,-90.98 265.68,-100.58"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="652.45,-329.14 660.28,-336.27 658.6,-325.81 652.45,-329.14"/>
 </a>
 </g>
 </g>
-<!-- Node24 -->
-<g id="Node000024" class="node">
-<title>Node24</title>
-<g id="a_Node000024"><a xlink:href="../../d1/d1d/namespacemal__math.html#acaee67bdf61bcdcb3f6020296b8a8420" target="_top" xlink:title="Computes the reflection of an incident vector based on a surface&#39;s normal.">
-<polygon fill="white" stroke="#666666" points="532,-56.25 447,-56.25 447,-37 532,-37 532,-56.25"/>
-<text text-anchor="middle" x="489.5" y="-42.75" font-family="Times,serif" font-size="10.00">mal_math::reflect</text>
+<!-- Node28 -->
+<g id="Node000028" class="node">
+<title>Node28</title>
+<g id="a_Node000028"><a xlink:href="../../d1/d1d/namespacemal__math.html#acaee67bdf61bcdcb3f6020296b8a8420" target="_top" xlink:title="Computes the reflection of an incident vector based on a surface&#39;s normal.">
+<polygon fill="white" stroke="#666666" points="576.25,-56.25 491.25,-56.25 491.25,-37 576.25,-37 576.25,-56.25"/>
+<text text-anchor="middle" x="533.75" y="-42.75" font-family="Times,serif" font-size="10.00">mal_math::reflect</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node24 -->
-<g id="edge29_Node000001_Node000024" class="edge">
-<title>Node1&#45;&gt;Node24</title>
-<g id="a_edge29_Node000001_Node000024"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M622.47,-326.2C622.71,-275.39 616.35,-146.18 550,-70.62 544.71,-64.6 537.69,-60.06 530.33,-56.66"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="618.97,-326.04 622.31,-336.09 625.97,-326.15 618.97,-326.04"/>
+<!-- Node1&#45;&gt;Node28 -->
+<g id="edge33_Node000001_Node000028" class="edge">
+<title>Node1&#45;&gt;Node28</title>
+<g id="a_edge33_Node000001_Node000028"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M666.72,-326.2C666.96,-275.39 660.6,-146.18 594.25,-70.62 588.96,-64.6 581.94,-60.06 574.58,-56.66"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="663.22,-326.04 666.56,-336.09 670.22,-326.15 663.22,-326.04"/>
 </a>
 </g>
 </g>
-<!-- Node25 -->
-<g id="Node000025" class="node">
-<title>Node25</title>
-<g id="a_Node000025"><a xlink:href="../../d1/d1d/namespacemal__math.html#af6d612d4cba91e31876b9a752a2f6509" target="_top" xlink:title="Computes the refraction of a vector given an interface&#39;s normal and an index of refraction.">
-<polygon fill="white" stroke="#666666" points="532.75,-19.25 446.25,-19.25 446.25,0 532.75,0 532.75,-19.25"/>
-<text text-anchor="middle" x="489.5" y="-5.75" font-family="Times,serif" font-size="10.00">mal_math::refract</text>
+<!-- Node29 -->
+<g id="Node000029" class="node">
+<title>Node29</title>
+<g id="a_Node000029"><a xlink:href="../../d1/d1d/namespacemal__math.html#af6d612d4cba91e31876b9a752a2f6509" target="_top" xlink:title="Computes the refraction of a vector given an interface&#39;s normal and an index of refraction.">
+<polygon fill="white" stroke="#666666" points="577,-19.25 490.5,-19.25 490.5,0 577,0 577,-19.25"/>
+<text text-anchor="middle" x="533.75" y="-5.75" font-family="Times,serif" font-size="10.00">mal_math::refract</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node25 -->
-<g id="edge30_Node000001_Node000025" class="edge">
-<title>Node1&#45;&gt;Node25</title>
-<g id="a_edge30_Node000001_Node000025"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M619.87,-326.34C613.4,-262.1 591.08,-71.81 550,-27.62 545.37,-22.65 539.42,-19.03 533.07,-16.4"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="616.38,-326.62 620.83,-336.23 623.35,-325.94 616.38,-326.62"/>
+<!-- Node1&#45;&gt;Node29 -->
+<g id="edge34_Node000001_Node000029" class="edge">
+<title>Node1&#45;&gt;Node29</title>
+<g id="a_edge34_Node000001_Node000029"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M664.12,-326.34C657.65,-262.1 635.33,-71.81 594.25,-27.62 589.62,-22.65 583.67,-19.03 577.32,-16.4"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="660.63,-326.62 665.08,-336.23 667.6,-325.94 660.63,-326.62"/>
 </a>
 </g>
 </g>
@@ -230,8 +230,8 @@ var sectionId = 'dynsection-47';
 <g id="Node000004" class="node">
 <title>Node4</title>
 <g id="a_Node000004"><a xlink:href="../../d2/dd8/structmal__math_1_1_sphere.html#a16d1dfc076a08ee64ff10aff05669da4" target="_top" xlink:title="Determines if a Ray intersects with the Sphere.">
-<polygon fill="white" stroke="#666666" points="246.5,-414.25 119.5,-414.25 119.5,-395 246.5,-395 246.5,-414.25"/>
-<text text-anchor="middle" x="183" y="-400.75" font-family="Times,serif" font-size="10.00">mal_math::Sphere::Intersect</text>
+<polygon fill="white" stroke="#666666" points="290.75,-414.25 163.75,-414.25 163.75,-395 290.75,-395 290.75,-414.25"/>
+<text text-anchor="middle" x="227.25" y="-400.75" font-family="Times,serif" font-size="10.00">mal_math::Sphere::Intersect</text>
 </a>
 </g>
 </g>
@@ -239,8 +239,8 @@ var sectionId = 'dynsection-47';
 <g id="edge3_Node000003_Node000004" class="edge">
 <title>Node3&#45;&gt;Node4</title>
 <g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M434.57,-504.27C432.65,-505.32 430.78,-506.43 429,-507.62 408,-521.67 415.83,-540.8 393,-551.62 348.62,-572.66 325.83,-574.75 282.5,-551.62 225.86,-521.4 196.05,-442.55 187.01,-414.61"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="435.6,-507.66 443.19,-500.27 432.65,-501.31 435.6,-507.66"/>
+<path fill="none" stroke="#63b8ff" d="M478.82,-504.27C476.9,-505.32 475.03,-506.43 473.25,-507.62 452.25,-521.67 460.08,-540.8 437.25,-551.62 392.87,-572.66 370.08,-574.75 326.75,-551.62 270.11,-521.4 240.3,-442.55 231.26,-414.61"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="479.85,-507.66 487.44,-500.27 476.9,-501.31 479.85,-507.66"/>
 </a>
 </g>
 </g>
@@ -248,9 +248,9 @@ var sectionId = 'dynsection-47';
 <g id="Node000007" class="node">
 <title>Node7</title>
 <g id="a_Node000007"><a xlink:href="../../d3/dc1/structmal__math_1_1_triangle.html#a2b3747420339d9b11d7c8f9cede86e6e" target="_top" xlink:title="Determines if a ray intersects with this triangle.">
-<polygon fill="white" stroke="#666666" points="384.38,-542.88 291.12,-542.88 291.12,-512.38 384.38,-512.38 384.38,-542.88"/>
-<text text-anchor="start" x="299.12" y="-529.38" font-family="Times,serif" font-size="10.00">mal_math::Triangle</text>
-<text text-anchor="middle" x="337.75" y="-518.12" font-family="Times,serif" font-size="10.00">::Intersect</text>
+<polygon fill="white" stroke="#666666" points="428.62,-542.88 335.38,-542.88 335.38,-512.38 428.62,-512.38 428.62,-542.88"/>
+<text text-anchor="start" x="343.38" y="-529.38" font-family="Times,serif" font-size="10.00">mal_math::Triangle</text>
+<text text-anchor="middle" x="382" y="-518.12" font-family="Times,serif" font-size="10.00">::Intersect</text>
 </a>
 </g>
 </g>
@@ -258,8 +258,8 @@ var sectionId = 'dynsection-47';
 <g id="edge6_Node000006_Node000007" class="edge">
 <title>Node6&#45;&gt;Node7</title>
 <g id="a_edge6_Node000006_Node000007"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M432.96,-430.34C431.59,-431.38 430.26,-432.48 429,-433.62 403.38,-456.86 418.05,-478.77 393,-502.62 389.32,-506.13 385.06,-509.21 380.58,-511.89"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="434.84,-433.3 441.36,-424.95 431.05,-427.41 434.84,-433.3"/>
+<path fill="none" stroke="#63b8ff" d="M477.21,-430.34C475.84,-431.38 474.51,-432.48 473.25,-433.62 447.63,-456.86 462.3,-478.77 437.25,-502.62 433.57,-506.13 429.31,-509.21 424.83,-511.89"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="479.09,-433.3 485.61,-424.95 475.3,-427.41 479.09,-433.3"/>
 </a>
 </g>
 </g>
@@ -267,9 +267,9 @@ var sectionId = 'dynsection-47';
 <g id="Node000008" class="node">
 <title>Node8</title>
 <g id="a_Node000008"><a xlink:href="../../d3/dc1/structmal__math_1_1_triangle.html#a5c67412b71f174a92313b79d54b9a1b2" target="_top" xlink:title="Determines if a ray intersects with this triangle and updates intersection details.">
-<polygon fill="white" stroke="#666666" points="384.38,-493.88 291.12,-493.88 291.12,-463.38 384.38,-463.38 384.38,-493.88"/>
-<text text-anchor="start" x="299.12" y="-480.38" font-family="Times,serif" font-size="10.00">mal_math::Triangle</text>
-<text text-anchor="middle" x="337.75" y="-469.12" font-family="Times,serif" font-size="10.00">::Intersect</text>
+<polygon fill="white" stroke="#666666" points="428.62,-493.88 335.38,-493.88 335.38,-463.38 428.62,-463.38 428.62,-493.88"/>
+<text text-anchor="start" x="343.38" y="-480.38" font-family="Times,serif" font-size="10.00">mal_math::Triangle</text>
+<text text-anchor="middle" x="382" y="-469.12" font-family="Times,serif" font-size="10.00">::Intersect</text>
 </a>
 </g>
 </g>
@@ -277,8 +277,8 @@ var sectionId = 'dynsection-47';
 <g id="edge7_Node000006_Node000008" class="edge">
 <title>Node6&#45;&gt;Node8</title>
 <g id="a_edge7_Node000006_Node000008"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M437.28,-429.81C434.46,-431.07 431.69,-432.34 429,-433.62 412.48,-441.51 409.32,-445.34 393,-453.62 386.8,-456.77 380.13,-459.98 373.66,-463.01"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="438.38,-433.14 446.17,-425.96 435.6,-426.72 438.38,-433.14"/>
+<path fill="none" stroke="#63b8ff" d="M481.53,-429.81C478.71,-431.07 475.94,-432.34 473.25,-433.62 456.73,-441.51 453.57,-445.34 437.25,-453.62 431.05,-456.77 424.38,-459.98 417.91,-463.01"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="482.63,-433.14 490.42,-425.96 479.85,-426.72 482.63,-433.14"/>
 </a>
 </g>
 </g>
@@ -286,9 +286,9 @@ var sectionId = 'dynsection-47';
 <g id="Node000009" class="node">
 <title>Node9</title>
 <g id="a_Node000009"><a xlink:href="../../d3/dc1/structmal__math_1_1_triangle.html#af99f2bd3f4549825492e1908ee61c8c5" target="_top" xlink:title="Determines if a ray intersects with the triangle and updates intersection details.">
-<polygon fill="white" stroke="#666666" points="384.38,-444.88 291.12,-444.88 291.12,-414.38 384.38,-414.38 384.38,-444.88"/>
-<text text-anchor="start" x="299.12" y="-431.38" font-family="Times,serif" font-size="10.00">mal_math::Triangle</text>
-<text text-anchor="middle" x="337.75" y="-420.12" font-family="Times,serif" font-size="10.00">::Intersect</text>
+<polygon fill="white" stroke="#666666" points="428.62,-444.88 335.38,-444.88 335.38,-414.38 428.62,-414.38 428.62,-444.88"/>
+<text text-anchor="start" x="343.38" y="-431.38" font-family="Times,serif" font-size="10.00">mal_math::Triangle</text>
+<text text-anchor="middle" x="382" y="-420.12" font-family="Times,serif" font-size="10.00">::Intersect</text>
 </a>
 </g>
 </g>
@@ -296,17 +296,17 @@ var sectionId = 'dynsection-47';
 <g id="edge8_Node000006_Node000009" class="edge">
 <title>Node6&#45;&gt;Node9</title>
 <g id="a_edge8_Node000006_Node000009"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M431.69,-417.21C416.18,-419.28 399.56,-421.5 384.73,-423.48"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="431.81,-420.73 441.26,-415.93 430.88,-413.79 431.81,-420.73"/>
+<path fill="none" stroke="#63b8ff" d="M475.94,-417.21C460.43,-419.28 443.81,-421.5 428.98,-423.48"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="476.06,-420.73 485.51,-415.93 475.13,-413.79 476.06,-420.73"/>
 </a>
 </g>
 </g>
 <!-- Node11&#45;&gt;Node4 -->
-<g id="edge13_Node000011_Node000004" class="edge">
+<g id="edge14_Node000011_Node000004" class="edge">
 <title>Node11&#45;&gt;Node4</title>
-<g id="a_edge13_Node000011_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M469.06,-290.27C457.28,-301.14 442.05,-315.45 429,-328.62 412.4,-345.39 413.7,-356.31 393,-367.62 348.06,-392.19 290.3,-400.99 246.9,-403.9"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="471.19,-293.08 476.2,-283.74 466.46,-287.92 471.19,-293.08"/>
+<g id="a_edge14_Node000011_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M513.31,-290.27C501.53,-301.14 486.3,-315.45 473.25,-328.62 456.65,-345.39 457.95,-356.31 437.25,-367.62 392.31,-392.19 334.55,-400.99 291.15,-403.9"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="515.44,-293.08 520.45,-283.74 510.71,-287.92 515.44,-293.08"/>
 </a>
 </g>
 </g>
@@ -314,8 +314,8 @@ var sectionId = 'dynsection-47';
 <g id="Node000012" class="node">
 <title>Node12</title>
 <g id="a_Node000012"><a xlink:href="../../d1/d1d/namespacemal__math.html#a70273f9f35b9c5fafb0c4c027a0cc427" target="_top" xlink:title="Compute the distance between two vectors.">
-<polygon fill="white" stroke="#666666" points="384.38,-358.25 291.12,-358.25 291.12,-339 384.38,-339 384.38,-358.25"/>
-<text text-anchor="middle" x="337.75" y="-344.75" font-family="Times,serif" font-size="10.00">mal_math::distance</text>
+<polygon fill="white" stroke="#666666" points="428.62,-358.25 335.38,-358.25 335.38,-339 428.62,-339 428.62,-358.25"/>
+<text text-anchor="middle" x="382" y="-344.75" font-family="Times,serif" font-size="10.00">mal_math::distance</text>
 </a>
 </g>
 </g>
@@ -323,117 +323,117 @@ var sectionId = 'dynsection-47';
 <g id="edge11_Node000011_Node000012" class="edge">
 <title>Node11&#45;&gt;Node12</title>
 <g id="a_edge11_Node000011_Node000012"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M461.12,-288.31C442.2,-298.96 416.33,-313.14 393,-324.62 383.21,-329.45 372.22,-334.39 362.71,-338.53"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="462.83,-291.36 469.81,-283.39 459.38,-285.27 462.83,-291.36"/>
+<path fill="none" stroke="#63b8ff" d="M505.37,-288.31C486.45,-298.96 460.58,-313.14 437.25,-324.62 427.46,-329.45 416.47,-334.39 406.96,-338.53"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="507.08,-291.36 514.06,-283.39 503.63,-285.27 507.08,-291.36"/>
 </a>
 </g>
 </g>
-<!-- Node14 -->
-<g id="Node000014" class="node">
-<title>Node14</title>
-<g id="a_Node000014"><a xlink:href="../../d1/d1d/namespacemal__math.html#abe612f1321c4a59501c42f7759feaba4" target="_top" xlink:title="Normalizes a quaternion.">
-<polygon fill="white" stroke="#666666" points="387.38,-282.25 288.12,-282.25 288.12,-263 387.38,-263 387.38,-282.25"/>
-<text text-anchor="middle" x="337.75" y="-268.75" font-family="Times,serif" font-size="10.00">mal_math::normalize</text>
+<!-- Node15 -->
+<g id="Node000015" class="node">
+<title>Node15</title>
+<g id="a_Node000015"><a xlink:href="../../d1/d1d/namespacemal__math.html#abe612f1321c4a59501c42f7759feaba4" target="_top" xlink:title="Normalizes a quaternion.">
+<polygon fill="white" stroke="#666666" points="431.62,-282.25 332.38,-282.25 332.38,-263 431.62,-263 431.62,-282.25"/>
+<text text-anchor="middle" x="382" y="-268.75" font-family="Times,serif" font-size="10.00">mal_math::normalize</text>
 </a>
 </g>
 </g>
-<!-- Node11&#45;&gt;Node14 -->
-<g id="edge14_Node000011_Node000014" class="edge">
-<title>Node11&#45;&gt;Node14</title>
-<g id="a_edge14_Node000011_Node000014"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M435.7,-272.62C420.07,-272.62 403.03,-272.62 387.66,-272.62"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="435.27,-276.13 445.27,-272.63 435.27,-269.13 435.27,-276.13"/>
+<!-- Node11&#45;&gt;Node15 -->
+<g id="edge15_Node000011_Node000015" class="edge">
+<title>Node11&#45;&gt;Node15</title>
+<g id="a_edge15_Node000011_Node000015"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M479.95,-272.62C464.32,-272.62 447.28,-272.62 431.91,-272.62"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="479.52,-276.13 489.52,-272.63 479.52,-269.13 479.52,-276.13"/>
 </a>
 </g>
 </g>
-<!-- Node16 -->
-<g id="Node000016" class="node">
-<title>Node16</title>
-<g id="a_Node000016"><a xlink:href="../../d9/d76/structmal__math_1_1qua.html#a76e9e79edda5b35e32e583dc638ad252" target="_top" xlink:title="Constructs a quaternion from an angle and rotation axis.">
-<polygon fill="white" stroke="#666666" points="229.62,-328.25 136.38,-328.25 136.38,-309 229.62,-309 229.62,-328.25"/>
-<text text-anchor="middle" x="183" y="-314.75" font-family="Times,serif" font-size="10.00">mal_math::qua::qua</text>
+<!-- Node17 -->
+<g id="Node000017" class="node">
+<title>Node17</title>
+<g id="a_Node000017"><a xlink:href="../../d9/d76/structmal__math_1_1qua.html#a76e9e79edda5b35e32e583dc638ad252" target="_top" xlink:title="Constructs a quaternion from an angle and rotation axis.">
+<polygon fill="white" stroke="#666666" points="273.88,-328.25 180.62,-328.25 180.62,-309 273.88,-309 273.88,-328.25"/>
+<text text-anchor="middle" x="227.25" y="-314.75" font-family="Times,serif" font-size="10.00">mal_math::qua::qua</text>
 </a>
 </g>
 </g>
-<!-- Node11&#45;&gt;Node16 -->
-<g id="edge24_Node000011_Node000016" class="edge">
-<title>Node11&#45;&gt;Node16</title>
-<g id="a_edge24_Node000011_Node000016"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M435.9,-283.76C421.98,-286.52 406.95,-289.34 393,-291.62 337.04,-300.8 272.22,-308.76 229.79,-313.62"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="436.18,-287.27 445.29,-281.86 434.8,-280.41 436.18,-287.27"/>
+<!-- Node11&#45;&gt;Node17 -->
+<g id="edge28_Node000011_Node000017" class="edge">
+<title>Node11&#45;&gt;Node17</title>
+<g id="a_edge28_Node000011_Node000017"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M480.15,-283.76C466.23,-286.52 451.2,-289.34 437.25,-291.62 381.29,-300.8 316.47,-308.76 274.04,-313.62"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="480.43,-287.27 489.54,-281.86 479.05,-280.41 480.43,-287.27"/>
 </a>
 </g>
 </g>
-<!-- Node20 -->
-<g id="Node000020" class="node">
-<title>Node20</title>
-<g id="a_Node000020"><a xlink:href="../../de/db9/structmal__math_1_1_plane.html#a568a7d2c844bc73f43611217334106f9" target="_top" xlink:title="Updates the plane&#39;s vectors and normal based on two new vectors.">
-<polygon fill="white" stroke="#666666" points="239.75,-186.88 126.25,-186.88 126.25,-156.38 239.75,-156.38 239.75,-186.88"/>
-<text text-anchor="start" x="134.25" y="-173.38" font-family="Times,serif" font-size="10.00">mal_math::Plane::update</text>
-<text text-anchor="middle" x="183" y="-162.12" font-family="Times,serif" font-size="10.00">_plane</text>
+<!-- Node24 -->
+<g id="Node000024" class="node">
+<title>Node24</title>
+<g id="a_Node000024"><a xlink:href="../../de/db9/structmal__math_1_1_plane.html#a568a7d2c844bc73f43611217334106f9" target="_top" xlink:title="Updates the plane&#39;s vectors and normal based on two new vectors.">
+<polygon fill="white" stroke="#666666" points="284,-186.88 170.5,-186.88 170.5,-156.38 284,-156.38 284,-186.88"/>
+<text text-anchor="start" x="178.5" y="-173.38" font-family="Times,serif" font-size="10.00">mal_math::Plane::update</text>
+<text text-anchor="middle" x="227.25" y="-162.12" font-family="Times,serif" font-size="10.00">_plane</text>
 </a>
 </g>
 </g>
-<!-- Node11&#45;&gt;Node20 -->
-<g id="edge27_Node000011_Node000020" class="edge">
-<title>Node11&#45;&gt;Node20</title>
-<g id="a_edge27_Node000011_Node000020"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M435.46,-261.28C393.24,-251.46 333.05,-235.69 282.5,-215.62 265.68,-208.95 262.92,-204.22 246.5,-196.62 239.6,-193.44 232.18,-190.26 224.94,-187.28"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="434.6,-264.67 445.13,-263.49 436.16,-257.85 434.6,-264.67"/>
+<!-- Node11&#45;&gt;Node24 -->
+<g id="edge31_Node000011_Node000024" class="edge">
+<title>Node11&#45;&gt;Node24</title>
+<g id="a_edge31_Node000011_Node000024"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M479.71,-261.28C437.49,-251.46 377.3,-235.69 326.75,-215.62 309.93,-208.95 307.17,-204.22 290.75,-196.62 283.85,-193.44 276.43,-190.26 269.19,-187.28"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="478.85,-264.67 489.38,-263.49 480.41,-257.85 478.85,-264.67"/>
 </a>
 </g>
 </g>
-<!-- Node21 -->
-<g id="Node000021" class="node">
-<title>Node21</title>
-<g id="a_Node000021"><a xlink:href="../../d1/d1d/namespacemal__math.html#a1cc95439dc8db428b1b9f7c1ec9aba5a" target="_top" xlink:title="Normalize the given vector.">
-<polygon fill="white" stroke="#666666" points="387.38,-206.25 288.12,-206.25 288.12,-187 387.38,-187 387.38,-206.25"/>
-<text text-anchor="middle" x="337.75" y="-192.75" font-family="Times,serif" font-size="10.00">mal_math::normalize</text>
+<!-- Node25 -->
+<g id="Node000025" class="node">
+<title>Node25</title>
+<g id="a_Node000025"><a xlink:href="../../d1/d1d/namespacemal__math.html#a1cc95439dc8db428b1b9f7c1ec9aba5a" target="_top" xlink:title="Normalize the given vector.">
+<polygon fill="white" stroke="#666666" points="431.62,-206.25 332.38,-206.25 332.38,-187 431.62,-187 431.62,-206.25"/>
+<text text-anchor="middle" x="382" y="-192.75" font-family="Times,serif" font-size="10.00">mal_math::normalize</text>
 </a>
 </g>
 </g>
-<!-- Node11&#45;&gt;Node21 -->
-<g id="edge23_Node000011_Node000021" class="edge">
-<title>Node11&#45;&gt;Node21</title>
-<g id="a_edge23_Node000011_Node000021"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M461.12,-256.94C442.2,-246.29 416.33,-232.11 393,-220.62 383.21,-215.8 372.22,-210.86 362.71,-206.72"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="459.38,-259.98 469.81,-261.86 462.83,-253.89 459.38,-259.98"/>
+<!-- Node11&#45;&gt;Node25 -->
+<g id="edge27_Node000011_Node000025" class="edge">
+<title>Node11&#45;&gt;Node25</title>
+<g id="a_edge27_Node000011_Node000025"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M505.37,-256.94C486.45,-246.29 460.58,-232.11 437.25,-220.62 427.46,-215.8 416.47,-210.86 406.96,-206.72"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="503.63,-259.98 514.06,-261.86 507.08,-253.89 503.63,-259.98"/>
 </a>
 </g>
 </g>
-<!-- Node22 -->
-<g id="Node000022" class="node">
-<title>Node22</title>
-<g id="a_Node000022"><a xlink:href="../../d7/d3f/structmal__math_1_1_t_box.html#a3783194457bcf643aeabd8b62bc5592c" target="_top" xlink:title="Returns the radius of a sphere that tightly encloses the box.">
-<polygon fill="white" stroke="#666666" points="393,-169.25 282.5,-169.25 282.5,-150 393,-150 393,-169.25"/>
-<text text-anchor="middle" x="337.75" y="-155.75" font-family="Times,serif" font-size="10.00">mal_math::TBox::radius</text>
+<!-- Node26 -->
+<g id="Node000026" class="node">
+<title>Node26</title>
+<g id="a_Node000026"><a xlink:href="../../d7/d3f/structmal__math_1_1_t_box.html#a3783194457bcf643aeabd8b62bc5592c" target="_top" xlink:title="Returns the radius of a sphere that tightly encloses the box.">
+<polygon fill="white" stroke="#666666" points="437.25,-169.25 326.75,-169.25 326.75,-150 437.25,-150 437.25,-169.25"/>
+<text text-anchor="middle" x="382" y="-155.75" font-family="Times,serif" font-size="10.00">mal_math::TBox::radius</text>
 </a>
 </g>
 </g>
-<!-- Node11&#45;&gt;Node22 -->
-<g id="edge25_Node000011_Node000022" class="edge">
-<title>Node11&#45;&gt;Node22</title>
-<g id="a_edge25_Node000011_Node000022"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M474.11,-253.77C456.94,-232.48 426.36,-198.15 393,-177.62 388.01,-174.56 382.44,-171.95 376.82,-169.75"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="471.34,-255.91 480.27,-261.6 476.84,-251.58 471.34,-255.91"/>
+<!-- Node11&#45;&gt;Node26 -->
+<g id="edge29_Node000011_Node000026" class="edge">
+<title>Node11&#45;&gt;Node26</title>
+<g id="a_edge29_Node000011_Node000026"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M518.36,-253.77C501.19,-232.48 470.61,-198.15 437.25,-177.62 432.26,-174.56 426.69,-171.95 421.07,-169.75"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="515.59,-255.91 524.52,-261.6 521.09,-251.58 515.59,-255.91"/>
 </a>
 </g>
 </g>
-<!-- Node23 -->
-<g id="Node000023" class="node">
-<title>Node23</title>
-<g id="a_Node000023"><a xlink:href="../../d1/d1d/namespacemal__math.html#ac450bfaa356fc4830954be733bcf465b" target="_top" xlink:title="Compute the unit vector (normalized vector) of the given vector.">
-<polygon fill="white" stroke="#666666" points="390.75,-132.25 284.75,-132.25 284.75,-113 390.75,-113 390.75,-132.25"/>
-<text text-anchor="middle" x="337.75" y="-118.75" font-family="Times,serif" font-size="10.00">mal_math::unit_vector</text>
+<!-- Node27 -->
+<g id="Node000027" class="node">
+<title>Node27</title>
+<g id="a_Node000027"><a xlink:href="../../d1/d1d/namespacemal__math.html#ac450bfaa356fc4830954be733bcf465b" target="_top" xlink:title="Compute the unit vector (normalized vector) of the given vector.">
+<polygon fill="white" stroke="#666666" points="435,-132.25 329,-132.25 329,-113 435,-113 435,-132.25"/>
+<text text-anchor="middle" x="382" y="-118.75" font-family="Times,serif" font-size="10.00">mal_math::unit_vector</text>
 </a>
 </g>
 </g>
-<!-- Node11&#45;&gt;Node23 -->
-<g id="edge26_Node000011_Node000023" class="edge">
-<title>Node11&#45;&gt;Node23</title>
-<g id="a_edge26_Node000011_Node000023"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M479.13,-252.63C464.63,-223.81 434.09,-170.74 393,-140.62 388.68,-137.46 383.77,-134.83 378.7,-132.64"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="475.85,-253.9 483.38,-261.36 482.15,-250.84 475.85,-253.9"/>
+<!-- Node11&#45;&gt;Node27 -->
+<g id="edge30_Node000011_Node000027" class="edge">
+<title>Node11&#45;&gt;Node27</title>
+<g id="a_edge30_Node000011_Node000027"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M523.38,-252.63C508.88,-223.81 478.34,-170.74 437.25,-140.62 432.93,-137.46 428.02,-134.83 422.95,-132.64"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="520.1,-253.9 527.63,-261.36 526.4,-250.84 520.1,-253.9"/>
 </a>
 </g>
 </g>
@@ -441,9 +441,9 @@ var sectionId = 'dynsection-47';
 <g id="Node000013" class="node">
 <title>Node13</title>
 <g id="a_Node000013"><a xlink:href="../../de/d54/namespacemal__math_1_1random_1_1poisson__disc_1_1__detail.html#a5fc2fd014656cd15396002f5cdc8df16" target="_top" xlink:title="Generates a set of points distributed according to Poisson Disk Sampling.">
-<polygon fill="white" stroke="#666666" points="245.38,-376.88 120.62,-376.88 120.62,-346.38 245.38,-346.38 245.38,-376.88"/>
-<text text-anchor="start" x="128.62" y="-363.38" font-family="Times,serif" font-size="10.00">mal_math::random::poisson</text>
-<text text-anchor="middle" x="183" y="-352.12" font-family="Times,serif" font-size="10.00">_disc::_detail::PoissonDisc</text>
+<polygon fill="white" stroke="#666666" points="289.62,-376.88 164.88,-376.88 164.88,-346.38 289.62,-346.38 289.62,-376.88"/>
+<text text-anchor="start" x="172.88" y="-363.38" font-family="Times,serif" font-size="10.00">mal_math::random::poisson</text>
+<text text-anchor="middle" x="227.25" y="-352.12" font-family="Times,serif" font-size="10.00">_disc::_detail::PoissonDisc</text>
 </a>
 </g>
 </g>
@@ -451,108 +451,184 @@ var sectionId = 'dynsection-47';
 <g id="edge12_Node000012_Node000013" class="edge">
 <title>Node12&#45;&gt;Node13</title>
 <g id="a_edge12_Node000012_Node000013"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M279.61,-353.49C268.52,-354.43 256.85,-355.42 245.62,-356.38"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="279.74,-356.99 289.41,-352.65 279.15,-350.01 279.74,-356.99"/>
+<path fill="none" stroke="#63b8ff" d="M323.86,-353.49C312.77,-354.43 301.1,-355.42 289.87,-356.38"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="323.99,-356.99 333.66,-352.65 323.4,-350.01 323.99,-356.99"/>
 </a>
 </g>
 </g>
-<!-- Node14&#45;&gt;Node4 -->
-<g id="edge15_Node000014_Node000004" class="edge">
-<title>Node14&#45;&gt;Node4</title>
-<g id="a_edge15_Node000014_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M318.09,-290.46C307.17,-301.31 293.42,-315.72 282.5,-329.62 264.22,-352.89 270.1,-367.78 246.5,-385.62 241.71,-389.25 236.22,-392.19 230.53,-394.57"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="320.34,-293.14 325.05,-283.65 315.45,-288.14 320.34,-293.14"/>
+<!-- Node14 -->
+<g id="Node000014" class="node">
+<title>Node14</title>
+<g id="a_Node000014"><a xlink:href="../../dc/dad/namespacemal__math_1_1random_1_1poisson__disc.html#ada6e1ca0f98cd418d91ff4d963ee3243" target="_top" xlink:title="Wrapper function for generating Poisson Disk sampled 2D points.">
+<polygon fill="white" stroke="#666666" points="126.25,-376.88 1.5,-376.88 1.5,-346.38 126.25,-346.38 126.25,-376.88"/>
+<text text-anchor="start" x="9.5" y="-363.38" font-family="Times,serif" font-size="10.00">mal_math::random::poisson</text>
+<text text-anchor="middle" x="63.88" y="-352.12" font-family="Times,serif" font-size="10.00">_disc::Generate</text>
 </a>
 </g>
 </g>
-<!-- Node14&#45;&gt;Node15 -->
-<g id="edge16_Node000014_Node000015" class="edge">
-<title>Node14&#45;&gt;Node15</title>
-<g id="a_edge16_Node000014_Node000015"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M317.65,-255.12C306.58,-244.38 292.83,-229.97 282.5,-215.62 262.53,-187.87 270.1,-172.37 246.5,-147.62 235.54,-136.13 220.22,-126.98 207.5,-120.66"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="315.07,-257.5 324.74,-261.84 319.88,-252.42 315.07,-257.5"/>
+<!-- Node13&#45;&gt;Node14 -->
+<g id="edge13_Node000013_Node000014" class="edge">
+<title>Node13&#45;&gt;Node14</title>
+<g id="a_edge13_Node000013_Node000014"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M153.54,-361.62C144.58,-361.62 135.48,-361.62 126.71,-361.62"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="153.27,-365.13 163.27,-361.63 153.27,-358.13 153.27,-365.13"/>
 </a>
 </g>
 </g>
-<!-- Node14&#45;&gt;Node16 -->
-<g id="edge17_Node000014_Node000016" class="edge">
-<title>Node14&#45;&gt;Node16</title>
-<g id="a_edge17_Node000014_Node000016"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M294.46,-285.94C279.35,-290.65 262.18,-295.93 246.5,-300.62 237.74,-303.25 228.26,-306.01 219.4,-308.56"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="295.11,-289.41 303.61,-283.08 293.02,-282.72 295.11,-289.41"/>
+<!-- Node15&#45;&gt;Node4 -->
+<g id="edge16_Node000015_Node000004" class="edge">
+<title>Node15&#45;&gt;Node4</title>
+<g id="a_edge16_Node000015_Node000004"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M362.34,-290.46C351.42,-301.31 337.67,-315.72 326.75,-329.62 308.47,-352.89 314.35,-367.78 290.75,-385.62 285.96,-389.25 280.47,-392.19 274.78,-394.57"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="364.59,-293.14 369.3,-283.65 359.7,-288.14 364.59,-293.14"/>
 </a>
 </g>
 </g>
-<!-- Node17 -->
-<g id="Node000017" class="node">
-<title>Node17</title>
-<g id="a_Node000017"><a xlink:href="../../d1/d1d/namespacemal__math.html#a3e5409e48ad66d42b0f0643bf4591163" target="_top" xlink:title="Rotates a matrix by a given angle around a given axis.">
-<polygon fill="white" stroke="#666666" points="224.75,-273.25 141.25,-273.25 141.25,-254 224.75,-254 224.75,-273.25"/>
-<text text-anchor="middle" x="183" y="-259.75" font-family="Times,serif" font-size="10.00">mal_math::rotate</text>
+<!-- Node15&#45;&gt;Node16 -->
+<g id="edge17_Node000015_Node000016" class="edge">
+<title>Node15&#45;&gt;Node16</title>
+<g id="a_edge17_Node000015_Node000016"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M361.9,-255.12C350.83,-244.38 337.08,-229.97 326.75,-215.62 306.78,-187.87 314.35,-172.37 290.75,-147.62 279.79,-136.13 264.47,-126.98 251.75,-120.66"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="359.32,-257.5 368.99,-261.84 364.13,-252.42 359.32,-257.5"/>
 </a>
 </g>
 </g>
-<!-- Node14&#45;&gt;Node17 -->
-<g id="edge18_Node000014_Node000017" class="edge">
-<title>Node14&#45;&gt;Node17</title>
-<g id="a_edge18_Node000014_Node000017"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M276.83,-269.09C259.51,-268.07 241.01,-266.98 225.12,-266.05"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="276.3,-272.57 286.49,-269.66 276.71,-265.58 276.3,-272.57"/>
-</a>
-</g>
-</g>
-<!-- Node19 -->
-<g id="Node000019" class="node">
-<title>Node19</title>
-<g id="a_Node000019"><a xlink:href="../../db/d90/namespacemal__math_1_1random_1_1__detail.html#a8a729c12da52b3aa8764cbd4ebe7252f" target="_top" xlink:title="Generates a unit vector with random direction.">
-<polygon fill="white" stroke="#666666" points="232.25,-235.88 133.75,-235.88 133.75,-205.38 232.25,-205.38 232.25,-235.88"/>
-<text text-anchor="start" x="141.75" y="-222.38" font-family="Times,serif" font-size="10.00">mal_math::random::</text>
-<text text-anchor="middle" x="183" y="-211.12" font-family="Times,serif" font-size="10.00">_detail::UnitRandom</text>
-</a>
-</g>
-</g>
-<!-- Node14&#45;&gt;Node19 -->
-<g id="edge21_Node000014_Node000019" class="edge">
-<title>Node14&#45;&gt;Node19</title>
-<g id="a_edge21_Node000014_Node000019"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M296.5,-258.92C276.14,-251.99 251.33,-243.54 230.19,-236.35"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="295.27,-262.2 305.87,-262.11 297.53,-255.58 295.27,-262.2"/>
-</a>
-</g>
-</g>
-<!-- Node14&#45;&gt;Node20 -->
-<g id="edge22_Node000014_Node000020" class="edge">
-<title>Node14&#45;&gt;Node20</title>
-<g id="a_edge22_Node000014_Node000020"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M296.07,-257.64C291.25,-255.01 286.6,-252.02 282.5,-248.62 260.84,-230.71 268.48,-214.14 246.5,-196.62 242.02,-193.06 236.97,-189.94 231.72,-187.23"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="294.18,-260.62 304.71,-261.86 297.26,-254.32 294.18,-260.62"/>
-</a>
-</g>
-</g>
-<!-- Node17&#45;&gt;Node17 -->
-<g id="edge20_Node000017_Node000017" class="edge">
-<title>Node17&#45;&gt;Node17</title>
-<g id="a_edge20_Node000017_Node000017"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M208.07,-284.65C204.94,-288.53 196.58,-291.25 183,-291.25 158.17,-291.25 150.8,-282.15 160.89,-273.54"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="211.46,-283.76 205.5,-275 204.69,-285.56 211.46,-283.76"/>
+<!-- Node15&#45;&gt;Node17 -->
+<g id="edge18_Node000015_Node000017" class="edge">
+<title>Node15&#45;&gt;Node17</title>
+<g id="a_edge18_Node000015_Node000017"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M338.71,-285.94C323.6,-290.65 306.43,-295.93 290.75,-300.62 281.99,-303.25 272.51,-306.01 263.65,-308.56"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="339.36,-289.41 347.86,-283.08 337.27,-282.72 339.36,-289.41"/>
 </a>
 </g>
 </g>
 <!-- Node18 -->
 <g id="Node000018" class="node">
 <title>Node18</title>
-<g id="a_Node000018"><a xlink:href="../../d1/d1d/namespacemal__math.html#ae2ea884f0e0c63166d344b52a7633934" target="_top" xlink:title="Rotates a 4x4 matrix using a quaternion.">
-<polygon fill="white" stroke="#666666" points="83.5,-273.25 0,-273.25 0,-254 83.5,-254 83.5,-273.25"/>
-<text text-anchor="middle" x="41.75" y="-259.75" font-family="Times,serif" font-size="10.00">mal_math::rotate</text>
+<g id="a_Node000018"><a xlink:href="../../d1/d1d/namespacemal__math.html#a3e5409e48ad66d42b0f0643bf4591163" target="_top" xlink:title="Rotates a matrix by a given angle around a given axis.">
+<polygon fill="white" stroke="#666666" points="269,-273.25 185.5,-273.25 185.5,-254 269,-254 269,-273.25"/>
+<text text-anchor="middle" x="227.25" y="-259.75" font-family="Times,serif" font-size="10.00">mal_math::rotate</text>
 </a>
 </g>
 </g>
-<!-- Node17&#45;&gt;Node18 -->
-<g id="edge19_Node000017_Node000018" class="edge">
-<title>Node17&#45;&gt;Node18</title>
-<g id="a_edge19_Node000017_Node000018"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M129.69,-263.62C114.58,-263.62 98.3,-263.62 83.96,-263.62"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="129.46,-267.13 139.46,-263.63 129.46,-260.13 129.46,-267.13"/>
+<!-- Node15&#45;&gt;Node18 -->
+<g id="edge19_Node000015_Node000018" class="edge">
+<title>Node15&#45;&gt;Node18</title>
+<g id="a_edge19_Node000015_Node000018"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M321.08,-269.09C303.76,-268.07 285.26,-266.98 269.37,-266.05"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="320.55,-272.57 330.74,-269.66 320.96,-265.58 320.55,-272.57"/>
+</a>
+</g>
+</g>
+<!-- Node20 -->
+<g id="Node000020" class="node">
+<title>Node20</title>
+<g id="a_Node000020"><a xlink:href="../../db/d90/namespacemal__math_1_1random_1_1__detail.html#a8a729c12da52b3aa8764cbd4ebe7252f" target="_top" xlink:title="Generates a unit vector with random direction.">
+<polygon fill="white" stroke="#666666" points="276.5,-235.88 178,-235.88 178,-205.38 276.5,-205.38 276.5,-235.88"/>
+<text text-anchor="start" x="186" y="-222.38" font-family="Times,serif" font-size="10.00">mal_math::random::</text>
+<text text-anchor="middle" x="227.25" y="-211.12" font-family="Times,serif" font-size="10.00">_detail::UnitRandom</text>
+</a>
+</g>
+</g>
+<!-- Node15&#45;&gt;Node20 -->
+<g id="edge22_Node000015_Node000020" class="edge">
+<title>Node15&#45;&gt;Node20</title>
+<g id="a_edge22_Node000015_Node000020"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M340.75,-258.92C320.39,-251.99 295.58,-243.54 274.44,-236.35"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="339.52,-262.2 350.12,-262.11 341.78,-255.58 339.52,-262.2"/>
+</a>
+</g>
+</g>
+<!-- Node15&#45;&gt;Node24 -->
+<g id="edge26_Node000015_Node000024" class="edge">
+<title>Node15&#45;&gt;Node24</title>
+<g id="a_edge26_Node000015_Node000024"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M340.32,-257.64C335.5,-255.01 330.85,-252.02 326.75,-248.62 305.09,-230.71 312.73,-214.14 290.75,-196.62 286.27,-193.06 281.22,-189.94 275.97,-187.23"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="338.43,-260.62 348.96,-261.86 341.51,-254.32 338.43,-260.62"/>
+</a>
+</g>
+</g>
+<!-- Node18&#45;&gt;Node18 -->
+<g id="edge21_Node000018_Node000018" class="edge">
+<title>Node18&#45;&gt;Node18</title>
+<g id="a_edge21_Node000018_Node000018"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M255,-284.32C251.8,-288.37 242.55,-291.25 227.25,-291.25 200.05,-291.25 191.97,-282.15 203.02,-273.54"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="258.38,-283.4 251.95,-274.98 251.73,-285.57 258.38,-283.4"/>
+</a>
+</g>
+</g>
+<!-- Node19 -->
+<g id="Node000019" class="node">
+<title>Node19</title>
+<g id="a_Node000019"><a xlink:href="../../d1/d1d/namespacemal__math.html#ae2ea884f0e0c63166d344b52a7633934" target="_top" xlink:title="Rotates a 4x4 matrix using a quaternion.">
+<polygon fill="white" stroke="#666666" points="105.62,-298.25 22.12,-298.25 22.12,-279 105.62,-279 105.62,-298.25"/>
+<text text-anchor="middle" x="63.88" y="-284.75" font-family="Times,serif" font-size="10.00">mal_math::rotate</text>
+</a>
+</g>
+</g>
+<!-- Node18&#45;&gt;Node19 -->
+<g id="edge20_Node000018_Node000019" class="edge">
+<title>Node18&#45;&gt;Node19</title>
+<g id="a_edge20_Node000018_Node000019"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M173.92,-271.73C151.88,-275.15 126.6,-279.06 105.94,-282.26"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="174.27,-275.22 183.62,-270.23 173.2,-268.3 174.27,-275.22"/>
+</a>
+</g>
+</g>
+<!-- Node21 -->
+<g id="Node000021" class="node">
+<title>Node21</title>
+<g id="a_Node000021"><a xlink:href="../../d3/d4f/namespacemal__math_1_1random.html#a2cf25dd98c6a4e844b5b1bdfd7cb0c91" target="_top" xlink:title="Generates a random 2D float direction.">
+<polygon fill="white" stroke="#666666" points="127.75,-260.88 0,-260.88 0,-230.38 127.75,-230.38 127.75,-260.88"/>
+<text text-anchor="start" x="8" y="-247.38" font-family="Times,serif" font-size="10.00">mal_math::random::Random</text>
+<text text-anchor="middle" x="63.88" y="-236.12" font-family="Times,serif" font-size="10.00">Direction2</text>
+</a>
+</g>
+</g>
+<!-- Node20&#45;&gt;Node21 -->
+<g id="edge23_Node000020_Node000021" class="edge">
+<title>Node20&#45;&gt;Node21</title>
+<g id="a_edge23_Node000020_Node000021"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M166.59,-229.87C154.08,-231.81 140.84,-233.86 128.21,-235.81"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="166.99,-233.35 176.34,-228.36 165.92,-226.43 166.99,-233.35"/>
+</a>
+</g>
+</g>
+<!-- Node22 -->
+<g id="Node000022" class="node">
+<title>Node22</title>
+<g id="a_Node000022"><a xlink:href="../../d3/d4f/namespacemal__math_1_1random.html#af7cd83426ef8b8cfa4f88ed1b0057eec" target="_top" xlink:title="Generates a random 3D float direction.">
+<polygon fill="white" stroke="#666666" points="127.75,-211.88 0,-211.88 0,-181.38 127.75,-181.38 127.75,-211.88"/>
+<text text-anchor="start" x="8" y="-198.38" font-family="Times,serif" font-size="10.00">mal_math::random::Random</text>
+<text text-anchor="middle" x="63.88" y="-187.12" font-family="Times,serif" font-size="10.00">Direction3</text>
+</a>
+</g>
+</g>
+<!-- Node20&#45;&gt;Node22 -->
+<g id="edge24_Node000020_Node000022" class="edge">
+<title>Node20&#45;&gt;Node22</title>
+<g id="a_edge24_Node000020_Node000022"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M166.59,-211.75C154.08,-209.89 140.84,-207.92 128.21,-206.04"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="165.93,-215.19 176.34,-213.2 166.96,-208.27 165.93,-215.19"/>
+</a>
+</g>
+</g>
+<!-- Node23 -->
+<g id="Node000023" class="node">
+<title>Node23</title>
+<g id="a_Node000023"><a xlink:href="../../d3/d4f/namespacemal__math_1_1random.html#a71db75e975f5c5eabbd5048cd47a5501" target="_top" xlink:title="Generates a random 4D float direction.">
+<polygon fill="white" stroke="#666666" points="127.75,-162.88 0,-162.88 0,-132.38 127.75,-132.38 127.75,-162.88"/>
+<text text-anchor="start" x="8" y="-149.38" font-family="Times,serif" font-size="10.00">mal_math::random::Random</text>
+<text text-anchor="middle" x="63.88" y="-138.12" font-family="Times,serif" font-size="10.00">Direction4</text>
+</a>
+</g>
+</g>
+<!-- Node20&#45;&gt;Node23 -->
+<g id="edge25_Node000020_Node000023" class="edge">
+<title>Node20&#45;&gt;Node23</title>
+<g id="a_edge25_Node000020_Node000023"><a xlink:title=" ">
+<path fill="none" stroke="#63b8ff" d="M173.27,-200.25C170.02,-198.75 166.82,-197.2 163.75,-195.62 146.86,-186.95 144.65,-181.28 127.75,-172.62 121.37,-169.36 114.46,-166.23 107.64,-163.36"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="171.8,-203.43 182.36,-204.27 174.62,-197.02 171.8,-203.43"/>
 </a>
 </g>
 </g>

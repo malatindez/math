@@ -54,12 +54,12 @@
 <area shape="poly" id="edge22_Node000015_Node000020" title=" " alt="" coords="461,420,372,450,370,445,459,415"/>
 <area shape="poly" id="edge26_Node000015_Node000024" title=" " alt="" coords="461,422,443,434,428,451,420,468,411,485,395,503,375,516,372,511,391,499,407,482,415,465,423,448,439,430,458,417"/>
 <area shape="poly" id="edge21_Node000018_Node000018" title=" " alt="" coords="344,386,332,380,308,377,287,379,275,384,272,390,278,397,274,400,267,390,271,380,285,374,308,372,334,375,347,382"/>
-<area shape="rect" id="Node000019" href="$d1/d1d/namespacemal__math.html#ae2ea884f0e0c63166d344b52a7633934" title="Rotates a 4x4 matrix using a quaternion." alt="" coords="35,365,146,391"/>
-<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="237,403,146,389,147,384,238,398"/>
-<area shape="rect" id="Node000021" href="$d3/d4f/namespacemal__math_1_1random.html#a2cf25dd98c6a4e844b5b1bdfd7cb0c91" title="Generates a random 2D float direction." alt="" coords="5,415,176,456"/>
-<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="227,459,176,451,177,446,228,454"/>
-<area shape="rect" id="Node000022" href="$d3/d4f/namespacemal__math_1_1random.html#af7cd83426ef8b8cfa4f88ed1b0057eec" title="Generates a random 3D float direction." alt="" coords="5,481,176,521"/>
-<area shape="poly" id="edge24_Node000020_Node000022" title=" " alt="" coords="228,483,177,491,176,486,227,478"/>
-<area shape="rect" id="Node000023" href="$d3/d4f/namespacemal__math_1_1random.html#a71db75e975f5c5eabbd5048cd47a5501" title="Generates a random 4D float direction." alt="" coords="5,546,176,587"/>
-<area shape="poly" id="edge25_Node000020_Node000023" title=" " alt="" coords="238,498,225,505,177,535,150,548,148,543,174,531,222,500,235,494"/>
+<area shape="rect" id="Node000019" href="$d1/d1d/namespacemal__math.html#ae2ea884f0e0c63166d344b52a7633934" title="Rotates a 4x4 matrix using a quaternion." alt="" coords="35,367,146,392"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="237,404,146,390,147,385,238,399"/>
+<area shape="rect" id="Node000021" href="$d3/d4f/namespacemal__math_1_1random.html#a2cf25dd98c6a4e844b5b1bdfd7cb0c91" title="Generates a random 2D float direction." alt="" coords="5,417,176,457"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="227,460,176,452,177,447,228,454"/>
+<area shape="rect" id="Node000022" href="$d3/d4f/namespacemal__math_1_1random.html#af7cd83426ef8b8cfa4f88ed1b0057eec" title="Generates a random 3D float direction." alt="" coords="5,482,176,523"/>
+<area shape="poly" id="edge24_Node000020_Node000022" title=" " alt="" coords="228,484,177,492,176,487,227,479"/>
+<area shape="rect" id="Node000023" href="$d3/d4f/namespacemal__math_1_1random.html#a71db75e975f5c5eabbd5048cd47a5501" title="Generates a random 4D float direction." alt="" coords="5,547,176,588"/>
+<area shape="poly" id="edge25_Node000020_Node000023" title=" " alt="" coords="237,498,225,505,201,520,177,537,150,549,148,544,174,532,198,516,222,500,235,494"/>
 </map>

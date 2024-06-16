@@ -57,7 +57,7 @@
 <area shape="rect" id="Node000030" href="$db/d65/quaternion_8hpp.html" title="Quaternion operations and related mathematical functions." alt="" coords="1620,226,1796,252"/>
 <area shape="poly" id="edge53_Node000016_Node000030" title=" " alt="" coords="1504,180,1664,223,1662,228,1502,185"/>
 <area shape="rect" id="Node000033" href="$db/de9/rmatnxn_8hpp.html" title="Specialized representation of matrices using reference semantics." alt="" coords="1915,226,2080,252"/>
-<area shape="poly" id="edge58_Node000016_Node000033" title=" " alt="" coords="1529,178,1915,226,1914,231,1528,183"/>
+<area shape="poly" id="edge58_Node000016_Node000033" title=" " alt="" coords="1529,178,1915,226,1914,231,1529,183"/>
 <area shape="rect" id="Node000018" href="$d7/de4/box_8hpp.html" title="Defines a templated bounding box class for 3D primitives." alt="" coords="1032,374,1171,399"/>
 <area shape="poly" id="edge29_Node000017_Node000018" title=" " alt="" coords="1466,327,1458,328,1168,376,1168,370,1457,323,1465,322"/>
 <area shape="rect" id="Node000019" href="$d6/d02/intersection_8hpp.html" title="Provides functionalities to represent and handle intersections in 3D space." alt="" coords="1195,374,1376,399"/>
@@ -94,7 +94,7 @@
 <area shape="rect" id="Node000032" href="$d8/d7f/quaternion_8inl.html" title=" " alt="" coords="1819,300,1989,326"/>
 <area shape="poly" id="edge56_Node000030_Node000032" title=" " alt="" coords="1749,255,1865,297,1863,302,1747,260"/>
 <area shape="poly" id="edge57_Node000032_Node000030" title=" " alt="" coords="1863,297,1747,255,1749,250,1864,291"/>
-<area shape="poly" id="edge59_Node000033_Node000016" title=" " alt="" coords="1899,227,1537,181,1514,178,1514,173,1538,176,1900,222"/>
+<area shape="poly" id="edge59_Node000033_Node000016" title=" " alt="" coords="1899,227,1538,181,1514,178,1514,172,1539,176,1900,222"/>
 <area shape="rect" id="Node000034" href="$df/da5/rmatnxn_8inl.html" title=" " alt="" coords="2013,300,2171,326"/>
 <area shape="poly" id="edge60_Node000033_Node000034" title=" " alt="" coords="2020,260,2070,297,2067,302,2017,265"/>
 <area shape="poly" id="edge61_Node000034_Node000033" title=" " alt="" coords="2070,292,2019,255,2022,250,2073,288"/>

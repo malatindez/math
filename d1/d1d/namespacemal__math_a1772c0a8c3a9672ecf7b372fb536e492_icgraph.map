@@ -1,7 +1,7 @@
 <map id="mal_math::max" name="mal_math::max">
 <area shape="rect" id="Node000001" title="Returns a new vector with each element being the maximum of the corresponding element in left and min..." alt="" coords="562,195,665,220"/>
 <area shape="rect" id="Node000002" href="$d1/d1d/namespacemal__math.html#a2cc744886db3eb1957bc8ab02c4f07ba" title="Clamp the value of left between min and max." alt="" coords="240,51,352,76"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,188,513,145,424,107,343,79,345,74,426,102,516,140,584,183"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="581,188,513,146,423,107,342,79,343,74,425,102,516,141,584,183"/>
 <area shape="rect" id="Node000003" href="$d1/d1d/namespacemal__math.html#a155cd682c1a04cbf38d755c37ffe4b80" title="Clamp the value of left between min and max." alt="" coords="240,100,352,126"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="552,192,341,129,343,124,554,187"/>
 <area shape="rect" id="Node000004" href="$d1/d1d/namespacemal__math.html#a62078768f0d05a97bc7bfc7dba63ba1d" title="Clamp the value of left between min and max." alt="" coords="240,248,352,274"/>
@@ -11,7 +11,7 @@
 <area shape="rect" id="Node000010" href="$d1/d1d/namespacemal__math.html#aef6065b4c161e80e15f71159af8119ce" title="Returns a new vector with each element being the minimum of the corresponding element in left and max..." alt="" coords="408,195,509,220"/>
 <area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="547,219,509,219,509,213,547,214"/>
 <area shape="rect" id="Node000011" href="$d1/d1d/namespacemal__math.html#a9df9f049be433c7e1cd8ab01fdef2502" title="Clamp the value of left between min and max in&#45;place." alt="" coords="238,297,354,323"/>
-<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="575,230,515,257,432,283,355,301,354,296,430,277,513,252,573,225"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="576,231,515,258,432,284,355,302,354,297,430,279,513,253,574,226"/>
 <area shape="rect" id="Node000015" href="$d1/d1d/namespacemal__math.html#a4447cd563a68bd32f6497735ee70a3b8" title="Modifies left in&#45;place, setting each element to the minimum of itself and the corresponding element i..." alt="" coords="405,5,511,31"/>
 <area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="597,182,562,122,539,88,512,57,482,34,485,29,516,54,543,85,567,119,601,179"/>
 <area shape="rect" id="Node000016" href="$d1/d1d/namespacemal__math.html#a6471aad090de0ad37483ee8d64562425" title="Modifies left in&#45;place, setting each element to the minimum of itself and max." alt="" coords="405,396,511,422"/>
